@@ -1,0 +1,89 @@
+# RSS Feed Sources
+# tier: wire (highest trust) > news > magazine
+# region: US, EU, Global, etc.
+
+feeds:
+  - id: reuters_world
+    name: Reuters World News
+    rss_url: https://feeds.reuters.com/reuters/worldNews
+    tier: wire
+    region: Global
+
+  - id: reuters_us
+    name: Reuters U.S. News
+    rss_url: https://feeds.reuters.com/Reuters/domesticNews
+    tier: wire
+    region: US
+
+  - id: ap_top
+    name: AP Top News
+    rss_url: https://feeds.apnews.com/rss/apf-topnews
+    tier: wire
+    region: Global
+
+  - id: bbc_world
+    name: BBC World News
+    rss_url: http://feeds.bbci.co.uk/news/world/rss.xml
+    tier: news
+    region: Global
+
+  - id: npr_news
+    name: NPR News
+    rss_url: https://feeds.npr.org/1001/rss.xml
+    tier: news
+    region: US
+
+  - id: guardian_world
+    name: The Guardian World
+    rss_url: https://www.theguardian.com/world/rss
+    tier: news
+    region: Global
+
+  - id: nyt_world
+    name: New York Times World
+    rss_url: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+    tier: news
+    region: Global
+
+  - id: economist
+    name: The Economist
+    rss_url: https://www.economist.com/the-world-this-week/rss.xml
+    tier: magazine
+    region: Global
+
+  # Finance & Economics Sources
+  - id: wsj_world
+    name: Wall Street Journal World
+    rss_url: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+    tier: news
+    region: Global
+
+  - id: wsj_business
+    name: Wall Street Journal Business
+    rss_url: https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml
+    tier: news
+    region: US
+
+  - id: ft_world
+    name: Financial Times World
+    rss_url: https://www.ft.com/world?format=rss
+    tier: news
+    region: Global
+
+  - id: bloomberg
+    name: Bloomberg Markets
+    rss_url: https://feeds.bloomberg.com/markets/news.rss
+    tier: news
+    region: Global
+
+  - id: cnbc_top
+    name: CNBC Top News
+    rss_url: https://www.cnbc.com/id/100003114/device/rss/rss.html
+    tier: news
+    region: Global
+
+  - id: marketwatch
+    name: MarketWatch
+    rss_url: https://feeds.marketwatch.com/marketwatch/topstories/
+    tier: news
+    region: US

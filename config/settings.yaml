@@ -1,0 +1,52 @@
+# News Brief Settings
+
+# Time window for article lookback (hours)
+lookback_hours: 24
+
+# Minimum number of distinct sources required for an event to be included
+min_sources_per_event: 2
+
+# Maximum number of events to include in the brief
+max_events_in_brief: 20
+
+# Similarity threshold for clustering articles (0.0 to 1.0)
+# Lower = more similar articles grouped together
+# Higher = only very similar articles grouped
+similarity_threshold: 0.35
+
+# Topic-specific clustering
+# Financial sources cluster separately with lower threshold
+financial_similarity_threshold: 0.25  # More aggressive clustering for finance
+financial_sources:
+  - wsj_world
+  - wsj_business
+  - ft_world
+  - bloomberg
+  - cnbc_top
+  - marketwatch
+
+# Source tier weights for ranking
+source_tier_weights:
+  wire: 3.0      # Reuters, AP - highest credibility
+  news: 2.0      # BBC, NPR, NYT, Guardian
+  magazine: 1.0  # The Economist, etc.
+
+# Recency decay factor (exponential)
+# Higher = newer articles weighted more heavily
+recency_weight: 0.1
+
+# Banned editorial words for summary generation (optional safeguard)
+# These words suggest opinion rather than fact
+banned_editorial_words:
+  - devastating
+  - shocking
+  - slammed
+  - blasted
+  - outrageous
+  - alarming
+  - stunning
+  - unbelievable
+  - incredible
+
+# Maximum sources to display per event
+max_sources_per_event: 5

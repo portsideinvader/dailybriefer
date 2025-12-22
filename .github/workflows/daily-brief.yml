@@ -1,0 +1,45 @@
+name: Generate Daily Brief
+
+on:
+  schedule:
+    # Run at 6 AM UTC every day (adjust timezone as needed)
+    - cron: '0 6 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+permissions:
+  contents: write
+  pages: write
+
+jobs:
+  generate-brief:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Generate brief
+      run: |
+        python -m src.main
+
+    - name: Copy output to docs folder for GitHub Pages
+      run: |
+        mkdir -p docs
+        cp output/brief.html docs/index.html
+        cp output/brief.md docs/brief.md
+
+    - name: Commit and push if changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add docs/
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update daily brief - $(date +'%Y-%m-%d %H:%M')" && git push)
