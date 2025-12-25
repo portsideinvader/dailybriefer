@@ -1,24 +1,15 @@
-# Morning Brief — 2025-12-24
+# Morning Brief — 2025-12-25
 
-*Generated: 2025-12-24 06:40:09*
+*Generated: 2025-12-25 06:39:30*
 
-- **At least two dead in Pennsylvania nursing home explosion**
-  - [BBC World News](https://www.bbc.com/news/articles/ce3wry1529wo?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2025/12/23/g-s1-103588/deadly-explosion-bristol-nursing-home-pennsylvania), [The Guardian World](https://www.theguardian.com/us-news/2025/dec/23/philadelphia-explosion-nursing-home)
+- **Trump-backed candidate Asfura declared new president of Honduras**
+  - [NPR News](https://www.npr.org/2025/12/25/g-s1-103680/nasry-asfura-winner-honduras-presidential-vote), [New York Times World](https://www.nytimes.com/2025/12/24/world/americas/honduras-election-results-asfura.html), [The Guardian World](https://www.theguardian.com/world/2025/dec/24/honduras-nasry-tito-asfura-declared-president-donald-trump-backed)
 
-- **Gold Tops $4,500 for First Time on Geopolitics, Rates | The Asia Trade 12/24/25**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2025-12-24/the-asia-trade-12-24-2025-video), [CNBC Top News](https://www.cnbc.com/2025/12/24/asia-markets-nikkei-225-hang-seng-index-csi-300.html)
-
-- **Australia to deport British man charged with displaying Nazi symbols**
-  - [The Guardian World](https://www.theguardian.com/australia-news/2025/dec/24/british-man-australian-visa-cancelled-display-nazi-symbols-charge), [BBC World News](https://www.bbc.com/news/articles/cgke51rzpvro?at_medium=RSS&at_campaign=rss)
-
-- **Libya’s army chief dies in plane crash in Turkey**
-  - [The Guardian World](https://www.theguardian.com/world/2025/dec/23/libyas-army-chief-dies-in-plane-crash-in-turkey), [BBC World News](https://www.bbc.com/news/articles/cyvgzyepdqno?at_medium=RSS&at_campaign=rss)
-
-- **Supreme Court rules against Trump in National Guard case**
-  - [The Guardian World](https://www.theguardian.com/us-news/2025/dec/23/supreme-court-blocks-trump-national-guard-chicago), [NPR News](https://www.npr.org/2025/12/23/nx-s1-5641959/supreme-court-chicago-national-guard)
+- **Groq execs to join Nvidia as part of AI-chip licensing deal**
+  - [MarketWatch](https://www.marketwatch.com/story/groq-execs-to-join-nvidia-as-part-of-ai-chip-licensing-deal-1d155338?mod=mw_rss_topstories), [Financial Times World](https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45), [CNBC Top News](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
 
 
 ---
 
-**Stats**: 5 events
- | 11 articles | 11 distinct source mentions
+**Stats**: 2 events
+ | 6 articles | 6 distinct source mentions
