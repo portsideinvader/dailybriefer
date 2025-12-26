@@ -1,15 +1,18 @@
-# Morning Brief — 2025-12-25
+# Morning Brief — 2025-12-26
 
-*Generated: 2025-12-25 06:39:30*
+*Generated: 2025-12-26 06:39:00*
 
-- **Trump-backed candidate Asfura declared new president of Honduras**
-  - [NPR News](https://www.npr.org/2025/12/25/g-s1-103680/nasry-asfura-winner-honduras-presidential-vote), [New York Times World](https://www.nytimes.com/2025/12/24/world/americas/honduras-election-results-asfura.html), [The Guardian World](https://www.theguardian.com/world/2025/dec/24/honduras-nasry-tito-asfura-declared-president-donald-trump-backed)
+- **US launches deadly strikes against Islamic State in Nigeria, says Trump**
+  - [BBC World News](https://www.bbc.com/news/articles/cj69j8l918do?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2025/dec/25/us-carries-out-airstrikes-against-islamic-state-terrorist-scum-in-nigeria-trump-says)
 
-- **Groq execs to join Nvidia as part of AI-chip licensing deal**
-  - [MarketWatch](https://www.marketwatch.com/story/groq-execs-to-join-nvidia-as-part-of-ai-chip-licensing-deal-1d155338?mod=mw_rss_topstories), [Financial Times World](https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45), [CNBC Top News](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
+- **A Powerball player in Arkansas has won a $1.817 billion lottery jackpot**
+  - [The Guardian World](https://www.theguardian.com/us-news/2025/dec/25/arkansas-powerball-christmas-eve), [NPR News](https://www.npr.org/2025/12/25/g-s1-103683/powerball-player-arkansas-won-jackpot)
+
+- **Front-runner to be Bangladesh PM returns after 17 years in exile**
+  - [New York Times World](https://www.nytimes.com/2025/12/25/world/asia/bangladesh-tarique-rahman-return-exile.html), [BBC World News](https://www.bbc.com/news/articles/crk733k1k1eo?at_medium=RSS&at_campaign=rss)
 
 
 ---
 
-**Stats**: 2 events
+**Stats**: 3 events
  | 6 articles | 6 distinct source mentions
