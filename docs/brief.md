@@ -1,21 +1,24 @@
-# Morning Brief — 2025-12-31
+# Morning Brief — 2026-01-01
 
-*Generated: 2025-12-31 06:40:04*
+*Generated: 2026-01-01 06:40:14*
 
-- **China Factory Activity Grows, Ending Longest Slump on Record**
-  - [Financial Times World](https://www.ft.com/content/96f89c79-1127-4fb5-94c2-5a9dcb7f3646), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2025-12-31/china-factory-activity-expands-ending-longest-slump-on-record)
+- **Zohran Mamdani sworn in as mayor of New York City**
+  - [NPR News](https://www.npr.org/2026/01/01/nx-s1-5663372/zohran-mamdani-sworn-in-as-new-york-city-mayor-capping-historic-rise), [The Guardian World](https://www.theguardian.com/us-news/2026/jan/01/zohran-mamdani-sworn-in-mayor-new-york-city)
 
-- **Israel to bar 37 aid groups from Gaza**
-  - [BBC World News](https://www.bbc.com/news/articles/c1evp7weyv2o?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2025/12/30/g-s1-103986/israel-gaza-aid-ngos)
+- **Photos: The world welcomes the new year**
+  - [BBC World News](https://www.bbc.com/news/articles/c050j896q2do?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/sections/the-picture-show/2025/12/31/nx-s1-5662712/photos-world-new-years-eve)
 
-- **Minutes Show Most Fed Officials Expect Additional Rate Cuts**
-  - [CNBC Top News](https://www.cnbc.com/2025/12/30/fed-minutes-december-2025.html), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2025-12-30/minutes-show-most-fed-officials-expect-more-rate-cuts-video)
+- **Warren Buffett Steps Back from Berkshire**
+  - [Financial Times World](https://www.ft.com/content/790b3a97-9ec3-4403-aaa8-ac518a2694a9), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2025-12-31/warren-buffet-steps-back-from-berkshire-video)
 
-- **UAE promises to withdraw forces from Yemen after bombing by Saudi Arabia**
-  - [BBC World News](https://www.bbc.com/news/articles/c8xdxz48l7yo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2025/dec/30/saudi-arabia-bombs-yemen-over-weapons-shipment-alleged-uae)
+- **Finnish police seize ship suspected of sabotaging undersea cable**
+  - [New York Times World](https://www.nytimes.com/2025/12/31/world/europe/underwater-cable-damaged-sabotage-finland-estonia.html), [BBC World News](https://www.bbc.com/news/articles/c62040np372o?at_medium=RSS&at_campaign=rss)
+
+- **Mali and Burkina Faso Impose Travel Bans on Americans**
+  - [New York Times World](https://www.nytimes.com/2025/12/31/world/africa/mali-burkina-faso-us-travel-ban.html), [BBC World News](https://www.bbc.com/news/articles/cgrdjx1d1vjo?at_medium=RSS&at_campaign=rss)
 
 
 ---
 
-**Stats**: 4 events
- | 8 articles | 8 distinct source mentions
+**Stats**: 5 events
+ | 10 articles | 10 distinct source mentions
