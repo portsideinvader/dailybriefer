@@ -1,27 +1,30 @@
-# Morning Brief — 2026-01-02
+# Morning Brief — 2026-01-03
 
-*Generated: 2026-01-02 06:40:12*
+*Generated: 2026-01-03 06:37:24*
 
-- **Swiss Alps Ski Resort Fire: What We Know**
-  - [New York Times World](https://www.nytimes.com/2026/01/01/world/europe/what-happened-fire-switzerland-ski-resort.html), [BBC World News](https://www.bbc.com/news/articles/c9dvyyjyj18o?at_medium=RSS&at_campaign=rss)
+- **Swiss Bar Fire Likely Caused By Sparklers, Authorities Say**
+  - [New York Times World](https://www.nytimes.com/live/2026/01/02/world/switzerland-ski-resort-fire), [New York Times World](https://www.nytimes.com/2026/01/02/world/europe/switzerland-ski-resort-bar-fire-crans-montana.html), [BBC World News](https://www.bbc.com/news/articles/cq6v41jg9jzo?at_medium=RSS&at_campaign=rss)
 
-- **AI Chip Designer Biren’s Shares Double on Debut in Hong Kong**
-  - [CNBC Top News](https://www.cnbc.com/2026/01/02/baidus-semiconductor-kunlunxin-hong-kong-ipo-ai-chips-listing-china.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-02/baidu-s-ai-chip-unit-kunlunxin-confidentially-files-for-hong-kong-ipo), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-02/ai-chip-designer-biren-to-debut-after-717-million-hong-kong-ipo)
+- **Tesla Electric Vehicle Sales Decline 8.6% in 2025**
+  - [Financial Times World](https://www.ft.com/content/1c7d0e22-ea15-400f-ad05-69abe13be23c), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-02/tesla-electric-vehicle-sales-decline-8-6-in-2025-video)
 
-- **Maduro says Venezuela open to US talks on drug trafficking**
-  - [The Guardian World](https://www.theguardian.com/world/2026/jan/02/venezuela-maduro-open-to-talks-drug-trafficking-maduro), [BBC World News](https://www.bbc.com/news/articles/clyg23lj057o?at_medium=RSS&at_campaign=rss)
+- **What to Know About the Swiss Ski Resort Fire on New Year’s Day**
+  - [BBC World News](https://www.bbc.com/news/articles/c9dvyyjyj18o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/01/01/world/europe/what-happened-fire-switzerland-ski-resort.html)
 
-- **Dozens Killed in Fire at Swiss Resort of Crans-Montana**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-02/about-40-killed-in-fire-at-swiss-resort-of-crans-montana-video), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-02/dozens-killed-in-fire-at-swiss-resort-of-crans-montana-video), [Financial Times World](https://www.ft.com/content/b2cd91db-1b7b-422f-9d8c-5908a5a1a44b)
+- **FTSE 100 tops 10,000 for first time in new year rally**
+  - [Financial Times World](https://www.ft.com/content/86286e3f-f206-437a-a634-af630d616090), [CNBC Top News](https://www.cnbc.com/2026/01/02/european-markets-on-january-2-stoxx-600-ftse-dax-cac-gold-silver.html)
 
-- **What Wall Street Expects in 2026**
-  - [Bloomberg Markets](https://www.bloomberg.com/graphics/2026-investment-outlooks/), [MarketWatch](https://www.marketwatch.com/story/wall-street-is-starting-2026-with-echoes-of-2000s-dot-com-woes-1accb670?mod=mw_rss_topstories), [Bloomberg Markets](https://www.bloomberg.com/news/audio/2026-01-01/what-wall-street-expects-in-2026)
+- **Tesla loses EV crown to China’s BYD**
+  - [Financial Times World](https://www.ft.com/content/c1c5f811-7b3f-4011-8e1e-cccb5aa80313), [CNBC Top News](https://www.cnbc.com/2026/01/02/chinas-byd-to-overtake-tesla-as-worlds-top-ev-seller-for-first-time.html)
 
-- **US retreats from Trump’s Italian pasta tariffs**
-  - [Financial Times World](https://www.ft.com/content/670b11be-83a6-4d1e-83b7-91e65afea514), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-01/us-to-cut-tariffs-on-imported-pasta-italy-foreign-ministry-says)
+- **Anthony Joshua's driver charged over Nigeria crash that killed two**
+  - [The Guardian World](https://www.theguardian.com/world/2026/jan/02/anthony-joshuas-driver-charged-with-dangerous-driving-after-fatal-crash-in-nigeria), [BBC World News](https://www.bbc.com/news/articles/c5y2jrdnnqyo?at_medium=RSS&at_campaign=rss)
+
+- **Trump warns Iran that US will ‘rescue’ protesters**
+  - [Financial Times World](https://www.ft.com/content/1aa432f5-1d01-4fcd-b6d9-c17d67d01ea5), [CNBC Top News](https://www.cnbc.com/2026/01/02/trump-says-us-will-intervene-if-iran-violently-kills-protestors.html)
 
 
 ---
 
-**Stats**: 6 events
- | 15 articles | 12 distinct source mentions
+**Stats**: 7 events
+ | 15 articles | 14 distinct source mentions
