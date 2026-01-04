@@ -1,30 +1,30 @@
-# Morning Brief — 2026-01-03
+# Morning Brief — 2026-01-04
 
-*Generated: 2026-01-03 06:37:24*
+*Generated: 2026-01-04 06:38:28*
 
-- **Swiss Bar Fire Likely Caused By Sparklers, Authorities Say**
-  - [New York Times World](https://www.nytimes.com/live/2026/01/02/world/switzerland-ski-resort-fire), [New York Times World](https://www.nytimes.com/2026/01/02/world/europe/switzerland-ski-resort-bar-fire-crans-montana.html), [BBC World News](https://www.bbc.com/news/articles/cq6v41jg9jzo?at_medium=RSS&at_campaign=rss)
+- **What we know about Maduro's capture and US plan to 'run' Venezuela**
+  - [BBC World News](https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/01/03/world/americas/venezuela-maduro-capture-trump.html), [New York Times World](https://www.nytimes.com/2026/01/03/us/politics/maduro-venezuela-trump-legal-issues.html), [NPR News](https://www.npr.org/2026/01/03/nx-s1-5665670/venezuela-strikes-us-maduro)
 
-- **Tesla Electric Vehicle Sales Decline 8.6% in 2025**
-  - [Financial Times World](https://www.ft.com/content/1c7d0e22-ea15-400f-ad05-69abe13be23c), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-02/tesla-electric-vehicle-sales-decline-8-6-in-2025-video)
+- **Trump now owns Venezuela**
+  - [Financial Times World](https://www.ft.com/content/6df65f0a-bcbc-4ac8-a0d3-0d2537b3da05), [Financial Times World](https://www.ft.com/content/8e3b1a88-b037-457c-8ca8-798f203b6011), [Financial Times World](https://www.ft.com/content/48be0c3d-0a37-4aac-be47-f15f7f1761b8), [Financial Times World](https://www.ft.com/content/7772cf0f-c5ab-4d9c-b9a2-aa2164049c5e), [Financial Times World](https://www.ft.com/content/43888865-8e3c-44fa-8901-54b8d21103f6) (+3 more)
 
-- **What to Know About the Swiss Ski Resort Fire on New Year’s Day**
-  - [BBC World News](https://www.bbc.com/news/articles/c9dvyyjyj18o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/01/01/world/europe/what-happened-fire-switzerland-ski-resort.html)
+- **Maduro Arrives in N.Y.; Trump Says U.S. Will ‘Run’ Venezuela**
+  - [New York Times World](https://www.nytimes.com/live/2026/01/03/world/trump-united-states-strikes-venezuela), [The Guardian World](https://www.theguardian.com/us-news/2026/jan/03/trump-venezuela-oil-industry)
 
-- **FTSE 100 tops 10,000 for first time in new year rally**
-  - [Financial Times World](https://www.ft.com/content/86286e3f-f206-437a-a634-af630d616090), [CNBC Top News](https://www.cnbc.com/2026/01/02/european-markets-on-january-2-stoxx-600-ftse-dax-cac-gold-silver.html)
+- **Why Trump Removed Venezuela’s Maduro**
+  - [New York Times World](https://www.nytimes.com/video/world/americas/100000010622273/why-trump-removed-venezuelas-maduro.html), [BBC World News](https://www.bbc.com/news/articles/c93n4nx5yqro?at_medium=RSS&at_campaign=rss)
 
-- **Tesla loses EV crown to China’s BYD**
-  - [Financial Times World](https://www.ft.com/content/c1c5f811-7b3f-4011-8e1e-cccb5aa80313), [CNBC Top News](https://www.cnbc.com/2026/01/02/chinas-byd-to-overtake-tesla-as-worlds-top-ev-seller-for-first-time.html)
+- **What the US Strike on Venezuela Means for Oil**
+  - [Financial Times World](https://www.ft.com/content/b395033a-bb3a-4022-a58c-60594e73512c), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-03/what-the-us-strike-on-venezuela-means-for-oil-video)
 
-- **Anthony Joshua's driver charged over Nigeria crash that killed two**
-  - [The Guardian World](https://www.theguardian.com/world/2026/jan/02/anthony-joshuas-driver-charged-with-dangerous-driving-after-fatal-crash-in-nigeria), [BBC World News](https://www.bbc.com/news/articles/c5y2jrdnnqyo?at_medium=RSS&at_campaign=rss)
+- **Swiss prosecutors place bar managers under investigation after deadly fire**
+  - [BBC World News](https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/jan/03/swiss-prosecutors-place-bar-managers-investigation-deadly-fire)
 
-- **Trump warns Iran that US will ‘rescue’ protesters**
-  - [Financial Times World](https://www.ft.com/content/1aa432f5-1d01-4fcd-b6d9-c17d67d01ea5), [CNBC Top News](https://www.cnbc.com/2026/01/02/trump-says-us-will-intervene-if-iran-violently-kills-protestors.html)
+- **US Strikes Venezuela, Maduro Captured and Indicted**
+  - [Financial Times World](https://www.ft.com/content/46ee8a0f-d421-4f7d-9514-297a576ec346), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-03/us-strikes-venezuela-captures-maduro-video)
 
 
 ---
 
 **Stats**: 7 events
- | 15 articles | 14 distinct source mentions
+ | 22 articles | 16 distinct source mentions
