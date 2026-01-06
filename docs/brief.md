@@ -1,21 +1,24 @@
-# Morning Brief — 2026-01-05
+# Morning Brief — 2026-01-06
 
-*Generated: 2026-01-05 06:45:45*
+*Generated: 2026-01-06 06:41:01*
 
-- **Oil prices fall after Trump’s Venezuela strikes**
-  - [Financial Times World](https://www.ft.com/content/4a21608d-363c-467c-9698-b6c083715493), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-05/foreign-oil-claims-in-venezuela-in-doubt-after-us-intervention)
+- **Venezuela Regroups as Maduro Pleads Not Guilty in Court**
+  - [Financial Times World](https://www.ft.com/content/e4d84f5f-0e7c-423d-8026-33f78331f06e), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-06/venezeuala-regroups-as-maduro-pleads-not-guilty-in-court-video), [CNBC Top News](https://www.cnbc.com/2026/01/05/venezuela-maduro-court-trump.html)
 
-- **What's Next for Oil Market After US Captures Maduro?**
-  - [CNBC Top News](https://www.cnbc.com/2026/01/05/asia-pacific-markets-brent-crude-wti-oil-venezuela-maduro-nikkei-225-hang-seng-index-oil.html), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-05/what-s-next-for-oil-market-after-us-captures-maduro-video)
+- **Venezuela swears in interim president after defiant Maduro pleads not guilty**
+  - [BBC World News](https://www.bbc.com/news/articles/ce8gen8nnvlo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/jan/05/maduro-pleads-not-guilty)
 
-- **Trump plans to ‘run’ Venezuela. What now?**
-  - [Financial Times World](https://www.ft.com/content/cdfa0a94-dacc-41a3-9965-06b827c6cdaf), [MarketWatch](https://www.marketwatch.com/story/trump-says-u-s-has-captured-maduro-what-happens-next-in-markets-46fae56e?mod=mw_rss_topstories)
+- **Stocks Extend Record-Breaking Rally, Silver Jumps: Markets Wrap**
+  - [CNBC Top News](https://www.cnbc.com/2026/01/06/asia-pacific-markets-today-tuesday-nikkei-225-kospi-hsi-hang-send-index-venezuela-maduro.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-05/stock-market-today-dow-s-p-live-updates)
 
-- **Denmark tells Trump to stop threatening to seize Greenland**
-  - [Financial Times World](https://www.ft.com/content/daae6947-7d25-470d-8980-43546dcd8e22), [CNBC Top News](https://www.cnbc.com/2026/01/04/trump-denmark-greenland-frederiksen-venezuela.html)
+- **Eva Schloss, Anne Frank’s Stepsister and Holocaust Survivor, Dies at 96**
+  - [New York Times World](https://www.nytimes.com/2026/01/05/world/europe/eva-schloss-dead.html), [NPR News](https://www.npr.org/2026/01/05/g-s1-104538/eva-schloss-dies-holocaust-survivor-anne-frank-stepsister-auschwitz)
+
+- **Bluefin tuna fetches record $3.2m at Tokyo auction**
+  - [The Guardian World](https://www.theguardian.com/world/2026/jan/05/giant-bluefin-tuna-sold-record-amount-tokyo-auction-kiyoshi-kimura), [BBC World News](https://www.bbc.com/news/articles/c8d0q16zvzgo?at_medium=RSS&at_campaign=rss)
 
 
 ---
 
-**Stats**: 4 events
- | 8 articles | 8 distinct source mentions
+**Stats**: 5 events
+ | 11 articles | 11 distinct source mentions
