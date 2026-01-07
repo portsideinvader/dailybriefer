@@ -1,24 +1,27 @@
-# Morning Brief — 2026-01-06
+# Morning Brief — 2026-01-07
 
-*Generated: 2026-01-06 06:41:01*
+*Generated: 2026-01-07 06:40:52*
 
-- **Venezuela Regroups as Maduro Pleads Not Guilty in Court**
-  - [Financial Times World](https://www.ft.com/content/e4d84f5f-0e7c-423d-8026-33f78331f06e), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-06/venezeuala-regroups-as-maduro-pleads-not-guilty-in-court-video), [CNBC Top News](https://www.cnbc.com/2026/01/05/venezuela-maduro-court-trump.html)
+- **Trump says Venezuela will turn over oil to US**
+  - [Financial Times World](https://www.ft.com/content/08ca8f8e-6e52-4344-9c0d-2433e98e204c), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-07/trump-says-modi-unhappy-over-tariffs-cuts-russian-oil-imports), [CNBC Top News](https://www.cnbc.com/2026/01/06/trump-venezuela-oil.html), [MarketWatch](https://www.marketwatch.com/story/trump-says-venezuela-will-send-u-s-up-to-50-million-barrels-of-oil-and-hell-control-the-proceeds-5e05efa0?mod=mw_rss_topstories), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-06/venezuela-to-send-us-up-to-50-million-barrels-of-oil-trump-says) (+1 more)
 
-- **Venezuela swears in interim president after defiant Maduro pleads not guilty**
-  - [BBC World News](https://www.bbc.com/news/articles/ce8gen8nnvlo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/jan/05/maduro-pleads-not-guilty)
+- **Trump Says Venezuela Will Start Handing Over Some Oil to U.S.**
+  - [New York Times World](https://www.nytimes.com/live/2026/01/06/world/venezuela-maduro-us-trump), [BBC World News](https://www.bbc.com/news/articles/c4grxzxjjd8o?at_medium=RSS&at_campaign=rss)
 
-- **Stocks Extend Record-Breaking Rally, Silver Jumps: Markets Wrap**
-  - [CNBC Top News](https://www.cnbc.com/2026/01/06/asia-pacific-markets-today-tuesday-nikkei-225-kospi-hsi-hang-send-index-venezuela-maduro.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-05/stock-market-today-dow-s-p-live-updates)
+- **Chevron and Quantum Energy to Bid for Lukoil Assets, FT Says**
+  - [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-07/chevron-and-quantum-energy-to-bid-for-lukoil-assets-ft-says), [Financial Times World](https://www.ft.com/content/20e6d968-54c9-40ce-b9fd-bc066a908fff)
 
-- **Eva Schloss, Anne Frank’s Stepsister and Holocaust Survivor, Dies at 96**
-  - [New York Times World](https://www.nytimes.com/2026/01/05/world/europe/eva-schloss-dead.html), [NPR News](https://www.npr.org/2026/01/05/g-s1-104538/eva-schloss-dies-holocaust-survivor-anne-frank-stepsister-auschwitz)
+- **White House says using US military is ‘always an option’ for acquiring Greenland**
+  - [BBC World News](https://www.bbc.com/news/articles/cwyg1jg8xkmo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/jan/06/trump-greenland-control-us-military)
 
-- **Bluefin tuna fetches record $3.2m at Tokyo auction**
-  - [The Guardian World](https://www.theguardian.com/world/2026/jan/05/giant-bluefin-tuna-sold-record-amount-tokyo-auction-kiyoshi-kimura), [BBC World News](https://www.bbc.com/news/articles/c8d0q16zvzgo?at_medium=RSS&at_campaign=rss)
+- **Aldrich Ames, CIA agent who sold secrets to the Soviets, dies aged 84**
+  - [BBC World News](https://www.bbc.com/news/articles/cj0n29395j3o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/jan/06/aldrich-ames-cia-agent-dead)
+
+- **Swiss ski bar not inspected for five years before deadly fire, mayor says**
+  - [New York Times World](https://www.nytimes.com/2026/01/06/world/europe/switzerland-le-constellation-fire-inspections.html), [BBC World News](https://www.bbc.com/news/articles/cdx4zxk1np0o?at_medium=RSS&at_campaign=rss)
 
 
 ---
 
-**Stats**: 5 events
- | 11 articles | 11 distinct source mentions
+**Stats**: 6 events
+ | 16 articles | 14 distinct source mentions
