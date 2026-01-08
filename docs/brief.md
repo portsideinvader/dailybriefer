@@ -1,27 +1,33 @@
-# Morning Brief — 2026-01-07
+# Morning Brief — 2026-01-08
 
-*Generated: 2026-01-07 06:40:52*
+*Generated: 2026-01-08 06:41:05*
 
-- **Trump says Venezuela will turn over oil to US**
-  - [Financial Times World](https://www.ft.com/content/08ca8f8e-6e52-4344-9c0d-2433e98e204c), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-07/trump-says-modi-unhappy-over-tariffs-cuts-russian-oil-imports), [CNBC Top News](https://www.cnbc.com/2026/01/06/trump-venezuela-oil.html), [MarketWatch](https://www.marketwatch.com/story/trump-says-venezuela-will-send-u-s-up-to-50-million-barrels-of-oil-and-hell-control-the-proceeds-5e05efa0?mod=mw_rss_topstories), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-06/venezuela-to-send-us-up-to-50-million-barrels-of-oil-trump-says) (+1 more)
+- **Watch: US seizes oil tanker in Caribbean sea**
+  - [New York Times World](https://www.nytimes.com/2026/01/07/world/americas/venezuela-us-oil.html), [The Guardian World](https://www.theguardian.com/world/2026/jan/07/russia-submarine-escort-shadow-fleet-tanker-us-sanctions), [BBC World News](https://www.bbc.com/news/videos/c9wx5q2v8rwo?at_medium=RSS&at_campaign=rss)
 
-- **Trump Says Venezuela Will Start Handing Over Some Oil to U.S.**
-  - [New York Times World](https://www.nytimes.com/live/2026/01/06/world/venezuela-maduro-us-trump), [BBC World News](https://www.bbc.com/news/articles/c4grxzxjjd8o?at_medium=RSS&at_campaign=rss)
+- **ICE Agent Fatally Shoots Woman in Minneapolis**
+  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-08/ice-agent-fatally-shoots-woman-in-minneapolis-video), [CNBC Top News](https://www.cnbc.com/2026/01/07/ice-dhs-minneapolis-shooting.html)
 
-- **Chevron and Quantum Energy to Bid for Lukoil Assets, FT Says**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-07/chevron-and-quantum-energy-to-bid-for-lukoil-assets-ft-says), [Financial Times World](https://www.ft.com/content/20e6d968-54c9-40ce-b9fd-bc066a908fff)
+- **Cambodia extradites alleged scam mastermind to China after arrest**
+  - [BBC World News](https://www.bbc.com/news/articles/cy4q8e88n2vo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/jan/08/alleged-scam-kingpin-chen-zhi-extradited-china-cambodia-arrest)
 
-- **White House says using US military is ‘always an option’ for acquiring Greenland**
-  - [BBC World News](https://www.bbc.com/news/articles/cwyg1jg8xkmo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/jan/06/trump-greenland-control-us-military)
+- **Chinese 'AI Tiger' Z.ai Jumps in Hong Kong Debut**
+  - [CNBC Top News](https://www.cnbc.com/2026/01/08/china-ai-tiger-goes-ipo-zhipu-hong-kong-debut-openai-knowledge-atlas-hsi-hang-seng-listing.html), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-08/z-ai-chairman-liu-debing-speaks-with-btv-video)
 
-- **Aldrich Ames, CIA agent who sold secrets to the Soviets, dies aged 84**
-  - [BBC World News](https://www.bbc.com/news/articles/cj0n29395j3o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/jan/06/aldrich-ames-cia-agent-dead)
+- **Trump says he will not permit dividends and stock buybacks for defense companies**
+  - [MarketWatch](https://www.marketwatch.com/story/lockheed-and-northrop-shares-dive-as-trump-says-hell-not-permit-dividends-and-buybacks-in-defense-sector-14266ecb?mod=mw_rss_topstories), [CNBC Top News](https://www.cnbc.com/2026/01/07/trump-dividends-stock-buybacks-defense-companies.html)
 
-- **Swiss ski bar not inspected for five years before deadly fire, mayor says**
-  - [New York Times World](https://www.nytimes.com/2026/01/06/world/europe/switzerland-le-constellation-fire-inspections.html), [BBC World News](https://www.bbc.com/news/articles/cdx4zxk1np0o?at_medium=RSS&at_campaign=rss)
+- **Reality TV star Spencer Pratt announces run for LA mayor**
+  - [BBC World News](https://www.bbc.com/news/articles/c9dv5zdl7ydo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/jan/07/spencer-pratt-los-angeles-mayor-wildfires)
+
+- **Nick Reiner's attorney removes himself from case**
+  - [BBC World News](https://www.bbc.com/news/articles/c0ke5lx6kyno?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2026/01/07/nx-s1-5667593/nick-reiner-attorney-arraignment)
+
+- **Swiss Bar Hit by Deadly Fire Was Not Inspected for 6 Years, Authorities Say**
+  - [BBC World News](https://www.bbc.com/news/articles/c74wexkd598o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/01/06/world/europe/switzerland-le-constellation-fire-inspections.html)
 
 
 ---
 
-**Stats**: 6 events
- | 16 articles | 14 distinct source mentions
+**Stats**: 8 events
+ | 17 articles | 17 distinct source mentions
