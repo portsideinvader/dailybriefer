@@ -1,33 +1,21 @@
-# Morning Brief — 2026-01-08
+# Morning Brief — 2026-01-09
 
-*Generated: 2026-01-08 06:41:05*
+*Generated: 2026-01-09 06:41:01*
 
-- **Watch: US seizes oil tanker in Caribbean sea**
-  - [New York Times World](https://www.nytimes.com/2026/01/07/world/americas/venezuela-us-oil.html), [The Guardian World](https://www.theguardian.com/world/2026/jan/07/russia-submarine-escort-shadow-fleet-tanker-us-sanctions), [BBC World News](https://www.bbc.com/news/videos/c9wx5q2v8rwo?at_medium=RSS&at_campaign=rss)
+- **Trump wants purchase of $200 billion in mortgage bonds. What that means for mortgage rates.**
+  - [MarketWatch](https://www.marketwatch.com/story/trump-suggests-his-representatives-will-buy-200-billion-in-mortgage-bonds-what-it-means-for-mortgage-rates-9524491d?mod=mw_rss_topstories), [CNBC Top News](https://www.cnbc.com/2026/01/08/trump-mortgage-bonds-rates-fannie-freddie.html)
 
-- **ICE Agent Fatally Shoots Woman in Minneapolis**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-08/ice-agent-fatally-shoots-woman-in-minneapolis-video), [CNBC Top News](https://www.cnbc.com/2026/01/07/ice-dhs-minneapolis-shooting.html)
+- **What Is the UNFCCC and Why Is the U.S. Pulling Out?**
+  - [NPR News](https://www.npr.org/sections/goats-and-soda/2026/01/08/nx-s1-5671117/trump-withdrawal-united-nations-health), [New York Times World](https://www.nytimes.com/2026/01/07/climate/what-is-unfccc-climate-treaty.html)
 
-- **Cambodia extradites alleged scam mastermind to China after arrest**
-  - [BBC World News](https://www.bbc.com/news/articles/cy4q8e88n2vo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/jan/08/alleged-scam-kingpin-chen-zhi-extradited-china-cambodia-arrest)
+- **Who was Renee Nicole Good?**
+  - [NPR News](https://www.npr.org/2026/01/08/nx-s1-5671206/who-was-renee-nicole-good), [BBC World News](https://www.bbc.com/news/articles/c1jepdjy256o?at_medium=RSS&at_campaign=rss)
 
-- **Chinese 'AI Tiger' Z.ai Jumps in Hong Kong Debut**
-  - [CNBC Top News](https://www.cnbc.com/2026/01/08/china-ai-tiger-goes-ipo-zhipu-hong-kong-debut-openai-knowledge-atlas-hsi-hang-seng-listing.html), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-08/z-ai-chairman-liu-debing-speaks-with-btv-video)
-
-- **Trump says he will not permit dividends and stock buybacks for defense companies**
-  - [MarketWatch](https://www.marketwatch.com/story/lockheed-and-northrop-shares-dive-as-trump-says-hell-not-permit-dividends-and-buybacks-in-defense-sector-14266ecb?mod=mw_rss_topstories), [CNBC Top News](https://www.cnbc.com/2026/01/07/trump-dividends-stock-buybacks-defense-companies.html)
-
-- **Reality TV star Spencer Pratt announces run for LA mayor**
-  - [BBC World News](https://www.bbc.com/news/articles/c9dv5zdl7ydo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/jan/07/spencer-pratt-los-angeles-mayor-wildfires)
-
-- **Nick Reiner's attorney removes himself from case**
-  - [BBC World News](https://www.bbc.com/news/articles/c0ke5lx6kyno?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2026/01/07/nx-s1-5667593/nick-reiner-attorney-arraignment)
-
-- **Swiss Bar Hit by Deadly Fire Was Not Inspected for 6 Years, Authorities Say**
-  - [BBC World News](https://www.bbc.com/news/articles/c74wexkd598o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/01/06/world/europe/switzerland-le-constellation-fire-inspections.html)
+- **US involvement in Venezuela could last years, Trump says**
+  - [New York Times World](https://www.nytimes.com/2026/01/08/us/politics/trump-interview-venezuela.html), [BBC World News](https://www.bbc.com/news/articles/cx20gyn8qvvo?at_medium=RSS&at_campaign=rss)
 
 
 ---
 
-**Stats**: 8 events
- | 17 articles | 17 distinct source mentions
+**Stats**: 4 events
+ | 8 articles | 8 distinct source mentions
