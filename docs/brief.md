@@ -1,21 +1,30 @@
-# Morning Brief — 2026-01-09
+# Morning Brief — 2026-01-10
 
-*Generated: 2026-01-09 06:41:01*
+*Generated: 2026-01-10 06:36:36*
 
-- **Trump wants purchase of $200 billion in mortgage bonds. What that means for mortgage rates.**
-  - [MarketWatch](https://www.marketwatch.com/story/trump-suggests-his-representatives-will-buy-200-billion-in-mortgage-bonds-what-it-means-for-mortgage-rates-9524491d?mod=mw_rss_topstories), [CNBC Top News](https://www.cnbc.com/2026/01/08/trump-mortgage-bonds-rates-fannie-freddie.html)
+- **Trump Says Venezuela Is Open for Business**
+  - [Financial Times World](https://www.ft.com/content/4e0eab9d-3195-42f0-add1-661187ce4099), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-09/trump-says-venezuela-is-open-for-business-video), [CNBC Top News](https://www.cnbc.com/2026/01/09/trump-says-hes-cancelled-attacks-on-venezuela-touts-100bn-oil-investment.html)
 
-- **What Is the UNFCCC and Why Is the U.S. Pulling Out?**
-  - [NPR News](https://www.npr.org/sections/goats-and-soda/2026/01/08/nx-s1-5671117/trump-withdrawal-united-nations-health), [New York Times World](https://www.nytimes.com/2026/01/07/climate/what-is-unfccc-climate-treaty.html)
+- **Trump calls for credit card interest rates to be capped at 10%**
+  - [MarketWatch](https://www.marketwatch.com/story/trump-says-hell-cap-credit-card-interest-rates-at-10-as-americans-battle-soaring-debt-79e23bec?mod=mw_rss_topstories), [Financial Times World](https://www.ft.com/content/52a8bc1f-05a9-4d5e-b2cc-aa2591ac4471)
 
-- **Who was Renee Nicole Good?**
-  - [NPR News](https://www.npr.org/2026/01/08/nx-s1-5671206/who-was-renee-nicole-good), [BBC World News](https://www.bbc.com/news/articles/c1jepdjy256o?at_medium=RSS&at_campaign=rss)
+- **Trump Urges Oil Companies to Speed Work in Venezuela**
+  - [New York Times World](https://www.nytimes.com/2026/01/09/world/americas/trump-oil-venezuela.html), [The Guardian World](https://www.theguardian.com/us-news/2026/jan/09/trump-oil-company-executives-meeting-venezuela)
 
-- **US involvement in Venezuela could last years, Trump says**
-  - [New York Times World](https://www.nytimes.com/2026/01/08/us/politics/trump-interview-venezuela.html), [BBC World News](https://www.bbc.com/news/articles/cx20gyn8qvvo?at_medium=RSS&at_campaign=rss)
+- **US oil giant ExxonMobil tells Trump Venezuela is ‘uninvestable’**
+  - [Financial Times World](https://www.ft.com/content/4c21c031-443e-4834-a7a6-3dd59672b54e), [CNBC Top News](https://www.cnbc.com/2026/01/09/trump-venezuela-oil-executives-white-house-meeting.html)
+
+- **Mortgage rates drop to lowest level in nearly 3 years as Trump orders buying of $200 billion in mortgage bonds**
+  - [CNBC Top News](https://www.cnbc.com/2026/01/09/heres-whats-happening-now-with-mortgage-rates-.html), [MarketWatch](https://www.marketwatch.com/story/mortgage-rates-drop-below-6-for-the-first-time-in-3-years-as-trump-floats-purchase-of-mortgage-bonds-2636b0d7?mod=mw_rss_topstories)
+
+- **Trump posted jobs data early on Truth Social**
+  - [Financial Times World](https://www.ft.com/content/2dc5bbba-921a-4660-84c4-f3998300c889), [CNBC Top News](https://www.cnbc.com/2026/01/09/trump-revealed-jobs-data-early.html)
+
+- **Russia Says It Used Nuclear-Capable Missile to Strike Western Ukraine**
+  - [New York Times World](https://www.nytimes.com/2026/01/08/world/europe/russia-ukraine-nuclear-capable-missile.html), [New York Times World](https://www.nytimes.com/2026/01/09/world/europe/oreshnik-ballistic-missile-russia-ukraine.html), [BBC World News](https://www.bbc.com/news/articles/cgqe9kv9xxvo?at_medium=RSS&at_campaign=rss)
 
 
 ---
 
-**Stats**: 4 events
- | 8 articles | 8 distinct source mentions
+**Stats**: 7 events
+ | 16 articles | 15 distinct source mentions
