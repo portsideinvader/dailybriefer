@@ -1,15 +1,18 @@
-# Morning Brief — 2026-01-11
+# Morning Brief — 2026-01-12
 
-*Generated: 2026-01-11 06:38:31*
+*Generated: 2026-01-12 06:44:00*
 
-- **Bob Weir, Grateful Dead co-founder, dies aged 78**
-  - [BBC World News](https://www.bbc.com/news/articles/cly95x9qe4ko?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/jan/10/bob-weir-grateful-dead-dies-78)
+- **US opens criminal investigation into Fed chair**
+  - [Financial Times World](https://www.ft.com/content/89f72372-0dc6-46fc-a9a6-b183f95319b4), [Financial Times World](https://www.ft.com/content/505d31c3-f923-4a6d-af16-89c718644887), [Financial Times World](https://www.ft.com/content/a4230e9a-504a-4e39-87bc-9450e2b71287), [MarketWatch](https://www.marketwatch.com/story/powell-says-criminal-investigation-by-trumps-justice-department-threatens-feds-independence-c613e0d5?mod=mw_rss_topstories)
 
-- **US could ease sanctions on Venezuela next week, says Bessent**
-  - [Financial Times World](https://www.ft.com/content/c4fa621f-7605-4f07-8a7c-090c77a32f9c), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-10/us-may-lift-some-venezuela-sanctions-soon-bessent-tells-reuters)
+- **Trump is weighing options against Iran: Reports**
+  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-12/the-china-show-1-12-2026-video), [CNBC Top News](https://www.cnbc.com/2026/01/11/trump-iran.html)
+
+- **Allegiant to buy rival budget airline Sun Country for around $1.5 billion**
+  - [CNBC Top News](https://www.cnbc.com/2026/01/11/allegiant-sun-country-deal.html), [MarketWatch](https://www.marketwatch.com/story/allegiant-to-buy-rival-budget-airline-sun-country-for-around-1-5-billion-d88bfc54?mod=mw_rss_topstories)
 
 
 ---
 
-**Stats**: 2 events
- | 4 articles | 4 distinct source mentions
+**Stats**: 3 events
+ | 8 articles | 6 distinct source mentions
