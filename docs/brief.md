@@ -1,18 +1,15 @@
-# Morning Brief — 2026-01-12
+# Morning Brief — 2026-01-13
 
-*Generated: 2026-01-12 06:44:00*
+*Generated: 2026-01-13 06:41:12*
 
-- **US opens criminal investigation into Fed chair**
-  - [Financial Times World](https://www.ft.com/content/89f72372-0dc6-46fc-a9a6-b183f95319b4), [Financial Times World](https://www.ft.com/content/505d31c3-f923-4a6d-af16-89c718644887), [Financial Times World](https://www.ft.com/content/a4230e9a-504a-4e39-87bc-9450e2b71287), [MarketWatch](https://www.marketwatch.com/story/powell-says-criminal-investigation-by-trumps-justice-department-threatens-feds-independence-c613e0d5?mod=mw_rss_topstories)
+- **‘Takaichi trade’ roars back in Japan on election speculation**
+  - [Financial Times World](https://www.ft.com/content/54a3eca2-33cf-474c-ba87-098489a8eee2), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-12/japan-s-stocks-poised-to-jump-on-weak-yen-election-expectations)
 
-- **Trump is weighing options against Iran: Reports**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-12/the-china-show-1-12-2026-video), [CNBC Top News](https://www.cnbc.com/2026/01/11/trump-iran.html)
-
-- **Allegiant to buy rival budget airline Sun Country for around $1.5 billion**
-  - [CNBC Top News](https://www.cnbc.com/2026/01/11/allegiant-sun-country-deal.html), [MarketWatch](https://www.marketwatch.com/story/allegiant-to-buy-rival-budget-airline-sun-country-for-around-1-5-billion-d88bfc54?mod=mw_rss_topstories)
+- **Swiss Banking Reforms Go Too Far, Says UBS CEO Ermotti**
+  - [Financial Times World](https://www.ft.com/content/3763b35a-1442-495e-822a-733f5fa8acdd), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-13/ubs-ceo-ermotti-plans-to-step-down-in-april-2027-ft-says), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-13/swiss-banking-reforms-go-too-far-says-ubs-ceo-ermotti), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-13/ubs-ceo-ermotti-warns-swiss-banking-reforms-go-too-far-video), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-13/ubs-ceo-ermotti-warns-swiss-banking-reforms-go-too-far)
 
 
 ---
 
-**Stats**: 3 events
- | 8 articles | 6 distinct source mentions
+**Stats**: 2 events
+ | 7 articles | 4 distinct source mentions
