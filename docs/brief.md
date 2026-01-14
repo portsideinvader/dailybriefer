@@ -1,15 +1,24 @@
-# Morning Brief — 2026-01-13
+# Morning Brief — 2026-01-14
 
-*Generated: 2026-01-13 06:41:12*
+*Generated: 2026-01-14 06:40:54*
 
-- **‘Takaichi trade’ roars back in Japan on election speculation**
-  - [Financial Times World](https://www.ft.com/content/54a3eca2-33cf-474c-ba87-098489a8eee2), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-12/japan-s-stocks-poised-to-jump-on-weak-yen-election-expectations)
+- **China blames US for trade imbalances as surplus hits record $1.2tn in 2025**
+  - [Financial Times World](https://www.ft.com/content/af1b36f6-2096-4013-9764-06bd4e0089c4), [CNBC Top News](https://www.cnbc.com/2026/01/14/china-trade-data-surplus-exports-imports-december-tariffs-tensions.html), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-14/the-china-show-1-14-2026-video)
 
-- **Swiss Banking Reforms Go Too Far, Says UBS CEO Ermotti**
-  - [Financial Times World](https://www.ft.com/content/3763b35a-1442-495e-822a-733f5fa8acdd), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-13/ubs-ceo-ermotti-plans-to-step-down-in-april-2027-ft-says), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-13/swiss-banking-reforms-go-too-far-says-ubs-ceo-ermotti), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-13/ubs-ceo-ermotti-warns-swiss-banking-reforms-go-too-far-video), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-13/ubs-ceo-ermotti-warns-swiss-banking-reforms-go-too-far)
+- **Prosecutors Seek Death Penalty for Former South Korea President**
+  - [New York Times World](https://www.nytimes.com/2026/01/13/world/asia/south-korea-yoon-death-penalty.html), [The Guardian World](https://www.theguardian.com/world/2026/jan/13/south-korean-prosecutors-demand-death-penalty-for-former-president-yoon-suk-yeol), [BBC World News](https://www.bbc.com/news/articles/cq6vyqq5r0do?at_medium=RSS&at_campaign=rss)
+
+- **At least 22 killed as crane collapses on train in Thailand**
+  - [The Guardian World](https://www.theguardian.com/world/2026/jan/14/thailand-train-crane-accident-deaths), [New York Times World](https://www.nytimes.com/2026/01/14/world/asia/thailand-train-crane-accident.html)
+
+- **Spanish Singer Julio Iglesias Accused of Sexual Assault**
+  - [New York Times World](https://www.nytimes.com/2026/01/13/world/europe/julio-iglesias-accused-sexual-assault.html), [The Guardian World](https://www.theguardian.com/world/2026/jan/13/julio-iglesias-accused-of-sexual-assault-by-two-female-former-employees)
+
+- **Controversial Dilbert cartoonist Scott Adams dies aged 68**
+  - [BBC World News](https://www.bbc.com/news/articles/c5y320k72vyo?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2026/01/13/nx-s1-5413219/scott-adams-dilbert-dies)
 
 
 ---
 
-**Stats**: 2 events
- | 7 articles | 4 distinct source mentions
+**Stats**: 5 events
+ | 12 articles | 12 distinct source mentions
