@@ -1,24 +1,27 @@
-# Morning Brief — 2026-01-14
+# Morning Brief — 2026-01-15
 
-*Generated: 2026-01-14 06:40:54*
+*Generated: 2026-01-15 06:40:24*
 
-- **China blames US for trade imbalances as surplus hits record $1.2tn in 2025**
-  - [Financial Times World](https://www.ft.com/content/af1b36f6-2096-4013-9764-06bd4e0089c4), [CNBC Top News](https://www.cnbc.com/2026/01/14/china-trade-data-surplus-exports-imports-december-tariffs-tensions.html), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-14/the-china-show-1-14-2026-video)
+- **TSMC Spending, Sales Outlook Beats Estimates in Strong AI Signal**
+  - [CNBC Top News](https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-15/tsmc-profit-beats-estimates-in-fresh-sign-of-ai-demand-strength)
 
-- **Prosecutors Seek Death Penalty for Former South Korea President**
-  - [New York Times World](https://www.nytimes.com/2026/01/13/world/asia/south-korea-yoon-death-penalty.html), [The Guardian World](https://www.theguardian.com/world/2026/jan/13/south-korean-prosecutors-demand-death-penalty-for-former-president-yoon-suk-yeol), [BBC World News](https://www.bbc.com/news/articles/cq6vyqq5r0do?at_medium=RSS&at_campaign=rss)
+- **ICE agent shoots Minneapolis man in the leg**
+  - [BBC World News](https://www.bbc.com/news/articles/c205677pxvxo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/jan/14/minnesota-immigration-officers-shovel-attack)
 
-- **At least 22 killed as crane collapses on train in Thailand**
-  - [The Guardian World](https://www.theguardian.com/world/2026/jan/14/thailand-train-crane-accident-deaths), [New York Times World](https://www.nytimes.com/2026/01/14/world/asia/thailand-train-crane-accident.html)
+- **X to stop Grok AI from undressing images of real people after backlash**
+  - [The Guardian World](https://www.theguardian.com/technology/2026/jan/14/elon-musk-grok-ai-explicit-images), [BBC World News](https://www.bbc.com/news/articles/ce8gz8g2qnlo?at_medium=RSS&at_campaign=rss)
 
-- **Spanish Singer Julio Iglesias Accused of Sexual Assault**
-  - [New York Times World](https://www.nytimes.com/2026/01/13/world/europe/julio-iglesias-accused-sexual-assault.html), [The Guardian World](https://www.theguardian.com/world/2026/jan/13/julio-iglesias-accused-of-sexual-assault-by-two-female-former-employees)
+- **Quebec Premier François Legault Resigns Ahead of Elections**
+  - [New York Times World](https://www.nytimes.com/2026/01/14/world/americas/quebec-leader-resignation.html), [The Guardian World](https://www.theguardian.com/world/2026/jan/14/quebec-premier-francois-legault-resigns)
 
-- **Controversial Dilbert cartoonist Scott Adams dies aged 68**
-  - [BBC World News](https://www.bbc.com/news/articles/c5y320k72vyo?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2026/01/13/nx-s1-5413219/scott-adams-dilbert-dies)
+- **Oil Falls After Trump Signals US Response to Iran Is On Hold**
+  - [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-14/latest-oil-market-news-and-analysis-for-jan-15), [CNBC Top News](https://www.cnbc.com/2026/01/14/oil-falls-nearly-2percent-after-trump-signals-he-could-hold-off-on-attacking-iran.html)
+
+- **At least 32 killed as crane collapses on train in Thailand**
+  - [New York Times World](https://www.nytimes.com/2026/01/14/world/asia/thailand-train-crane-accident.html), [The Guardian World](https://www.theguardian.com/world/2026/jan/14/thailand-train-crane-accident-deaths)
 
 
 ---
 
-**Stats**: 5 events
+**Stats**: 6 events
  | 12 articles | 12 distinct source mentions
