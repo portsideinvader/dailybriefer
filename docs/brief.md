@@ -1,27 +1,21 @@
-# Morning Brief — 2026-01-15
+# Morning Brief — 2026-01-16
 
-*Generated: 2026-01-15 06:40:24*
+*Generated: 2026-01-16 06:40:52*
 
-- **TSMC Spending, Sales Outlook Beats Estimates in Strong AI Signal**
-  - [CNBC Top News](https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-15/tsmc-profit-beats-estimates-in-fresh-sign-of-ai-demand-strength)
+- **Machado Presents Trump With Nobel Peace Prize**
+  - [NPR News](https://www.npr.org/2026/01/16/nx-s1-5679424/venezuela-machado-nobel-prize-trump-meeting), [New York Times World](https://www.nytimes.com/2026/01/15/world/americas/machado-trump-meeting-nobel-peace-prize.html), [The Guardian World](https://www.theguardian.com/world/2026/jan/15/maria-corina-machado-says-she-presented-trump-with-her-nobel-peace-prize-medal), [BBC World News](https://www.bbc.com/news/articles/cx2w94wp4p1o?at_medium=RSS&at_campaign=rss)
 
-- **ICE agent shoots Minneapolis man in the leg**
-  - [BBC World News](https://www.bbc.com/news/articles/c205677pxvxo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/jan/14/minnesota-immigration-officers-shovel-attack)
+- **Carney Meets Xi to Renew Ties**
+  - [Financial Times World](https://www.ft.com/content/9eeff245-2081-4f97-bc8e-6bbdaf59074e), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-16/carney-meets-xi-to-renew-ties-video)
 
-- **X to stop Grok AI from undressing images of real people after backlash**
-  - [The Guardian World](https://www.theguardian.com/technology/2026/jan/14/elon-musk-grok-ai-explicit-images), [BBC World News](https://www.bbc.com/news/articles/ce8gz8g2qnlo?at_medium=RSS&at_campaign=rss)
+- **Mitsubishi to Buy Aethon US Gas Assets in $5.2 Billion Deal**
+  - [CNBC Top News](https://www.cnbc.com/2026/01/16/mitsubishi-shale-gas-assets-texas-louisiana-deal.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-16/mitsubishi-to-buy-us-gas-assets-from-aethon-in-5-2-billion-deal)
 
-- **Quebec Premier François Legault Resigns Ahead of Elections**
-  - [New York Times World](https://www.nytimes.com/2026/01/14/world/americas/quebec-leader-resignation.html), [The Guardian World](https://www.theguardian.com/world/2026/jan/14/quebec-premier-francois-legault-resigns)
-
-- **Oil Falls After Trump Signals US Response to Iran Is On Hold**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-14/latest-oil-market-news-and-analysis-for-jan-15), [CNBC Top News](https://www.cnbc.com/2026/01/14/oil-falls-nearly-2percent-after-trump-signals-he-could-hold-off-on-attacking-iran.html)
-
-- **At least 32 killed as crane collapses on train in Thailand**
-  - [New York Times World](https://www.nytimes.com/2026/01/14/world/asia/thailand-train-crane-accident.html), [The Guardian World](https://www.theguardian.com/world/2026/jan/14/thailand-train-crane-accident-deaths)
+- **Trump Moves to Make Tech Giants Pay for Surging Power Costs**
+  - [Financial Times World](https://www.ft.com/content/9b3d179e-129c-4aa1-a5c0-1cc1703b0234), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-15/trump-to-direct-key-us-grid-operator-to-hold-emergency-auction)
 
 
 ---
 
-**Stats**: 6 events
- | 12 articles | 12 distinct source mentions
+**Stats**: 4 events
+ | 10 articles | 10 distinct source mentions
