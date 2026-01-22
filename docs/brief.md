@@ -1,18 +1,18 @@
-# Morning Brief — 2026-01-21
+# Morning Brief — 2026-01-22
 
-*Generated: 2026-01-21 06:43:09*
+*Generated: 2026-01-22 06:42:09*
 
-- **Supreme Court to hear arguments on Trump’s bid to fire Fed’s Lisa Cook**
-  - [Financial Times World](https://www.ft.com/content/e1d850cb-f5bd-4dc0-90a6-a7375cf2ac87), [CNBC Top News](https://www.cnbc.com/2026/01/20/bessent-says-fed-chief-attending-supreme-court-arguments-on-lisa-cook-is-a-mistake.html)
+- **Davos latest: Markets rally after Trump touts Greenland deal**
+  - [Financial Times World](https://www.ft.com/content/3c5e84b4-4e9f-4bed-a0c8-2d41de52497d), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-21/stock-market-today-dow-s-p-live-updates)
 
-- **Trump Brings Greenland Fight to Davos**
-  - [Financial Times World](https://www.ft.com/content/1369a45e-e39b-4aaa-a347-b1800da7fd31), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-21/trump-brings-greenland-fight-to-davos-video)
+- **Gold Falls After Trump Backs Away From Tariffs Over Greenland**
+  - [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-21/gold-falls-after-trump-backs-away-from-tariffs-over-greenland), [CNBC Top News](https://www.cnbc.com/2026/01/21/trump-tariffs-nato-greenland-davos.html), [CNBC Top News](https://www.cnbc.com/2026/01/21/trump-tech-stocks-jump-greenland-military.html)
 
-- **Israel Seizes UNRWA’s Jerusalem Headquarters**
-  - [New York Times World](https://www.nytimes.com/2026/01/20/world/middleeast/israel-unrwa-jerusalem.html), [The Guardian World](https://www.theguardian.com/world/2026/jan/20/israel-bulldozes-unrwa-headquarters-in-east-jerusalem)
+- **South Korean Ex-Premier Gets 23 Years in Prison for Role in Martial Law**
+  - [The Guardian World](https://www.theguardian.com/world/2026/jan/21/former-south-korea-pm-han-duck-soo-jailed-martial-law-insurrection), [New York Times World](https://www.nytimes.com/2026/01/21/world/asia/south-korea-prime-minister-martial-law.html)
 
 
 ---
 
 **Stats**: 3 events
- | 6 articles | 6 distinct source mentions
+ | 7 articles | 6 distinct source mentions
