@@ -1,18 +1,21 @@
-# Morning Brief — 2026-01-22
+# Morning Brief — 2026-01-23
 
-*Generated: 2026-01-22 06:42:09*
+*Generated: 2026-01-23 06:41:22*
 
-- **Davos latest: Markets rally after Trump touts Greenland deal**
-  - [Financial Times World](https://www.ft.com/content/3c5e84b4-4e9f-4bed-a0c8-2d41de52497d), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-21/stock-market-today-dow-s-p-live-updates)
+- **TikTok forms U.S. joint venture, names Adam Presser CEO**
+  - [CNBC Top News](https://www.cnbc.com/2026/01/22/tiktok-forms-us-joint-venture-names-a-ceo.html), [MarketWatch](https://www.marketwatch.com/story/tiktok-forms-joint-venture-to-keep-operating-in-u-s-ending-yearslong-saga-2191c8c1?mod=mw_rss_topstories)
 
-- **Gold Falls After Trump Backs Away From Tariffs Over Greenland**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-21/gold-falls-after-trump-backs-away-from-tariffs-over-greenland), [CNBC Top News](https://www.cnbc.com/2026/01/21/trump-tariffs-nato-greenland-davos.html), [CNBC Top News](https://www.cnbc.com/2026/01/21/trump-tech-stocks-jump-greenland-military.html)
+- **TikTok Seals Deal to Operate in the US**
+  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-23/tiktok-seals-deal-to-operate-in-the-us-video), [Financial Times World](https://www.ft.com/content/59b91fc8-03a1-48df-9821-e2fdff24bd33), [Financial Times World](https://www.ft.com/content/b905cb50-3093-4273-b097-4cedc835fadd)
 
-- **South Korean Ex-Premier Gets 23 Years in Prison for Role in Martial Law**
-  - [The Guardian World](https://www.theguardian.com/world/2026/jan/21/former-south-korea-pm-han-duck-soo-jailed-martial-law-insurrection), [New York Times World](https://www.nytimes.com/2026/01/21/world/asia/south-korea-prime-minister-martial-law.html)
+- **Two dead and several missing in New Zealand landslides**
+  - [The Guardian World](https://www.theguardian.com/world/2026/jan/23/two-confirmed-dead-and-more-presumed-buried-after-landslides-hit-house-and-campground-in-new-zealand), [BBC World News](https://www.bbc.com/news/articles/cje11x527n4o?at_medium=RSS&at_campaign=rss)
+
+- **Japan suspends world's largest nuclear plant hours after restart**
+  - [The Guardian World](https://www.theguardian.com/world/2026/jan/23/japan-pauses-kashiwazaki-kariwa-worlds-largest-nuclear-power-plant), [BBC World News](https://www.bbc.com/news/articles/cx2yy8z91n4o?at_medium=RSS&at_campaign=rss)
 
 
 ---
 
-**Stats**: 3 events
- | 7 articles | 6 distinct source mentions
+**Stats**: 4 events
+ | 9 articles | 8 distinct source mentions
