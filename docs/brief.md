@@ -1,27 +1,27 @@
-# Morning Brief — 2026-01-27
+# Morning Brief — 2026-01-28
 
-*Generated: 2026-01-27 06:42:31*
+*Generated: 2026-01-28 06:42:48*
 
-- **Trump to raise tariffs on South Korea to 25%**
-  - [CNBC Top News](https://www.cnbc.com/2026/01/27/south-korea-scrambles-to-pass-us-investment-bill-after-trump-threatens-higher-tariffs.html), [Financial Times World](https://www.ft.com/content/9982c233-22a7-4677-b55e-47cd14c7ad55), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-27/the-asia-trade-1-27-2026-video), [MarketWatch](https://www.marketwatch.com/story/south-korean-auto-pharma-stocks-fall-after-trump-threatens-to-impose-25-tariffs-14d1b950?mod=mw_rss_topstories)
+- **Former French senator found guilty of drugging MP**
+  - [The Guardian World](https://www.theguardian.com/world/2026/jan/28/french-former-senator-found-guilty-of-drugging-mp-with-intent-to-sexually-assault-her), [New York Times World](https://www.nytimes.com/2026/01/27/world/europe/french-senator-drug-assault.html), [BBC World News](https://www.bbc.com/news/articles/cy8p1mn3j29o?at_medium=RSS&at_campaign=rss)
 
-- **NATO Chief Says Europe Is ‘Dreaming’ if It Thinks It Can Defend Itself Without U.S.**
-  - [NPR News](https://www.npr.org/2026/01/27/nx-s1-5689791/nato-chief-europe-defense-us), [New York Times World](https://www.nytimes.com/2026/01/26/world/europe/nato-chief-europe-greenland-trump-us.html), [The Guardian World](https://www.theguardian.com/world/live/2026/jan/26/ukraine-russia-us-greenland-europe-trade-deal-nato-latest-news-updates)
+- **Congresswoman Ilhan Omar sprayed with unknown substance at Minneapolis town hall**
+  - [The Guardian World](https://www.theguardian.com/us-news/2026/jan/28/ilhan-omar-sprayed-unknown-substance-minneapolis), [BBC World News](https://www.bbc.com/news/articles/cn9zpee3llxo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/live/2026/jan/27/gregory-bovino-tim-walz-donald-trump-minnesota-minneapolis-ice-alex-pretti-us-politics-live-news)
 
-- **French lawmakers vote to ban social media use by under-15s**
-  - [The Guardian World](https://www.theguardian.com/world/2026/jan/27/france-social-media-ban-under-15s), [BBC World News](https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss)
+- **Trump Deepens Dollar Woes, Saying He’s Not Concerned About Slump**
+  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-01-28/the-asia-trade-1-28-26-video), [Financial Times World](https://www.ft.com/content/04c785c0-9ca4-4a85-a279-d95c9d8f1f80), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-27/trump-says-he-s-not-concerned-with-decline-of-us-dollar)
 
-- **Deadly US winter storm leaves flights delayed and thousands without power**
-  - [BBC World News](https://www.bbc.com/news/articles/cp3z8ek7eqyo?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2026/01/26/nx-s1-5688918/winter-storm-power-outages-airports)
+- **Indonesian Stocks Plunge 7% After MSCI Warning on Investability**
+  - [Financial Times World](https://www.ft.com/content/baf0b704-dd86-42e1-a6c3-d6bbba94fc3c), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-28/msci-halts-indonesia-index-changes-flags-transparency-risks)
 
-- **Gunmen storm Mexico football pitch and kill at least 11 people**
-  - [The Guardian World](https://www.theguardian.com/world/2026/jan/26/gunmen-invade-salamanca-football-match-guanajuato-mexico-crime), [BBC World News](https://www.bbc.com/news/articles/cp80419gggro?at_medium=RSS&at_campaign=rss)
+- **Russian drone strike on Ukrainian passenger train kills five**
+  - [The Guardian World](https://www.theguardian.com/world/2026/jan/27/russian-drone-strike-on-ukrainian-passenger-train-kills-five), [BBC World News](https://www.bbc.com/news/articles/crkrpl4ngdzo?at_medium=RSS&at_campaign=rss)
 
-- **At Least 18 Dead After Ferry Carrying 350 Sinks in the Philippines**
-  - [New York Times World](https://www.nytimes.com/2026/01/25/world/asia/philippines-ferry-sinks-basilan.html), [The Guardian World](https://www.theguardian.com/world/2026/jan/26/philippines-ferry-capsizes-sinks-death-toll)
+- **US to send ICE agents to Winter Olympics, prompting Italian anger**
+  - [NPR News](https://www.npr.org/2026/01/27/nx-s1-5690100/winter-olympics-ice-agents-milan-italy), [BBC World News](https://www.bbc.com/news/articles/c5y29xzjdzvo?at_medium=RSS&at_campaign=rss)
 
 
 ---
 
 **Stats**: 6 events
- | 15 articles | 15 distinct source mentions
+ | 15 articles | 13 distinct source mentions
