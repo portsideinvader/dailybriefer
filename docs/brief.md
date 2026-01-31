@@ -1,24 +1,30 @@
-# Morning Brief — 2026-01-30
+# Morning Brief — 2026-01-31
 
-*Generated: 2026-01-30 06:57:14*
+*Generated: 2026-01-31 06:47:27*
 
-- **Trump sues the IRS and Treasury for at least $10bn**
-  - [MarketWatch](https://www.marketwatch.com/story/trump-sues-irs-treasury-for-10-billion-over-leak-of-his-tax-returns-761f27db?mod=mw_rss_topstories), [Financial Times World](https://www.ft.com/content/7488b3d8-600d-46a4-9fa9-115449b4ed55), [CNBC Top News](https://www.cnbc.com/2026/01/29/trump-sues-irs-and-treasury-for-10-billion-over-leak-of-tax-records.html)
+- **US government shuts down partially over homeland security funding**
+  - [BBC World News](https://www.bbc.com/news/articles/ce8rk33dpvmo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/jan/31/us-government-shutdown-dhs-funding)
 
-- **Indonesia’s stock exchange head resigns after market turmoil**
-  - [CNBC Top News](https://www.cnbc.com/2026/01/30/indonesian-stock-exchange-ceo-resigns-after-84-billion-market-wipe-out-.html), [Financial Times World](https://www.ft.com/content/0d1f2a55-1425-475b-a0b7-0612287aa40b)
+- **Trump Picks BLS Economist Brett Matsumoto to Head Agency**
+  - [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-01-31/trump-picks-bls-economist-brett-matsumoto-to-head-data-agency), [Financial Times World](https://www.ft.com/content/3acdf81d-c94a-4438-a35f-23cfa75ca3b4)
 
-- **Trump warns Starmer against closer China business ties**
-  - [CNBC Top News](https://www.cnbc.com/2026/01/30/trump-china-uk-starmer-visit-xi-canada-carney.html), [Financial Times World](https://www.ft.com/content/1f6504be-9ee3-4a71-ab46-1e9fb139e2f1)
+- **Judge rules Luigi Mangione should not face death penalty**
+  - [BBC World News](https://www.bbc.com/news/articles/c78egdg3r0po?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2026/01/30/g-s1-108032/judge-rules-luigi-mangione-should-not-face-death-penalty)
 
-- **Trump says he will announce a replacement for Powell as Fed chair Friday morning**
-  - [CNBC Top News](https://www.cnbc.com/2026/01/29/trump-says-he-will-announce-a-replacement-for-powell-as-fed-chair-friday-morning.html), [MarketWatch](https://www.marketwatch.com/story/trump-says-hell-announce-his-fed-pick-next-week-heres-whos-in-the-lead-according-to-prediction-markets-ba80c732?mod=mw_rss_topstories)
+- **Trump nominates Kevin Warsh for Federal Reserve chair to succeed Jerome Powell**
+  - [Financial Times World](https://www.ft.com/content/4147a182-485b-439c-9080-94614fa03f0e), [CNBC Top News](https://www.cnbc.com/2026/01/30/trump-nominates-kevin-warsh-for-federal-reserve-chair-to-succeed-jerome-powell.html)
 
-- **EU adds Iran's Revolutionary Guards to terrorist list**
-  - [BBC World News](https://www.bbc.com/news/articles/c20gypw8enjo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/jan/29/eu-formally-designates-iran-irgc-revolutionary-guards-terrorist-organisation), [The Guardian World](https://www.theguardian.com/world/live/2026/jan/29/denmark-us-greenland-ukraine-russia-germany-friedrich-merz-poland-europe-latest-news)
+- **What Trump Fed chair pick Kevin Warsh may mean for consumers**
+  - [MarketWatch](https://www.marketwatch.com/story/trump-picking-kevin-warsh-as-fed-chair-wasnt-enough-to-soothe-shaky-markets-2f0137ad?mod=mw_rss_topstories), [CNBC Top News](https://www.cnbc.com/2026/01/30/trump-fed-chair-pick-kevin-warsh.html)
+
+- **Iran wants to make deal rather than face military action, Trump says**
+  - [BBC World News](https://www.bbc.com/news/articles/cd9ew2kwj0lo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/jan/30/donald-trump-iran-end-nuclear-programme-killing-protesters-face-us-military)
+
+- **Luigi Mangione will not face death penalty, US judge rules**
+  - [CNBC Top News](https://www.cnbc.com/2026/01/30/luigi-mangione-death-penalty-unitedhealth-thompson-doj.html), [Financial Times World](https://www.ft.com/content/3dcb89ce-11d3-434a-8fc9-ef4dd47580e7)
 
 
 ---
 
-**Stats**: 5 events
- | 12 articles | 11 distinct source mentions
+**Stats**: 7 events
+ | 14 articles | 14 distinct source mentions
