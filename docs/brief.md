@@ -1,21 +1,15 @@
-# Morning Brief — 2026-02-05
+# Morning Brief — 2026-02-06
 
-*Generated: 2026-02-05 07:05:02*
+*Generated: 2026-02-06 07:01:06*
 
-- **Suspect identified in disappearance of four-year-old in Australian outback**
-  - [BBC World News](https://www.bbc.com/news/articles/c368g5l33xzo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/australia-news/2026/feb/05/gus-lamont-disappearance-four-year-old-outback-major-crime-ntwnfb)
+- **Asia markets mostly fall, tracking Wall Street losses on tech rout**
+  - [CNBC Top News](https://www.cnbc.com/2026/02/06/asia-markets-live-friday-today-nikkei-kospi-hang-seng-tech-sell-off.html), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-02-06/the-asia-trade-2-6-2026-video)
 
-- **US must be prudent when supplying arms to Taiwan, Xi tells Trump**
-  - [The Guardian World](https://www.theguardian.com/world/2026/feb/05/xi-jinping-donald-trump-phone-call-china-us-taiwan-relationship), [BBC World News](https://www.bbc.com/news/articles/c62wpjd3j1zo?at_medium=RSS&at_campaign=rss)
-
-- **Savannah Guthrie releases video appealing for proof her missing mother is alive**
-  - [The Guardian World](https://www.theguardian.com/us-news/2026/feb/04/savannah-guthrie-missing-mother-video), [NPR News](https://www.npr.org/2026/02/04/nx-s1-5699399/savannah-guthrie-mother-nancy-missing-search)
-
-- **John Steenhuisen, South African Party Leader, to Step Down**
-  - [New York Times World](https://www.nytimes.com/2026/02/04/world/africa/john-steenhuisen-democratic-alliance-anc-south-africa.html), [BBC World News](https://www.bbc.com/news/articles/c5yvneqg1xxo?at_medium=RSS&at_campaign=rss)
+- **White House launches TrumpRx as drug companies warn of sales hit**
+  - [CNBC Top News](https://www.cnbc.com/2026/02/05/trump-rx-white-house-launches-direct-to-consumer-drug-site.html), [Financial Times World](https://www.ft.com/content/fd85ea40-39c6-4c62-b786-18db6e5c685f)
 
 
 ---
 
-**Stats**: 4 events
- | 8 articles | 8 distinct source mentions
+**Stats**: 2 events
+ | 4 articles | 4 distinct source mentions
