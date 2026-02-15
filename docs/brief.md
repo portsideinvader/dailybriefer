@@ -1,24 +1,21 @@
-# Morning Brief — 2026-02-14
+# Morning Brief — 2026-02-15
 
-*Generated: 2026-02-14 06:53:26*
+*Generated: 2026-02-15 06:57:10*
 
-- **UK Ban on Palestine Action Is Unlawful, Court Finds**
-  - [New York Times World](https://www.nytimes.com/2026/02/13/world/europe/uk-palestine-action-ban-court-ruling.html), [The Guardian World](https://www.theguardian.com/uk-news/2026/feb/13/uk-ban-palestine-action-unlawful-high-court-judges-rule)
+- **Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says**
+  - [BBC World News](https://www.bbc.com/news/articles/cwyk4lz4e3eo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/feb/14/alexei-navalny-poisoning-death-russia-frog-toxin)
 
-- **Average IRS tax refund is up 10.9% so far this season, early filing data shows**
-  - [MarketWatch](https://www.marketwatch.com/story/tax-refunds-are-up-this-year-to-an-average-of-2-290-early-irs-numbers-show-how-does-yours-compare-3c4e2267?mod=mw_rss_topstories), [CNBC Top News](https://www.cnbc.com/2026/02/13/average-tax-refund-early-irs-data.html)
+- **Four people on NASA'S Crew-12 arrive at the International Space Station**
+  - [NPR News](https://www.npr.org/2026/02/14/nx-s1-5714583/nasa-spacex-crew-12-iss), [The Guardian World](https://www.theguardian.com/science/2026/feb/14/international-space-station-full-crew)
 
-- **US officials investigate whether ICE agents lied about Minneapolis shooting**
-  - [The Guardian World](https://www.theguardian.com/us-news/2026/feb/13/ice-officers-minneapolis), [BBC World News](https://www.bbc.com/news/articles/cy8l9jp1z3yo?at_medium=RSS&at_campaign=rss)
+- **US launches airstrikes on dozens of Islamic State targets in Syria**
+  - [NPR News](https://www.npr.org/2026/02/14/nx-s1-5714552/us-islamic-state-syria), [The Guardian World](https://www.theguardian.com/world/2026/feb/14/us-airstrikes-syria-islamic-state-targets)
 
-- **UBS' Mish on Private Credit AI Disruption Risk**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-02-13/ubs-mish-on-private-credit-ai-disruption-risk-video), [CNBC Top News](https://www.cnbc.com/2026/02/13/ai-credit-markets.html)
-
-- **The war dead pictured on banned Ukrainian athlete's helmet**
-  - [BBC World News](https://www.bbc.com/news/articles/cnv63q1vpv1o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/02/12/world/olympics/ukraine-skeleton-olympics-banned-helmet-heraskevych.html)
+- **Casey Wasserman to sell talent agency after Epstein fallout**
+  - [The Guardian World](https://www.theguardian.com/us-news/2026/feb/14/casey-wasserman-selling-talent-agency-ghislaine-maxwell-epstein-files), [BBC World News](https://www.bbc.com/news/articles/cy0dn4e1njjo?at_medium=RSS&at_campaign=rss)
 
 
 ---
 
-**Stats**: 5 events
- | 10 articles | 10 distinct source mentions
+**Stats**: 4 events
+ | 8 articles | 8 distinct source mentions
