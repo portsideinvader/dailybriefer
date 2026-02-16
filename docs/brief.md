@@ -1,21 +1,15 @@
-# Morning Brief — 2026-02-15
+# Morning Brief — 2026-02-16
 
-*Generated: 2026-02-15 06:57:10*
+*Generated: 2026-02-16 07:10:27*
 
-- **Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says**
-  - [BBC World News](https://www.bbc.com/news/articles/cwyk4lz4e3eo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/feb/14/alexei-navalny-poisoning-death-russia-frog-toxin)
+- **OpenAI hires OpenClaw founder Peter Steinberger**
+  - [CNBC Top News](https://www.cnbc.com/2026/02/15/openclaw-creator-peter-steinberger-joining-openai-altman-says.html), [Financial Times World](https://www.ft.com/content/45b172e6-df8c-41a7-bba9-3e21e361d3aa)
 
-- **Four people on NASA'S Crew-12 arrive at the International Space Station**
-  - [NPR News](https://www.npr.org/2026/02/14/nx-s1-5714583/nasa-spacex-crew-12-iss), [The Guardian World](https://www.theguardian.com/science/2026/feb/14/international-space-station-full-crew)
-
-- **US launches airstrikes on dozens of Islamic State targets in Syria**
-  - [NPR News](https://www.npr.org/2026/02/14/nx-s1-5714552/us-islamic-state-syria), [The Guardian World](https://www.theguardian.com/world/2026/feb/14/us-airstrikes-syria-islamic-state-targets)
-
-- **Casey Wasserman to sell talent agency after Epstein fallout**
-  - [The Guardian World](https://www.theguardian.com/us-news/2026/feb/14/casey-wasserman-selling-talent-agency-ghislaine-maxwell-epstein-files), [BBC World News](https://www.bbc.com/news/articles/cy0dn4e1njjo?at_medium=RSS&at_campaign=rss)
+- **US boards second tanker in Indian Ocean after tracking it from Caribbean**
+  - [BBC World News](https://www.bbc.com/news/articles/c4ge763d7j6o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/feb/15/us-forces-board-second-venezuelalinked-oil-tanker-in-indian-ocean)
 
 
 ---
 
-**Stats**: 4 events
- | 8 articles | 8 distinct source mentions
+**Stats**: 2 events
+ | 4 articles | 4 distinct source mentions
