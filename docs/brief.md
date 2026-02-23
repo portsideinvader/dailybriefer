@@ -1,24 +1,18 @@
-# Morning Brief — 2026-02-22
+# Morning Brief — 2026-02-23
 
-*Generated: 2026-02-22 06:55:22*
+*Generated: 2026-02-23 07:11:35*
 
-- **All nine bodies of skiers killed in California avalanche recovered**
-  - [NPR News](https://www.npr.org/2026/02/21/nx-s1-5722357/skiers-recovered-identified-california-avalanche-tahoe), [The Guardian World](https://www.theguardian.com/us-news/2026/feb/21/california-avalanche-bodies-recovered)
+- **China, India Among Winners After US Court Blocked Trump Tariffs**
+  - [Financial Times World](https://www.ft.com/content/46199805-8572-4cc2-84c2-8db7f6621769), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-02-23/china-india-among-winners-after-us-court-blocked-trump-tariffs), [CNBC Top News](https://www.cnbc.com/2026/02/22/trump-tariffs-ieepa-supreme-court.html)
 
-- **Willie Colón, trombonist who pioneered salsa music, dies aged 75**
-  - [BBC World News](https://www.bbc.com/news/articles/c98qjed249do?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/feb/21/willie-colon-music-salsa-dead-aged-75)
+- **Xi Gains Leverage Before Trump Summit After Tariff Reversal**
+  - [CNBC Top News](https://www.cnbc.com/2026/02/23/trumps-tariff-setback-in-supreme-court-ruling-boosts-china-april-summit-leverage-xi.html), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-02-23/the-china-show-2-23-2026-video), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-02-22/xi-gains-upper-hand-before-trump-summit-after-us-tariff-reversal)
 
-- **Palestinian-American Teenager Killed in West Bank Is Laid to Rest**
-  - [BBC World News](https://www.bbc.com/news/articles/cvgk7z15gnpo?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/02/20/world/middleeast/palestinian-american-teenager-killed-west-bank.html)
-
-- **Israeli strikes kill at least 10 in Lebanon, officials say**
-  - [New York Times World](https://www.nytimes.com/2026/02/21/world/middleeast/israel-strikes-lebanon-hezbollah.html), [BBC World News](https://www.bbc.com/news/articles/cvg8914dkl0o?at_medium=RSS&at_campaign=rss)
-
-- **Trump raises global tariffs to 15% in wake of Supreme Court loss**
-  - [CNBC Top News](https://www.cnbc.com/2026/02/21/trump-tariffs.html), [Financial Times World](https://www.ft.com/content/8b1e0364-092e-4b8c-8391-23b59840e74d)
+- **Mexican Forces Kill ‘El Mencho,’ Nation’s Most-Wanted Cartel Boss**
+  - [New York Times World](https://www.nytimes.com/2026/02/22/world/americas/jalisco-new-generation-cartel-leader-killed.html), [The Guardian World](https://www.theguardian.com/world/2026/feb/22/mexican-security-forces-reportedly-kill-drug-cartel-boss-el-mencho)
 
 
 ---
 
-**Stats**: 5 events
- | 10 articles | 10 distinct source mentions
+**Stats**: 3 events
+ | 8 articles | 7 distinct source mentions
