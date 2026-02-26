@@ -1,18 +1,21 @@
-# Morning Brief — 2026-02-25
+# Morning Brief — 2026-02-26
 
-*Generated: 2026-02-25 07:07:58*
+*Generated: 2026-02-26 07:06:08*
 
-- **Japan to deploy missiles on island near Taiwan by 2031**
-  - [BBC World News](https://www.bbc.com/news/articles/cd9gj1w2kn1o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/feb/25/japan-missiles-yonaguni-island-near-taiwan-2031-defence-minister)
+- **US and Iran to hold talks as pressure for nuclear deal builds**
+  - [NPR News](https://www.npr.org/2026/02/26/g-s1-111595/u-s-iran-to-third-round-nuclear-talks), [BBC World News](https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/feb/25/us-iran-nuclear-talks-critical-stage-trump)
 
-- **Trump Calls Supreme Court Tariff Ruling 'Very Unfortunate'**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-02-25/trump-calls-tariff-ruling-very-unfortunate-video), [CNBC Top News](https://www.cnbc.com/2026/02/25/us-tariff-ruling-india-russian-oil-purchases.html)
+- **US 'suitcase murderer' deported from Bali after 11 years in jail**
+  - [BBC World News](https://www.bbc.com/news/articles/cdxg2r11g35o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/feb/25/us-man-tommy-schaefer-deported-from-bali-after-11-years-in-prison-for-suitcase-of-then-girlfriends-mother)
 
-- **Floods and landslides in Brazil kill at least 25**
-  - [The Guardian World](https://www.theguardian.com/world/2026/feb/24/floods-landslides-brazil-kill-after-record-rainfall), [BBC World News](https://www.bbc.com/news/articles/c70k7vjllzeo?at_medium=RSS&at_campaign=rss)
+- **US to offer passport services to citizens in illegal West Bank settlements**
+  - [New York Times World](https://www.nytimes.com/2026/02/25/world/middleeast/us-consular-services-israeli-settlements.html), [The Guardian World](https://www.theguardian.com/world/2026/feb/25/us-passport-services-citizens-israel-west-bank-palestine)
+
+- **Brazilian politician brothers convicted of ordering murder of Rio city councillor**
+  - [BBC World News](https://www.bbc.com/news/articles/c4g058v3d35o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/feb/25/brazil-politician-brothers-convicted-murder)
 
 
 ---
 
-**Stats**: 3 events
- | 6 articles | 6 distinct source mentions
+**Stats**: 4 events
+ | 9 articles | 9 distinct source mentions
