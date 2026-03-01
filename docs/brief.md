@@ -1,27 +1,27 @@
-# Morning Brief — 2026-02-28
+# Morning Brief — 2026-03-01
 
-*Generated: 2026-02-28 06:46:26*
+*Generated: 2026-03-01 06:53:43*
 
-- **Paramount clinches Warner Bros deal after Netflix walks away**
-  - [Financial Times World](https://www.ft.com/content/fdb3478b-a124-403e-ab39-0d0b33493294), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-02-27/s-p-analyst-sees-paramount-rating-as-strained-after-warner-deal), [CNBC Top News](https://www.cnbc.com/2026/02/26/warner-bros-discovery-paramount-skydance-deal-superior-netflix.html)
+- **What Iran Attack Means For Oil**
+  - [CNBC Top News](https://www.cnbc.com/2026/03/01/iran-khamenei-dead-us-israel-strike-trump-netanyahu.html), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-02-28/iran-attack-impact-on-neighboring-countries-yacoubian-video), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-02-28/what-iran-attack-means-for-oil-video), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-02-28/surprised-on-explicitly-of-trump-iran-remarks-allen-video)
 
-- **At least 20 killed as cash-laden military cargo plane crashes in Bolivia**
-  - [BBC World News](https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/feb/28/at-least-15-killed-as-cash-laden-military-cargo-plane-crashes-in-bolivia)
+- **What to Know About the U.S. Attacks on Iran**
+  - [New York Times World](https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html), [NPR News](https://www.npr.org/2026/02/28/g-s1-112026/why-is-the-u-s-attacking-iran)
 
-- **Trump orders government to stop using Anthropic in battle over AI use**
-  - [The Guardian World](https://www.theguardian.com/us-news/2026/feb/27/trump-anthropic-ai-federal-agencies), [BBC World News](https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss)
+- **US and Israel launch strikes on Iran: what we know so far**
+  - [BBC World News](https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/feb/28/us-israel-launch-strikes-attack-iran-what-we-know-so-far-latest)
 
-- **Why Are Pakistan and Afghanistan Fighting?**
-  - [New York Times World](https://www.nytimes.com/2026/02/27/world/asia/afghanistan-pakistan-taliban-airstrikes.html), [BBC World News](https://www.bbc.com/news/articles/cdjmrxkwk3mo?at_medium=RSS&at_campaign=rss)
+- **Iran’s supreme leader killed in air strikes**
+  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-03-01/iran-s-supreme-leader-ali-khamenei-dead-at-86-video), [Financial Times World](https://www.ft.com/content/7ce98cd0-269f-4522-b1e4-bfb72aa43c3e), [Financial Times World](https://www.ft.com/content/cacc7396-612d-4c38-9fcf-3285982ea8fe), [Financial Times World](https://www.ft.com/content/e026b4a7-1115-493a-9b31-c8b0b5965491)
 
-- **Two dead and 38 injured after tram derails in Milan**
-  - [The Guardian World](https://www.theguardian.com/world/2026/feb/27/tram-derails-and-crashes-into-building-in-milan), [BBC World News](https://www.bbc.com/news/articles/c5y599degnqo?at_medium=RSS&at_campaign=rss)
+- **Watch: How US-Israel strikes on Iran unfolded**
+  - [BBC World News](https://www.bbc.com/news/videos/clyv5rnd8r0o?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2026/02/28/nx-s1-5730352/world-leaders-reaction-operation-epic-fury)
 
-- **Pakistan Strikes Afghanistan in ‘Open War’ Against Taliban Regime**
-  - [New York Times World](https://www.nytimes.com/2026/02/26/world/asia/pakistan-afghanistan-taliban.html), [The Guardian World](https://www.theguardian.com/world/live/2026/feb/27/pakistan-afghanistan-taliban-war-cross-border-kabul-latest-news-updates)
+- **What’s at Stake for Oil Markets as Trump Strikes Iran**
+  - [Financial Times World](https://www.ft.com/content/2fb3447b-7ff7-4f9a-9068-05cfb4bf4138), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-02-28/trump-urges-iran-uprising-after-launching-strikes-video), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-02-28/iran-strikes-what-s-at-stake-for-oil-markets-as-trump-attacks-tehran)
 
 
 ---
 
 **Stats**: 6 events
- | 13 articles | 13 distinct source mentions
+ | 17 articles | 12 distinct source mentions
