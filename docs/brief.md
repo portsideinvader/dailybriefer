@@ -1,18 +1,21 @@
-# Morning Brief — 2026-03-03
+# Morning Brief — 2026-03-04
 
-*Generated: 2026-03-03 06:59:21*
+*Generated: 2026-03-04 06:55:41*
 
-- **FirstFT: US embassy in Riyadh attacked by drones**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-03-03/us-embassy-in-riyadh-attacked-iran-steps-up-strikes-video), [Financial Times World](https://www.ft.com/content/7f6e92de-ead6-48c6-91c0-108c8da0b1ac)
+- **US and Ecuador forces launch operation to fight drug trafficking**
+  - [BBC World News](https://www.bbc.com/news/articles/cgjzz4gn64zo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/mar/04/us-military-action-operation-ecuador)
 
-- **Damaged Buildings, Vehicles Seen After Strikes on Iran**
-  - [Financial Times World](https://www.ft.com/content/b6375dc8-2f55-4cee-9b5b-36b24e37ef36), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-03-03/damaged-buildings-vehicles-seen-after-strikes-on-iran-video)
+- **North Carolina: Roy Cooper and Michael Whatley win primaries to set up Senate contest**
+  - [The Guardian World](https://www.theguardian.com/us-news/2026/mar/03/north-carolina-democratic-republican-primaries-senate), [NPR News](https://www.npr.org/2026/03/03/nx-s1-5734513/north-carolina-congress-election-results-cooper-whatley)
 
-- **Apple launches new iPhone and iPad Air as it gears up for a major AI push**
-  - [MarketWatch](https://www.marketwatch.com/story/apple-launches-new-iphone-and-ipad-air-as-it-gears-up-for-a-major-ai-push-570b24ae?mod=mw_rss_topstories), [CNBC Top News](https://www.cnbc.com/2026/03/02/apple-iphone-17e-ipad-air-m4-chip.html)
+- **Australian girl, 8, killed in snowmobile accident in Japan**
+  - [BBC World News](https://www.bbc.com/news/articles/c5yk5yw49nqo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/australia-news/2026/mar/04/australian-chloe-jeffries-dies-japan-snowmobile-accident)
+
+- **Trump Threatens to End Trade With Spain**
+  - [New York Times World](https://www.nytimes.com/2026/03/03/world/middleeast/trump-spain-trade.html), [BBC World News](https://www.bbc.com/news/articles/c8r1mzd8vygo?at_medium=RSS&at_campaign=rss)
 
 
 ---
 
-**Stats**: 3 events
- | 6 articles | 6 distinct source mentions
+**Stats**: 4 events
+ | 8 articles | 8 distinct source mentions
