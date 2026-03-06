@@ -1,18 +1,24 @@
-# Morning Brief — 2026-03-05
+# Morning Brief — 2026-03-06
 
-*Generated: 2026-03-05 06:59:18*
+*Generated: 2026-03-06 06:57:32*
 
-- **US sub sinks Iranian warship in Indian Ocean, Hegseth says**
-  - [BBC World News](https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/live/2026/mar/04/iran-war-live-updates-us-israel-latest-news-strait-of-hormuz-middle-east-crisis), [NPR News](https://www.npr.org/2026/03/04/nx-s1-5735636/u-s-submarine-sinks-iranian-warship-in-indian-ocean-as-conflict-widens), [The Guardian World](https://www.theguardian.com/world/2026/mar/04/us-submarine-torpedo-iran-warship-sri-lanka-coast-pete-hegseth), [New York Times World](https://www.nytimes.com/2026/03/04/world/middleeast/iran-navy-ship-sri-lanka.html)
+- **US Grants Temporary Waiver for India to Import Russian Oil**
+  - [CNBC Top News](https://www.cnbc.com/2026/03/06/us-india-waiver-russian-oil-iran-war-energy-supply-worries-.html), [Financial Times World](https://www.ft.com/content/f513bca3-507f-41ae-a95d-2bb906d3d9e9), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-06/us-issues-license-to-allow-some-russian-oil-sales-to-india-mme5qix4)
 
-- **China sets lowest economic growth target since 1991**
-  - [The Guardian World](https://www.theguardian.com/world/2026/mar/05/china-gdp-growth-target-economic-slowdown), [BBC World News](https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss)
+- **Private credit loan spreads are tiiiight**
+  - [Financial Times World](https://www.ft.com/content/1e96e46f-6ef0-4b53-abb2-524033a9a37b), [Financial Times World](https://www.ft.com/content/d49d4ab5-dfcc-4f46-9ae7-2df231c1b421), [CNBC Top News](https://www.cnbc.com/2026/03/05/oaktrees-howard-marks-says-theres-no-systemic-problem-with-private-credit.html)
 
-- **China Sets Low Growth Target as Old Model Falters**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-03-05/china-sets-low-growth-target-as-old-model-falters-video), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-03-05/the-asia-trade-3-5-2026-video), [CNBC Top News](https://www.cnbc.com/2026/03/05/china-gdp-two-sessions-.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-04/china-softens-gdp-goal-to-range-of-4-5-to-5-as-growth-slows)
+- **Anthropic has ‘no choice’ but to fight Pentagon’s ‘supply-chain risk’ designation in court, CEO says**
+  - [MarketWatch](https://www.marketwatch.com/story/anthropic-has-no-choice-but-to-fight-pentagons-supply-chain-risk-designation-in-court-ceo-says-3375d7d1?mod=mw_rss_topstories), [CNBC Top News](https://www.cnbc.com/2026/03/05/anthropic-ceo-says-no-choice-but-to-challenge-trump-admins-supply-chain-risk-designation-in-court.html)
+
+- **Israel strikes Beirut after evacuation warning sparks panic**
+  - [BBC World News](https://www.bbc.com/news/articles/cj32750e7j6o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/mar/05/israel-orders-people-evacuate-beirut-suburbs-lebanon-iran)
+
+- **US asked Ukraine for help fighting Iranian drones, Zelensky says**
+  - [The Guardian World](https://www.theguardian.com/world/2026/mar/06/ukraine-zelenskyy-iran-war-help-us-israel-fight-drones), [BBC World News](https://www.bbc.com/news/articles/cr5llg0e9g9o?at_medium=RSS&at_campaign=rss)
 
 
 ---
 
-**Stats**: 3 events
- | 11 articles | 8 distinct source mentions
+**Stats**: 5 events
+ | 12 articles | 11 distinct source mentions
