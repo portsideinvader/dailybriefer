@@ -1,15 +1,15 @@
-# Morning Brief — 2026-03-07
+# Morning Brief — 2026-03-08
 
-*Generated: 2026-03-07 06:49:54*
+*Generated: 2026-03-08 06:51:14*
 
-- **Indonesia to ban social media for children under 16**
-  - [New York Times World](https://www.nytimes.com/2026/03/06/world/asia/indonesia-social-media-ban.html), [The Guardian World](https://www.theguardian.com/technology/2026/mar/06/indonesia-social-media-ban-children), [BBC World News](https://www.bbc.com/news/articles/cvg50168ddgo?at_medium=RSS&at_campaign=rss)
+- **A week of war in charts: the impact on the US**
+  - [CNBC Top News](https://www.cnbc.com/2026/03/07/not-slowing-down-one-week-on-us-israeli-strikes-on-iran-continue.html), [Financial Times World](https://www.ft.com/content/7ec4acb7-8c49-4da5-a7f3-83410e873e5a)
 
-- **Trump demands Iran’s ‘unconditional surrender’ as bombs pound Tehran and Beirut**
-  - [New York Times World](https://www.nytimes.com/2026/03/06/world/middleeast/trump-iran-surrender-israel-lebanon.html), [The Guardian World](https://www.theguardian.com/world/2026/mar/06/us-israel-threaten-major-escalation-airstrikes-iran-lebanon)
+- **Trump Speaks on Global US Military Superiority**
+  - [Financial Times World](https://www.ft.com/content/b974477f-61a4-492e-b8b7-9709f4086b4c), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-03-07/trump-speaks-on-global-us-military-superiority-video)
 
 
 ---
 
 **Stats**: 2 events
- | 5 articles | 5 distinct source mentions
+ | 4 articles | 4 distinct source mentions
