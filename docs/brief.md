@@ -1,18 +1,24 @@
-# Morning Brief — 2026-03-10
+# Morning Brief — 2026-03-11
 
-*Generated: 2026-03-10 06:57:35*
+*Generated: 2026-03-11 07:00:47*
 
-- **Trump says Iran war will end ‘very soon’**
-  - [Financial Times World](https://www.ft.com/content/3fcf2e2a-fc8b-4d6c-99d5-9fee3eda9886), [CNBC Top News](https://www.cnbc.com/2026/03/10/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-10/crops-swing-to-losses-as-trump-signals-possible-end-to-iran-war), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-03-10/the-asia-trade-3-10-2026-video), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-03-10/trump-eyes-end-to-iran-war-but-how-soon) (+7 more)
+- **At least six dead in Switzerland bus fire**
+  - [BBC World News](https://www.bbc.com/news/articles/c5y4wdlyy9xo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/mar/10/multiple-deaths-injuries-bus-fire-switzerland)
 
-- **Australia Urged to Protect Members of the Iranian Women’s Soccer Team**
-  - [NPR News](https://www.npr.org/2026/03/10/g-s1-113146/australia-grants-asylum-to-5-members-of-the-iranian-womens-soccer-team), [New York Times World](https://www.nytimes.com/2026/03/09/world/australia/iran-soccer-womens-team-australia.html), [New York Times World](https://www.nytimes.com/2026/03/09/world/middleeast/iran-women-soccer-football-team-australia.html)
+- **JPMorgan Marks Down Private Credit Portfolios, FT Reports**
+  - [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-11/jpmorgan-marks-down-private-credit-portfolios-ft-reports), [Financial Times World](https://www.ft.com/content/389a0003-d8de-4afd-9de9-be6e9fc6888c)
 
-- **U.S. Tomahawk Hit Naval Base Beside Iranian School, Video Shows**
-  - [New York Times World](https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html), [BBC World News](https://www.bbc.com/news/articles/cvg548lyjnyo?at_medium=RSS&at_campaign=rss)
+- **Trump Says US to Get New Oil Refinery With Reliance Backing**
+  - [CNBC Top News](https://www.cnbc.com/2026/03/11/trump-us-oil-refinery-reliance-ambani-texas-india-shale-wti.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-10/trump-says-us-to-get-new-oil-refinery-with-reliance-backing)
+
+- **Woman charged with attempted murder in shooting at home of Rihanna**
+  - [BBC World News](https://www.bbc.com/news/articles/cgjze644wjvo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/music/2026/mar/10/rihanna-shooting-woman-charged)
+
+- **Mother of Tumbler Ridge Shooting Victim Sues OpenAI**
+  - [New York Times World](https://www.nytimes.com/2026/03/10/world/canada/open-ai-british-columbia-shooting.html), [The Guardian World](https://www.theguardian.com/world/2026/mar/10/tumbler-ridge-shooting-victim-sues-openai-canada)
 
 
 ---
 
-**Stats**: 3 events
- | 17 articles | 8 distinct source mentions
+**Stats**: 5 events
+ | 10 articles | 10 distinct source mentions
