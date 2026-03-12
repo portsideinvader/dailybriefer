@@ -1,24 +1,21 @@
-# Morning Brief — 2026-03-11
+# Morning Brief — 2026-03-12
 
-*Generated: 2026-03-11 07:00:47*
+*Generated: 2026-03-12 07:02:40*
 
-- **At least six dead in Switzerland bus fire**
-  - [BBC World News](https://www.bbc.com/news/articles/c5y4wdlyy9xo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/mar/10/multiple-deaths-injuries-bus-fire-switzerland)
+- **Oil price tops $100 again as Iran strikes economic targets across Middle East**
+  - [New York Times World](https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel), [The Guardian World](https://www.theguardian.com/us-news/2026/mar/11/us-oil-iran-israel-war)
 
-- **JPMorgan Marks Down Private Credit Portfolios, FT Reports**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-11/jpmorgan-marks-down-private-credit-portfolios-ft-reports), [Financial Times World](https://www.ft.com/content/389a0003-d8de-4afd-9de9-be6e9fc6888c)
+- **Hong Kong Arrests Hedge Fund, Broker Staff in Insider Probe**
+  - [Financial Times World](https://www.ft.com/content/f3c781d9-72e9-413e-a255-de3e75f13717), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-12/hong-kong-probes-insider-trading-at-two-brokers-hedge-fund-firm)
 
-- **Trump Says US to Get New Oil Refinery With Reliance Backing**
-  - [CNBC Top News](https://www.cnbc.com/2026/03/11/trump-us-oil-refinery-reliance-ambani-texas-india-shale-wti.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-10/trump-says-us-to-get-new-oil-refinery-with-reliance-backing)
+- **Noma head chef resigns from restaurant amid abuse allegations**
+  - [BBC World News](https://www.bbc.com/news/articles/c07jr2pe5j9o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/food/2026/mar/11/noma-chef-resigns-rene-redzepi)
 
-- **Woman charged with attempted murder in shooting at home of Rihanna**
-  - [BBC World News](https://www.bbc.com/news/articles/cgjze644wjvo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/music/2026/mar/10/rihanna-shooting-woman-charged)
-
-- **Mother of Tumbler Ridge Shooting Victim Sues OpenAI**
-  - [New York Times World](https://www.nytimes.com/2026/03/10/world/canada/open-ai-british-columbia-shooting.html), [The Guardian World](https://www.theguardian.com/world/2026/mar/10/tumbler-ridge-shooting-victim-sues-openai-canada)
+- **Three brothers arrested after explosion at US embassy in Oslo**
+  - [BBC World News](https://www.bbc.com/news/articles/cx2grl7lrrmo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/mar/11/three-norwegian-brothers-arrested-us-embassy-blast-oslo)
 
 
 ---
 
-**Stats**: 5 events
- | 10 articles | 10 distinct source mentions
+**Stats**: 4 events
+ | 8 articles | 8 distinct source mentions
