@@ -1,21 +1,21 @@
-# Morning Brief — 2026-03-13
+# Morning Brief — 2026-03-14
 
-*Generated: 2026-03-13 07:01:02*
+*Generated: 2026-03-14 06:55:09*
 
-- **Israel Drops Case Against Soldiers Accused of Abusing Palestinian Detainee**
-  - [BBC World News](https://www.bbc.com/news/articles/cm2xrz71zm3o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/03/12/world/middleeast/israel-detainee-abuse-charges.html), [The Guardian World](https://www.theguardian.com/world/2026/mar/12/israeli-military-top-lawyer-drops-charges-soldiers-palestinian-detainee-abuse-gaza)
+- **Pink Floyd guitar sold for record-breaking $14.6m**
+  - [New York Times World](https://www.nytimes.com/2026/03/13/world/pink-floyd-guitar-gilmour-record-auction.html), [BBC World News](https://www.bbc.com/news/articles/cr45v7ey91eo?at_medium=RSS&at_campaign=rss)
 
-- **U.S. Refueling Plane Crashes in Iraq, Military Says**
-  - [The Guardian World](https://www.theguardian.com/world/live/2026/mar/13/iran-war-news-live-updates-us-israel-middle-east-crisis-latest), [The Guardian World](https://www.theguardian.com/us-news/2026/mar/12/us-military-aircraft-iraq-crash), [New York Times World](https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel), [New York Times World](https://www.nytimes.com/2026/03/12/world/middleeast/us-refueling-plane-crash-iraq.html)
+- **More US Marines and warships to be moved to Middle East, reports say**
+  - [BBC World News](https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/03/13/world/middleeast/us-marines-warships-middle-east.html)
 
-- **Brent Oil Trades Near $100 as Iran Vows to Keep Hormuz Closed**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-12/latest-oil-market-news-and-analysis-for-march-13), [CNBC Top News](https://www.cnbc.com/2026/03/12/oil-prices-jump-iea-record-reserve-release-markets-doubt-relief.html)
+- **Judge Rejects Subpoenas of Fed Board in Powell Case**
+  - [CNBC Top News](https://www.cnbc.com/2026/03/13/fed-jerome-powell-investigation-trump-pirro-doj.html), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-03-13/judge-rejects-subpoenas-of-fed-in-powell-case-video), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-03-13/judge-rejects-subpoenas-of-fed-board-in-powell-case-video)
 
-- **Two People Die After Paid Plasma Donation at Clinics in Canada**
-  - [The Guardian World](https://www.theguardian.com/world/2026/mar/12/two-plasma-donors-die-private-canada-clinics), [New York Times World](https://www.nytimes.com/2026/03/11/world/canada/winnipeg-plasma-blood-donation-deaths.html)
+- **France returns sacred 'talking drum' looted during colonial rule to Ivory Coast**
+  - [BBC World News](https://www.bbc.com/news/articles/cvg3yv2e9p1o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/mar/13/france-returns-sacred-djidji-ayokwe-talking-drum-looted-from-cote-divoire)
 
 
 ---
 
 **Stats**: 4 events
- | 11 articles | 9 distinct source mentions
+ | 9 articles | 8 distinct source mentions
