@@ -1,15 +1,24 @@
-# Morning Brief — 2026-03-15
+# Morning Brief — 2026-03-16
 
-*Generated: 2026-03-15 07:04:42*
+*Generated: 2026-03-16 07:25:05*
 
-- **Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor**
-  - [New York Times World](https://www.nytimes.com/2026/03/14/world/europe/amsterdam-rotterdam-antisemitic-attacks.html), [BBC World News](https://www.bbc.com/news/articles/cwyg4j58gdyo?at_medium=RSS&at_campaign=rss)
+- **Energy groups press UK to boost gas storage after Iran war price shock**
+  - [Financial Times World](https://www.ft.com/content/6c2f50fd-c494-4018-a147-ce7750d348d0), [CNBC Top News](https://www.cnbc.com/2026/03/15/price-caps-and-stairs-how-nations-are-coping-with-the-iran-oil-shock.html)
 
-- **German philosopher and social critic Jürgen Habermas dies at 96**
-  - [BBC World News](https://www.bbc.com/news/articles/crk8yxd2g0no?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/mar/14/jurgen-habermas-german-philosopher-and-sociologist-dies-aged-96)
+- **Israeli soldiers fire on family car in occupied West Bank, killing 4**
+  - [New York Times World](https://www.nytimes.com/2026/03/15/world/middleeast/palestinian-family-killed-west-bank.html), [NPR News](https://www.npr.org/2026/03/15/g-s1-113834/israeli-soldiers-fire-on-family-car-in-occupied-west-bank-killing-4)
+
+- **Trump Threatens Xi Summit Delay If China Doesn’t Help in Hormuz**
+  - [CNBC Top News](https://www.cnbc.com/2026/03/16/trump-possible-delay-beijing-summit-china-iran-strait-of-hormuz-.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-15/trump-floats-delaying-xi-summit-if-no-help-for-hormuz-ft-says)
+
+- **Dubai Set to Resume Flights After Drone Caused Fuel Tank Fire**
+  - [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-16/dubai-suspends-flights-at-main-airport-after-fuel-tank-attack), [Financial Times World](https://www.ft.com/content/35a07cb7-109c-47a5-a85d-7701fa7becf4)
+
+- **Michigan synagogue attacker's brother was Hezbollah commander, IDF says**
+  - [BBC World News](https://www.bbc.com/news/articles/c4gj1135x7ro?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/03/15/world/middleeast/israel-lebanon-michigan-synagogue-hezbollah.html)
 
 
 ---
 
-**Stats**: 2 events
- | 4 articles | 4 distinct source mentions
+**Stats**: 5 events
+ | 10 articles | 10 distinct source mentions
