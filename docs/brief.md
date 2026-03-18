@@ -1,24 +1,21 @@
-# Morning Brief — 2026-03-17
+# Morning Brief — 2026-03-18
 
-*Generated: 2026-03-17 07:11:22*
+*Generated: 2026-03-18 07:07:22*
 
-- **RBA Raises Interest Rates in Back-to-Back Hike**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-03-17/rba-raises-interest-rates-in-back-to-back-hike-video), [Financial Times World](https://www.ft.com/content/3b0e6846-1d95-4b1e-b759-34b4467ae249)
+- **Nvidia CEO Jensen Huang says OpenClaw is 'definitely the next ChatGPT'**
+  - [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-18/china-s-openclaw-stocks-rise-as-nvidia-calls-it-the-next-chatgpt), [CNBC Top News](https://www.cnbc.com/2026/03/17/nvidia-ceo-jensen-huang-says-openclaw-is-definitely-the-next-chatgpt.html)
 
-- **Oil jumps as Iran steps up attacks on infrastructure**
-  - [Financial Times World](https://www.ft.com/content/3b4fd03c-e416-4cbd-bf5c-adca908e6911), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-16/latest-oil-market-news-and-analysis-for-march-17)
+- **Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'**
+  - [BBC World News](https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/03/17/us/politics/joe-kent-counterterrorism-resigns-iran-war.html)
 
-- **Who wants what from the Iran war?**
-  - [New York Times World](https://www.nytimes.com/2026/03/17/world/asia/iran-war-china-us-trump-xi.html), [BBC World News](https://www.bbc.com/news/articles/cgk2lm5znyro?at_medium=RSS&at_campaign=rss)
+- **Trump Says U.S. Doesn’t Need Allies to Reopen Strait of Hormuz**
+  - [New York Times World](https://www.nytimes.com/2026/03/17/us/politics/trump-nato-iran-strait-of-hormuz.html), [The Guardian World](https://www.theguardian.com/world/2026/mar/17/trump-us-president-nato-strait-of-hormuz-iran-middle-east)
 
-- **Afghanistan accuses Pakistan of deadly strike on Kabul hospital**
-  - [The Guardian World](https://www.theguardian.com/world/2026/mar/16/afghanistan-accuses-pakistan-of-kabul-hospital-strike-killed), [NPR News](https://www.npr.org/2026/03/16/g-s1-114013/pakistan-strike-kabul-hospital)
-
-- **Trump Says He Asked China to Delay Xi Summit Due to Iran War**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-03-17/trump-says-he-asked-china-to-delay-xi-summit-video), [CNBC Top News](https://www.cnbc.com/2026/03/16/trump-china-iran-xi-war-trade.html), [CNBC Top News](https://www.cnbc.com/2026/03/16/bessent-trump-xi-china-iran-war.html)
+- **At Least 23 Killed in Nigeria as Insurgent Attacks Go On Despite U.S. Help**
+  - [New York Times World](https://www.nytimes.com/2026/03/17/world/africa/nigeria-suicide-bombings-maiduguri.html), [The Guardian World](https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri)
 
 
 ---
 
-**Stats**: 5 events
- | 11 articles | 10 distinct source mentions
+**Stats**: 4 events
+ | 8 articles | 8 distinct source mentions
