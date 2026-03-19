@@ -1,21 +1,15 @@
-# Morning Brief — 2026-03-18
+# Morning Brief — 2026-03-19
 
-*Generated: 2026-03-18 07:07:22*
+*Generated: 2026-03-19 07:03:53*
 
-- **Nvidia CEO Jensen Huang says OpenClaw is 'definitely the next ChatGPT'**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-18/china-s-openclaw-stocks-rise-as-nvidia-calls-it-the-next-chatgpt), [CNBC Top News](https://www.cnbc.com/2026/03/17/nvidia-ceo-jensen-huang-says-openclaw-is-definitely-the-next-chatgpt.html)
+- **Bank of Japan Holds Steady on Rates**
+  - [CNBC Top News](https://www.cnbc.com/2026/03/19/bank-of-japan-keeps-rates-steady-as-expected-warns-iran-war-may-push-up-inflation.html), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-03-19/bank-of-japan-holds-steady-on-rates-video), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-19/japan-stocks-fall-after-oil-price-surges-fed-holds-key-rate), [CNBC Top News](https://www.cnbc.com/2026/03/18/fed-march-rate-decision.html)
 
-- **Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'**
-  - [BBC World News](https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/03/17/us/politics/joe-kent-counterterrorism-resigns-iran-war.html)
-
-- **Trump Says U.S. Doesn’t Need Allies to Reopen Strait of Hormuz**
-  - [New York Times World](https://www.nytimes.com/2026/03/17/us/politics/trump-nato-iran-strait-of-hormuz.html), [The Guardian World](https://www.theguardian.com/world/2026/mar/17/trump-us-president-nato-strait-of-hormuz-iran-middle-east)
-
-- **At Least 23 Killed in Nigeria as Insurgent Attacks Go On Despite U.S. Help**
-  - [New York Times World](https://www.nytimes.com/2026/03/17/world/africa/nigeria-suicide-bombings-maiduguri.html), [The Guardian World](https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri)
+- **Israel Has Killed Esmaeil Khatib, Iran’s Intelligence Minister**
+  - [New York Times World](https://www.nytimes.com/2026/03/18/world/middleeast/iran-intelligence-minister-khatib-israel.html), [BBC World News](https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss)
 
 
 ---
 
-**Stats**: 4 events
- | 8 articles | 8 distinct source mentions
+**Stats**: 2 events
+ | 6 articles | 4 distinct source mentions
