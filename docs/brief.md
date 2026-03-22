@@ -1,30 +1,27 @@
-# Morning Brief — 2026-03-21
+# Morning Brief — 2026-03-22
 
-*Generated: 2026-03-21 06:52:27*
+*Generated: 2026-03-22 06:57:51*
 
-- **Trump considers ‘winding down’ US military operations against Iran**
-  - [Financial Times World](https://www.ft.com/content/5c38c404-9f3b-4108-be97-019d043cddd0), [CNBC Top News](https://www.cnbc.com/2026/03/20/trump-iran-war-troops-rebuild.html)
+- **Trump Gives Iran 48 Hours on Hormuz, Threatens Power Plants**
+  - [CNBC Top News](https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-22/trump-gives-iran-48-hours-to-open-strait-threatens-power-plants)
 
-- **Buffy the Vampire Slayer actor Nicholas Brendon dies aged 54**
-  - [BBC World News](https://www.bbc.com/news/articles/ckg9wgj9y5no?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/tv-and-radio/2026/mar/20/nicholas-brendon-buffy-the-vampire-slayer-actor-dies)
+- **Robert Mueller, ex-FBI director who led 2016 Russia inquiry, dies at 81**
+  - [BBC World News](https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2026/03/21/nx-s1-5755800/robert-s-mueller-iii-ex-fbi-director-who-led-2016-russia-inquiry-dead-at-81)
 
-- **US lifts sanctions on some Iranian oil as gas prices soar**
-  - [New York Times World](https://www.nytimes.com/2026/03/20/world/middleeast/us-sanctions-iran-oil.html), [BBC World News](https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss)
+- **Thousands evacuated as Hawaii faces worst flooding in 20 years**
+  - [The Guardian World](https://www.theguardian.com/us-news/2026/mar/21/hawaii-flooding-warnings), [BBC World News](https://www.bbc.com/news/articles/c20qj970gwro?at_medium=RSS&at_campaign=rss)
 
-- **Musk defrauded Twitter investors during buyout, jury finds**
-  - [CNBC Top News](https://www.cnbc.com/2026/03/20/elon-musk-determined-to-be-liable-for-misleading-twitter-investors.html), [Financial Times World](https://www.ft.com/content/88161509-efe4-4b7b-8465-d66645b445d0)
+- **Trump threatens to send ICE into airports unless funding deal reached**
+  - [The Guardian World](https://www.theguardian.com/us-news/2026/mar/21/trump-threatens-to-send-ice-agents-to-airports-unless-dhs-deal-reached), [BBC World News](https://www.bbc.com/news/articles/c3ex9nq2qywo?at_medium=RSS&at_campaign=rss)
 
-- **Nuclear Energy Firm X-Energy Files for US IPO Despite War**
-  - [Financial Times World](https://www.ft.com/content/22d28650-5536-4446-92ba-b094f56d13fa), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-20/nuclear-energy-firm-x-energy-files-for-us-ipo-despite-war)
+- **Former special counsel Robert Mueller has died at 81**
+  - [CNBC Top News](https://www.cnbc.com/2026/03/21/robert-mueller-died-at-81.html), [Financial Times World](https://www.ft.com/content/368059cb-ad49-495e-aefb-01288bd45a15)
 
-- **Elon Musk misled Twitter investors, jury finds**
-  - [BBC World News](https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2026/03/20/g-s1-114660/elon-musk-misled-investors-twitter-purchase)
-
-- **Trump Says 'I Don't Want to Do a Ceasefire' With Iran**
-  - [CNBC Top News](https://www.cnbc.com/2026/03/20/trump-iran-war-ceasefire.html), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-03-20/trump-says-i-don-t-want-to-do-a-ceasefire-with-iran-video)
+- **​At Least 14 Killed in South Korean Factory Fire**
+  - [New York Times World](https://www.nytimes.com/2026/03/20/world/asia/south-korea-factory-fire-deaths.html), [The Guardian World](https://www.theguardian.com/world/2026/mar/21/south-korea-fire-daejeon-car-parts-factory)
 
 
 ---
 
-**Stats**: 7 events
- | 14 articles | 14 distinct source mentions
+**Stats**: 6 events
+ | 12 articles | 12 distinct source mentions
