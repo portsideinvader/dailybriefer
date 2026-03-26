@@ -1,27 +1,21 @@
-# Morning Brief — 2026-03-25
+# Morning Brief — 2026-03-26
 
-*Generated: 2026-03-25 07:08:50*
+*Generated: 2026-03-26 07:16:05*
 
-- **What We Know About Trump's 15-Point Plan**
-  - [Financial Times World](https://www.ft.com/content/eb0106ba-6f5a-419d-bc8c-ae6b348b9f32), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-03-25/what-we-know-about-trump-s-15-point-plan-video)
+- **Oil Advances as US and Iran Offer Conflicting Comments on Talks**
+  - [CNBC Top News](https://www.cnbc.com/2026/03/26/asia-pacific-markets-live-updates-nikkei-225-kospi-hang-seng-index.html), [CNBC Top News](https://www.cnbc.com/2026/03/26/oil-price-wti-brent-crude-iran-rejects-direct-us-trump-talks-hormuz.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-25/latest-oil-market-news-and-analysis-for-march-26)
 
-- **Oil back near $100 as Trump sends mixed signals on war**
-  - [CNBC Top News](https://www.cnbc.com/2026/03/25/oil-price-wti-brent-gas-lng-trump-iran-talks-hormuz.html), [Financial Times World](https://www.ft.com/content/e35ce13e-0e11-4363-9e6c-bcdd963404fb), [CNBC Top News](https://www.cnbc.com/2026/03/24/trump-iran-war-pakistan-talks.html)
+- **White House says Trump will meet Xi in China in May**
+  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-03-26/the-china-show-3-26-2026-video), [CNBC Top News](https://www.cnbc.com/2026/03/25/trump-xi-beijing-china-summit.html)
 
-- **Oil Falls on US Diplomatic Push to End War With Iran**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-03-25/the-china-show-3-25-2026-video), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-03-25/oil-falls-on-us-diplomatic-push-to-end-war-with-iran-video), [CNBC Top News](https://www.cnbc.com/2026/03/24/trump-iran-war-negotiations.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-24/latest-oil-market-news-and-analysis-for-march-25)
+- **US and Iran Wrangle Over Talks, No End in Sight**
+  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-03-26/us-and-iran-wrangle-over-talks-no-end-in-sight-video), [CNBC Top News](https://www.cnbc.com/2026/03/25/iran-war-us-trump.html)
 
-- **Democrats flip Florida  seat that includes Trump's Mar-a-Lago home**
-  - [BBC World News](https://www.bbc.com/news/articles/c9qd7wyln2jo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/mar/24/democrats-flip-florida-seat-emily-gregory-mar-a-lago)
-
-- **Russia Launches Daytime Attack on Ukraine With Over 500 Drones**
-  - [BBC World News](https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/03/24/world/europe/russia-attack-drones-ukraine-lviv.html)
-
-- **Israel says it will take control of large buffer zone in southern Lebanon**
-  - [BBC World News](https://www.bbc.com/news/articles/cy91j9qwp4do?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/03/24/world/middleeast/israel-southern-lebanon-defense-minister.html)
+- **Matt Brittin, Former Google Executive, Named the New BBC Head**
+  - [The Guardian World](https://www.theguardian.com/media/2026/mar/25/new-bbc-director-general-matt-brittin-former-google-executive-olympic-rower), [New York Times World](https://www.nytimes.com/2026/03/25/world/europe/matt-brittin-bbc-director-general.html)
 
 
 ---
 
-**Stats**: 6 events
- | 15 articles | 12 distinct source mentions
+**Stats**: 4 events
+ | 9 articles | 8 distinct source mentions
