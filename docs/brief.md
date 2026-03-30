@@ -1,21 +1,27 @@
-# Morning Brief — 2026-03-29
+# Morning Brief — 2026-03-30
 
-*Generated: 2026-03-29 07:10:56*
+*Generated: 2026-03-30 07:49:39*
 
-- **Photos: 'No Kings' protests across the country**
-  - [BBC World News](https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/live/2026/mar/28/no-kings-protests-us-trump-administration-latest-updates), [NPR News](https://www.npr.org/sections/the-picture-show/2026/03/28/g-s1-115637/photos-no-kings-protests-across-the-country)
+- **Dezi Freeman shot dead by police after seven-month manhunt**
+  - [BBC World News](https://www.bbc.com/news/articles/c93e4gxn22wo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/australia-news/2026/mar/30/dezi-freeman-shot-dead-police-shooting-victoria-porepunkah-ntwnfb)
 
-- **Yemen's Houthis launch Israel strike, the first time since the U.S.-Israel war began**
-  - [Financial Times World](https://www.ft.com/content/99a5df0f-1c77-46db-abf1-543a4fe05862), [CNBC Top News](https://www.cnbc.com/2026/03/28/yemens-houthis-launch-israel-strike-the-first-of-the-iran-war.html)
+- **Gold Finds Footing Near $4,500 as Iran War Enters Fifth Week**
+  - [CNBC Top News](https://www.cnbc.com/2026/03/30/oil-price-today-wti-brent-yemen-houthis-israel-iran-war.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-29/gold-steadies-as-iran-war-enters-fifth-week-with-no-end-in-sight)
 
-- **How the Iran War Is Disrupting Global Fertilizer Supply**
-  - [CNBC Top News](https://www.cnbc.com/2026/03/28/iran-war-oil-companies-price-gas-diesel-strait-hormuz.html), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-03-28/how-the-iran-war-is-disrupting-global-fertilizer-supply), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-28/war-forces-global-elite-to-stare-into-abyss-of-perpetual-shocks)
+- **Thieves steal Renoir, Cézanne and Matisse paintings in three-minute Italian heist**
+  - [The Guardian World](https://www.theguardian.com/artanddesign/2026/mar/30/paintings-stolen-museum-italy-renoir-cezanne-matisse), [BBC World News](https://www.bbc.com/news/articles/cn4vw2xmpzzo?at_medium=RSS&at_campaign=rss)
 
-- **Man in Paris Accused of Attempted Attack on Bank of America**
-  - [New York Times World](https://www.nytimes.com/2026/03/28/world/europe/paris-attack-bank-of-america.html), [The Guardian World](https://www.theguardian.com/world/2026/mar/28/paris-police-foil-attempted-bomb-attack-bank-of-america)
+- **U.S. Allows Russian Oil Tanker to Reach Cuba, Despite Blockade**
+  - [NPR News](https://www.npr.org/2026/03/30/nx-s1-5765971/trump-allows-russia-oil-tanker-relief-cuba-blockade), [New York Times World](https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html)
+
+- **Partial government shutdown becomes the longest in US history**
+  - [BBC World News](https://www.bbc.com/news/articles/cyv1qpzq5v7o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/mar/29/dhs-longest-partial-government-shutdown)
+
+- **Hundreds in Beirut mourn journalists killed in Israeli strike**
+  - [New York Times World](https://www.nytimes.com/2026/03/29/world/middleeast/funerals-lebanese-killed-israeli-strike.html), [BBC World News](https://www.bbc.com/news/videos/ce354d73v2ko?at_medium=RSS&at_campaign=rss)
 
 
 ---
 
-**Stats**: 4 events
- | 10 articles | 9 distinct source mentions
+**Stats**: 6 events
+ | 12 articles | 12 distinct source mentions
