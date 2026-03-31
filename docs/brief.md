@@ -1,27 +1,24 @@
-# Morning Brief — 2026-03-30
+# Morning Brief — 2026-03-31
 
-*Generated: 2026-03-30 07:49:39*
+*Generated: 2026-03-31 07:23:02*
 
-- **Dezi Freeman shot dead by police after seven-month manhunt**
-  - [BBC World News](https://www.bbc.com/news/articles/c93e4gxn22wo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/australia-news/2026/mar/30/dezi-freeman-shot-dead-police-shooting-victoria-porepunkah-ntwnfb)
+- **Israel Passes Law to Hang Palestinians Convicted of Deadly Attacks**
+  - [New York Times World](https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html), [BBC World News](https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/mar/30/israel-passes-law-death-penalty-palestinian-convicted-terrorists)
 
-- **Gold Finds Footing Near $4,500 as Iran War Enters Fifth Week**
-  - [CNBC Top News](https://www.cnbc.com/2026/03/30/oil-price-today-wti-brent-yemen-houthis-israel-iran-war.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-29/gold-steadies-as-iran-war-enters-fifth-week-with-no-end-in-sight)
+- **Oil Swings on Trump War Report, Kuwaiti Tanker Attack**
+  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-03-31/oil-swings-on-trump-war-report-kuwaiti-tanker-attack-video), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-03-31/the-china-show-3-31-2026-video), [MarketWatch](https://www.marketwatch.com/story/stock-futures-jump-oil-prices-retreat-on-report-trump-willing-to-end-war-7ad7ae49?mod=mw_rss_topstories), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-30/stock-market-today-dow-s-p-live-updates), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-30/latest-oil-market-news-and-analysis-for-march-31)
 
-- **Thieves steal Renoir, Cézanne and Matisse paintings in three-minute Italian heist**
-  - [The Guardian World](https://www.theguardian.com/artanddesign/2026/mar/30/paintings-stolen-museum-italy-renoir-cezanne-matisse), [BBC World News](https://www.bbc.com/news/articles/cn4vw2xmpzzo?at_medium=RSS&at_campaign=rss)
+- **Thieves steal paintings by Renoir, Cézanne and Matisse from a private museum in Italy**
+  - [NPR News](https://www.npr.org/2026/03/31/nx-s1-5766986/thieves-steal-paintings-renoir-cezanne-matisse-italy), [New York Times World](https://www.nytimes.com/2026/03/30/world/europe/parma-art-heist-renoir-matisse-cezanne-italy.html)
 
-- **U.S. Allows Russian Oil Tanker to Reach Cuba, Despite Blockade**
-  - [NPR News](https://www.npr.org/2026/03/30/nx-s1-5765971/trump-allows-russia-oil-tanker-relief-cuba-blockade), [New York Times World](https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html)
+- **Two More U.N. Peacekeepers Are Killed in Southern Lebanon**
+  - [New York Times World](https://www.nytimes.com/2026/03/30/world/middleeast/lebanon-un-peacekeepers.html), [BBC World News](https://www.bbc.com/news/articles/c4gd20evgp0o?at_medium=RSS&at_campaign=rss)
 
-- **Partial government shutdown becomes the longest in US history**
-  - [BBC World News](https://www.bbc.com/news/articles/cyv1qpzq5v7o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/mar/29/dhs-longest-partial-government-shutdown)
-
-- **Hundreds in Beirut mourn journalists killed in Israeli strike**
-  - [New York Times World](https://www.nytimes.com/2026/03/29/world/middleeast/funerals-lebanese-killed-israeli-strike.html), [BBC World News](https://www.bbc.com/news/videos/ce354d73v2ko?at_medium=RSS&at_campaign=rss)
+- **Spain closes airspace to US aircraft involved in Iran war**
+  - [BBC World News](https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/mar/30/spain-closes-airspace-to-us-military-over-iran-war-widening-rift-with-us)
 
 
 ---
 
-**Stats**: 6 events
- | 12 articles | 12 distinct source mentions
+**Stats**: 5 events
+ | 14 articles | 11 distinct source mentions
