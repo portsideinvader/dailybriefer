@@ -1,15 +1,12 @@
-# Morning Brief — 2026-04-05
+# Morning Brief — 2026-04-06
 
-*Generated: 2026-04-05 07:13:48*
+*Generated: 2026-04-06 07:51:13*
 
-- **Search for Missing US Airman in Iran**
-  - [Financial Times World](https://www.ft.com/content/cc8974c6-2552-424c-9eab-231c49095461), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-04-04/search-for-missing-us-airman-in-iran-video)
-
-- **Fugitive mafia boss wanted for murder arrested at Amalfi coast luxury villa**
-  - [The Guardian World](https://www.theguardian.com/world/2026/apr/04/fugitive-mafia-boss-wanted-arrested-roberto-mazzarella), [BBC World News](https://www.bbc.com/news/articles/cn437qkk80lo?at_medium=RSS&at_campaign=rss)
+- **Pope Leo XIV Calls for Peace in First Easter Mass**
+  - [BBC World News](https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/04/05/world/europe/pope-leo-easter.html)
 
 
 ---
 
-**Stats**: 2 events
- | 4 articles | 4 distinct source mentions
+**Stats**: 1 events
+ | 2 articles | 2 distinct source mentions
