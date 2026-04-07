@@ -1,12 +1,18 @@
-# Morning Brief — 2026-04-06
+# Morning Brief — 2026-04-07
 
-*Generated: 2026-04-06 07:51:13*
+*Generated: 2026-04-07 07:25:06*
 
-- **Pope Leo XIV Calls for Peace in First Easter Mass**
-  - [BBC World News](https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/04/05/world/europe/pope-leo-easter.html)
+- **Iran War Live Updates: Trump’s Hormuz Deadline Hangs Over the Middle East**
+  - [New York Times World](https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news), [The Guardian World](https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel)
+
+- **How Iran War Could Reshape US Alliances in Asia**
+  - [Financial Times World](https://www.ft.com/content/a0265610-bfc4-4198-9ffd-c21d52fb473a), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-04-07/how-iran-war-could-reshape-us-alliances-in-asia-video)
+
+- **Trump Revels in Threats to Commit War Crimes in Iran**
+  - [The Guardian World](https://www.theguardian.com/law/2026/apr/06/trump-threats-dilemma-for-officers-disobey-orders-or-commit-war-crimes), [New York Times World](https://www.nytimes.com/2026/04/05/us/politics/trump-iran-war-crimes-truth-social.html)
 
 
 ---
 
-**Stats**: 1 events
- | 2 articles | 2 distinct source mentions
+**Stats**: 3 events
+ | 6 articles | 6 distinct source mentions
