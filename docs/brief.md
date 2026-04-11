@@ -1,21 +1,24 @@
-# Morning Brief — 2026-04-10
+# Morning Brief — 2026-04-11
 
-*Generated: 2026-04-10 07:49:16*
+*Generated: 2026-04-11 07:06:08*
 
-- **Melania Trump denies close ties to Jeffrey Epstein in rare public statement**
-  - [BBC World News](https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2026/04/09/nx-s1-5779783/melania-trump-jeffrey-epstein)
+- **Hormuz, Lebanon Central to US, Iran Peace Talks**
+  - [Financial Times World](https://www.ft.com/content/5a14a4dd-0042-46bf-bbdf-bc0cc19635b1), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-04-10/hormuz-lebanon-central-to-us-iran-peace-talks-video)
 
-- **Vladimir Putin announces Orthodox Easter ceasefire with Ukraine**
-  - [New York Times World](https://www.nytimes.com/2026/04/09/world/europe/russia-ukraine-cease-fire.html), [The Guardian World](https://www.theguardian.com/world/2026/apr/09/vladimir-putin-announces-orthodox-easter-ceasefire-with-ukraine)
+- **Frontrunner for California governor denies sexual assault allegations**
+  - [BBC World News](https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/apr/10/eric-swalwell-california-sexual-assault-allegations)
 
-- **Israel Says It Will Talk With Lebanon but Gives No Sign of a Cease-Fire There**
-  - [The Guardian World](https://www.theguardian.com/world/2026/apr/09/israel-bombing-lebanon-us-iran-ceasefire-condemnation), [New York Times World](https://www.nytimes.com/2026/04/09/world/middleeast/israel-lebanon-talks-hezbollah.html)
+- **Molotov cocktail thrown at home of OpenAI chief Sam Altman**
+  - [CNBC Top News](https://www.cnbc.com/2026/04/10/sam-altman-house-hit-with-molotov-cocktail-openai-office-threatened.html), [Financial Times World](https://www.ft.com/content/46ec2fa5-834d-4e49-81ef-6fb736b7e81d)
 
-- **Oil Holds Gain After Attacks Lower Saudi Production Capacity**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-04-09/latest-oil-market-news-and-analysis-for-april-10), [CNBC Top News](https://www.cnbc.com/2026/04/09/iran-war-oil-saudi-arabia-east-west-pipeline.html)
+- **Prince Harry Is Sued for Libel by a Charity He Founded**
+  - [New York Times World](https://www.nytimes.com/2026/04/10/world/europe/prince-harry-sentebale-libel-lawsuit.html), [The Guardian World](https://www.theguardian.com/uk-news/2026/apr/10/prince-harry-sued-defamation-charity-sentebale)
+
+- **Xi Meets Taiwan Opposition Leader for First Time in a Decade**
+  - [NPR News](https://www.npr.org/2026/04/10/nx-s1-5780605/china-xi-taiwan-opposition), [New York Times World](https://www.nytimes.com/2026/04/10/world/asia/taiwan-china-xi-cheng.html)
 
 
 ---
 
-**Stats**: 4 events
- | 8 articles | 8 distinct source mentions
+**Stats**: 5 events
+ | 10 articles | 10 distinct source mentions
