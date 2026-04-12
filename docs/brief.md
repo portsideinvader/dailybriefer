@@ -1,24 +1,12 @@
-# Morning Brief — 2026-04-11
+# Morning Brief — 2026-04-12
 
-*Generated: 2026-04-11 07:06:08*
+*Generated: 2026-04-12 07:21:40*
 
-- **Hormuz, Lebanon Central to US, Iran Peace Talks**
-  - [Financial Times World](https://www.ft.com/content/5a14a4dd-0042-46bf-bbdf-bc0cc19635b1), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-04-10/hormuz-lebanon-central-to-us-iran-peace-talks-video)
-
-- **Frontrunner for California governor denies sexual assault allegations**
-  - [BBC World News](https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/apr/10/eric-swalwell-california-sexual-assault-allegations)
-
-- **Molotov cocktail thrown at home of OpenAI chief Sam Altman**
-  - [CNBC Top News](https://www.cnbc.com/2026/04/10/sam-altman-house-hit-with-molotov-cocktail-openai-office-threatened.html), [Financial Times World](https://www.ft.com/content/46ec2fa5-834d-4e49-81ef-6fb736b7e81d)
-
-- **Prince Harry Is Sued for Libel by a Charity He Founded**
-  - [New York Times World](https://www.nytimes.com/2026/04/10/world/europe/prince-harry-sentebale-libel-lawsuit.html), [The Guardian World](https://www.theguardian.com/uk-news/2026/apr/10/prince-harry-sued-defamation-charity-sentebale)
-
-- **Xi Meets Taiwan Opposition Leader for First Time in a Decade**
-  - [NPR News](https://www.npr.org/2026/04/10/nx-s1-5780605/china-xi-taiwan-opposition), [New York Times World](https://www.nytimes.com/2026/04/10/world/asia/taiwan-china-xi-cheng.html)
+- **Vance says US and Iran fail to reach deal**
+  - [Financial Times World](https://www.ft.com/content/55e4467b-19c3-433e-851c-2966f60c9f84), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-04-12/us-and-iran-have-failed-to-reach-an-agreement-jd-vance-says), [Financial Times World](https://www.ft.com/content/9ba4f9b7-8c8a-440c-87bf-f4de8b785f9f), [CNBC Top News](https://www.cnbc.com/2026/04/11/us-iran-talks-set-to-begin-in-islamabad-after-delegations-arrive.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-04-12/us-hasn-t-reached-agreement-with-iran-vance-says) (+1 more)
 
 
 ---
 
-**Stats**: 5 events
- | 10 articles | 10 distinct source mentions
+**Stats**: 1 events
+ | 6 articles | 3 distinct source mentions
