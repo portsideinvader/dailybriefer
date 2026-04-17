@@ -1,30 +1,21 @@
-# Morning Brief — 2026-04-16
+# Morning Brief — 2026-04-17
 
-*Generated: 2026-04-16 07:55:01*
+*Generated: 2026-04-17 07:56:23*
 
-- **China’s growth hits 5% despite Iran war**
-  - [CNBC Top News](https://www.cnbc.com/2026/04/16/china-gdp-growth-first-quarter-exports-property-retail-sales-iran-war.html), [Financial Times World](https://www.ft.com/content/f2b53afc-be95-4788-bb03-9227d4bc7379), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-04-16/china-s-growth-rebound-tops-forecasts-with-iran-war-impact-muted)
+- **Uber expands its stake in Delivery Hero in €270mn deal**
+  - [CNBC Top News](https://www.cnbc.com/2026/04/17/uber-raises-stake-delivery-hero-prosus.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-04-17/uber-raises-delivery-hero-stake-in-270-million-prosus-deal), [Financial Times World](https://www.ft.com/content/386404bb-b1ce-426a-93b5-d7502790ad8c)
 
-- **South Africa names apartheid-era negotiator as ambassador to US**
-  - [New York Times World](https://www.nytimes.com/2026/04/15/world/africa/south-africa-us-ambassador-roelf-meyer.html), [The Guardian World](https://www.theguardian.com/world/2026/apr/15/south-africa-names-ambassador-us-roelf-meyer), [BBC World News](https://www.bbc.com/news/articles/cwyjjjz8n8ko?at_medium=RSS&at_campaign=rss)
+- **ICE acting director Todd Lyons will resign at end of May, DHS says**
+  - [NPR News](https://www.npr.org/2026/04/17/g-s1-117780/ice-acting-director-lyons-will-resign-at-end-of-may), [The Guardian World](https://www.theguardian.com/us-news/2026/apr/16/todd-lyons-ice-director-resigns)
 
-- **UK economy beat expectations to grow by 0.5% in February**
-  - [Financial Times World](https://www.ft.com/content/06ba79d2-8e7b-45fa-bc3d-4602c4520fe5), [CNBC Top News](https://www.cnbc.com/2026/04/16/uk-gdp-march-2026-iran-war.html)
+- **Naples bank robbers hold 25 people hostage then vanish through tunnel**
+  - [The Guardian World](https://www.theguardian.com/world/2026/apr/16/armed-robbers-hostages-naples-bank-flee-hole-floor-sewers), [BBC World News](https://www.bbc.com/news/articles/c05d216rj85o?at_medium=RSS&at_campaign=rss)
 
-- **Tesco warns Middle East war is clouding outlook**
-  - [Financial Times World](https://www.ft.com/content/ea9f0c79-4c54-4c84-8a2b-c323afd79aec), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-04-16/tesco-says-middle-east-conflict-causing-uncertainty-for-outlook)
-
-- **France seeks release of 86-year-old French widow detained by ICE**
-  - [NPR News](https://www.npr.org/2026/04/16/g-s1-117615/france-seeks-release-of-86-year-old-detained-by-ice), [The Guardian World](https://www.theguardian.com/us-news/2026/apr/15/french-widow-detained-ice-marie-therese-ross)
-
-- **Can Trump unseat Powell as Fed chair?**
-  - [Financial Times World](https://www.ft.com/content/07476cf0-7dbf-43a1-b29c-1c0c75783518), [CNBC Top News](https://www.cnbc.com/2026/04/15/trump-threatens-to-fire-powell-if-the-fed-chair-doesnt-leave-office-on-his-own.html)
-
-- **Once again, Trump threatens to fire Fed Chair Jerome Powell**
-  - [BBC World News](https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2026/04/15/nx-s1-5786478/trump-federa-reserve-jerome-powell)
+- **South African Politician Julius Malema Is Sentenced to 5 Years in Prison**
+  - [BBC World News](https://www.bbc.com/news/articles/c9wqeggd27yo?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/04/16/world/africa/south-africa-malema-sentencing-prison.html)
 
 
 ---
 
-**Stats**: 7 events
- | 16 articles | 16 distinct source mentions
+**Stats**: 4 events
+ | 9 articles | 9 distinct source mentions
