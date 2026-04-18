@@ -1,21 +1,24 @@
-# Morning Brief — 2026-04-17
+# Morning Brief — 2026-04-18
 
-*Generated: 2026-04-17 07:56:23*
+*Generated: 2026-04-18 07:15:18*
 
-- **Uber expands its stake in Delivery Hero in €270mn deal**
-  - [CNBC Top News](https://www.cnbc.com/2026/04/17/uber-raises-stake-delivery-hero-prosus.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-04-17/uber-raises-delivery-hero-stake-in-270-million-prosus-deal), [Financial Times World](https://www.ft.com/content/386404bb-b1ce-426a-93b5-d7502790ad8c)
+- **Iran says strait of Hormuz ‘completely open’ but sounds warning on US blockade**
+  - [The Guardian World](https://www.theguardian.com/world/2026/apr/17/strait-of-hormuz-now-open-to-commercial-vessels), [NPR News](https://www.npr.org/2026/04/17/g-s1-117788/middle-east-conflict-israel-lebanon-us-updates)
 
-- **ICE acting director Todd Lyons will resign at end of May, DHS says**
-  - [NPR News](https://www.npr.org/2026/04/17/g-s1-117780/ice-acting-director-lyons-will-resign-at-end-of-may), [The Guardian World](https://www.theguardian.com/us-news/2026/apr/16/todd-lyons-ice-director-resigns)
+- **AI Chipmaker Cerebras Systems Files Publicly for US IPO**
+  - [CNBC Top News](https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-04-17/ai-chipmaker-cerebras-systems-files-publicly-again-for-us-ipo)
 
-- **Naples bank robbers hold 25 people hostage then vanish through tunnel**
-  - [The Guardian World](https://www.theguardian.com/world/2026/apr/16/armed-robbers-hostages-naples-bank-flee-hole-floor-sewers), [BBC World News](https://www.bbc.com/news/articles/c05d216rj85o?at_medium=RSS&at_campaign=rss)
+- **Blue Owl Co-CEOs’ Personal Loans No Longer Backed by Firm Shares**
+  - [Financial Times World](https://www.ft.com/content/a90dce4c-764c-4b72-8411-685479f46eed), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-04-17/blue-owl-co-ceos-personal-loans-no-longer-backed-by-firm-shares)
 
-- **South African Politician Julius Malema Is Sentenced to 5 Years in Prison**
-  - [BBC World News](https://www.bbc.com/news/articles/c9wqeggd27yo?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/04/16/world/africa/south-africa-malema-sentencing-prison.html)
+- **LNG Ships Move Toward Hormuz After Iran Says Strait Is Open**
+  - [Financial Times World](https://www.ft.com/content/bb35fb5a-0df2-427c-8da0-5b55a0cdd97e), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-04-17/oil-tankers-dash-toward-hormuz-as-iran-says-strait-open-video), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-04-17/empty-lng-tankers-attempt-hormuz-crossing-into-persian-gulf)
+
+- **Israel-Lebanon Cease-Fire: What to Know**
+  - [BBC World News](https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/04/17/world/middleeast/israel-lebanon-ceasefire.html)
 
 
 ---
 
-**Stats**: 4 events
- | 9 articles | 9 distinct source mentions
+**Stats**: 5 events
+ | 11 articles | 10 distinct source mentions
