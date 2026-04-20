@@ -1,12 +1,12 @@
-# Morning Brief — 2026-04-19
+# Morning Brief — 2026-04-20
 
-*Generated: 2026-04-19 07:25:46*
+*Generated: 2026-04-20 08:16:45*
 
-- **Iran Claims ‘Strict Control’ of Strait of Hormuz**
-  - [Financial Times World](https://www.ft.com/content/b45b0ebe-7f8c-40f3-a804-303aba404e22), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-04-18/iran-claims-strict-control-of-strait-of-hormuz-video), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-04-18/peace-deal-uncertain-iran-says-strait-of-hormuz-is-shut-video), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-04-18/strait-of-hormuz-shut-amid-reports-of-gunfire-video)
+- **U.S. seizes Iranian cargo ship in Strait of Hormuz**
+  - [The Guardian World](https://www.theguardian.com/us-news/2026/apr/19/trump-us-seizes-iran-flagged-cargo-ship), [NPR News](https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible)
 
 
 ---
 
 **Stats**: 1 events
- | 4 articles | 2 distinct source mentions
+ | 2 articles | 2 distinct source mentions
