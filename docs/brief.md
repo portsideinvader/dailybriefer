@@ -1,24 +1,24 @@
-# Morning Brief — 2026-04-25
+# Morning Brief — 2026-04-26
 
-*Generated: 2026-04-25 07:24:46*
+*Generated: 2026-04-26 07:45:51*
 
-- **Kushner and Witkoff Traveling to Pakistan to Resume Iran Talks**
-  - [New York Times World](https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan), [New York Times World](https://www.nytimes.com/2026/04/24/world/middleeast/kushner-witkoff-pakistan-iran.html), [The Guardian World](https://www.theguardian.com/world/2026/apr/24/iran-foreign-minister-to-embark-on-three-nation-tour-as-us-peace-talks-remain-stalled), [NPR News](https://www.npr.org/2026/04/24/g-s1-118595/middle-east-war-updates)
+- **Trump cancels trip by US negotiators for Iran peace talks**
+  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-04-25/trump-scraps-us-trip-for-iran-talks-video), [Financial Times World](https://www.ft.com/content/c3be45f6-0e2d-4683-bd10-e0ba726ffade), [CNBC Top News](https://www.cnbc.com/2026/04/25/iran-says-no-meeting-with-us-negotiators-planned-in-pakistan.html)
 
-- **31 sloths die in Florida before opening of attraction**
-  - [BBC World News](https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/apr/24/florida-sloth-deaths-tourist-attraction)
+- **A suspect is in custody after Trump is rushed from correspondents' dinner**
+  - [The Guardian World](https://www.theguardian.com/us-news/live/2026/apr/26/donald-trump-evacuated-from-white-house-correspondents-dinner-after-loud-bangs-heard-live), [The Guardian World](https://www.theguardian.com/us-news/2026/apr/26/donald-melania-trump-white-houe-correspondents-dinner), [NPR News](https://www.npr.org/2026/04/25/nx-s1-5799544/trump-white-house-correspondents-dinner)
 
-- **No 10 says Falklands sovereignty rests with UK after report of US 'review'**
-  - [The Guardian World](https://www.theguardian.com/uk-news/2026/apr/24/uk-position-falklands-unchanged-leaked-pentagon-memo), [BBC World News](https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss)
+- **The Diplomacy Behind the World Cup**
+  - [Financial Times World](https://www.ft.com/content/cc32cf7d-77fe-49ad-9df0-3bdd6d40faf5), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-04-25/the-diplomacy-behind-the-world-cup-video)
 
-- **US prosecutors drop criminal probe into Fed chair Powell**
-  - [Financial Times World](https://www.ft.com/content/3588428b-ddcd-4505-b4bd-d6bcae33b5d1), [CNBC Top News](https://www.cnbc.com/2026/04/24/will-he-stay-or-will-he-go-with-criminal-probe-over-fed-chair-powell-faces-big-decision.html), [CNBC Top News](https://www.cnbc.com/2026/04/24/fed-powell-doj-warsh-trump.html)
+- **Trump cancels US envoys' trip to Pakistan for talks on Iran war**
+  - [The Guardian World](https://www.theguardian.com/world/live/2026/apr/25/middle-east-crisis-live-witkoff-and-kushner-head-to-pakistan-for-iran-negotiations), [BBC World News](https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/apr/25/trump-cancels-envoys-pakistan-trip-iran-talks)
 
-- **Justice Department drops probe into Fed Chair Jerome Powell**
-  - [BBC World News](https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2026/04/24/nx-s1-5798661/justice-department-drops-inquiry-into-fed-chair-jerome-powell)
+- **Militants and separatists launch coordinated attacks across Mali**
+  - [New York Times World](https://www.nytimes.com/2026/04/25/world/africa/mali-attacks-jnim-al-qaeda-bamako.html), [The Guardian World](https://www.theguardian.com/world/2026/apr/25/militants-and-separatists-launch-coordinated-attacks-across-mali)
 
-- **Netanyahu says he was successfully treated for prostate cancer**
-  - [The Guardian World](https://www.theguardian.com/world/2026/apr/24/benjamin-netanyahu-successfully-treated-for-prostate-cancer-israel), [BBC World News](https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss)
+- **Mali hit by wave of coordinated attacks from armed groups**
+  - [BBC World News](https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2026/04/25/nx-s1-5799439/mali-hit-by-wave-of-coordinated-attacks-from-armed-groups)
 
 
 ---
