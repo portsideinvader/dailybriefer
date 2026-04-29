@@ -1,18 +1,30 @@
-# Morning Brief — 2026-04-28
+# Morning Brief — 2026-04-29
 
-*Generated: 2026-04-28 08:31:03*
+*Generated: 2026-04-29 08:24:54*
 
-- **Suspect charged with attempting to assassinate Trump at press dinner**
-  - [NPR News](https://www.npr.org/2026/04/28/nx-s1-5801642/correspondents-dinner-suspect-charged-with-trying-to-assassinate-president-trump), [The Guardian World](https://www.theguardian.com/us-news/2026/apr/27/white-house-press-dinner-shooting-suspect-court), [BBC World News](https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss)
+- **Meta found in breach of EU law for failing to keep children off platforms**
+  - [New York Times World](https://www.nytimes.com/2026/04/29/business/meta-instagram-facebook-children.html), [The Guardian World](https://www.theguardian.com/technology/2026/apr/29/meta-found-in-breach-of-eu-law-for-failing-to-keep-children-off-platforms)
 
-- **Bank of Japan holds rates with hawkish guidance**
-  - [Financial Times World](https://www.ft.com/content/1b9a0a39-d9e8-4815-9edb-1d46adabf6ac), [Financial Times World](https://www.ft.com/content/daa29d4c-3303-47c8-8fa4-d14cca4b2f2a), [CNBC Top News](https://www.cnbc.com/2026/04/28/bank-of-japan-keeps-policy-rate-steady-cpi-iran-war-gdp.html)
+- **Finland’s Kone Agrees to Buy TK Elevator for €29.4 Billion**
+  - [CNBC Top News](https://www.cnbc.com/2026/04/29/kone-tk-elevator-deal-europe-business.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-04-29/finland-s-kone-agrees-to-buy-rival-tk-elevator-for-29-4-billion)
 
-- **BP Oil Trading Revenue Boosted by Iran War**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-04-28/bp-oil-trading-revenue-boosted-by-iran-war-video), [CNBC Top News](https://www.cnbc.com/2026/04/28/bp-q1-earnings-oil-energy.html)
+- **Opec without the UAE**
+  - [CNBC Top News](https://www.cnbc.com/2026/04/29/cnbc-daily-open-uae-leaves-opec-adrift.html), [Financial Times World](https://www.ft.com/content/09a255dc-b34f-4d42-a23a-696dc3a24448)
+
+- **Trump's face to feature on commemorative US passports**
+  - [NPR News](https://www.npr.org/2026/04/29/g-s1-119146/us-to-issue-passports-with-trumps-picture-for-americas-250th-birthday), [BBC World News](https://www.bbc.com/news/articles/cr5pn1ngerpo?at_medium=RSS&at_campaign=rss)
+
+- **FirstFT: Ex-FBI chief James Comey charged with threatening Trump’s life**
+  - [Financial Times World](https://www.ft.com/content/f3c0674f-0fb0-4d08-8f30-0ae2acf6e797), [CNBC Top News](https://www.cnbc.com/2026/04/28/james-comey-indicted-trump-seashell-8647.html)
+
+- **Sri Lanka Arrests 22 Monks After 240 Pounds of Cannabis Found in Luggage**
+  - [New York Times World](https://www.nytimes.com/2026/04/28/world/asia/buddhist-monks-cannabis-sri-lanka.html), [The Guardian World](https://www.theguardian.com/world/2026/apr/28/sri-lanka-police-buddhist-monks-cannabis-kush-airport)
+
+- **Man admits plotting attack on Taylor Swift concert in Vienna**
+  - [New York Times World](https://www.nytimes.com/2026/04/28/world/europe/taylor-swift-austria-guilty-plea.html), [BBC World News](https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss)
 
 
 ---
 
-**Stats**: 3 events
- | 8 articles | 7 distinct source mentions
+**Stats**: 7 events
+ | 14 articles | 14 distinct source mentions
