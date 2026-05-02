@@ -1,18 +1,18 @@
-# Morning Brief — 2026-05-01
+# Morning Brief — 2026-05-02
 
-*Generated: 2026-05-01 08:19:01*
+*Generated: 2026-05-02 07:50:19*
 
-- **Violence in Australian town after arrest of man over girl's murder**
-  - [New York Times World](https://www.nytimes.com/2026/05/01/world/australia/alice-springs-jefferson-lewis-girl-kumanjayi.html), [BBC World News](https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss)
+- **Spirit Shuts Operations After White House Bailout Collapses**
+  - [CNBC Top News](https://www.cnbc.com/2026/05/01/spirit-airlines-trump-bailout.html), [Financial Times World](https://www.ft.com/content/18ab5a6a-397a-47b5-af06-f8e846b45bf1), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-05-02/spirit-shuts-operations-after-white-house-bailout-falls-apart)
 
-- **Venice Biennale jury quits amid row over participation of Russia**
-  - [NPR News](https://www.npr.org/2026/05/01/g-s1-119661/the-venice-biennale-jury-resigns), [The Guardian World](https://www.theguardian.com/artanddesign/2026/apr/30/venice-biennale-jury-quits-amid-row-russia)
+- **Spirit Airlines ceases operations after escalating financial struggles**
+  - [NPR News](https://www.npr.org/2026/05/02/nx-s1-5807933/spirit-airlines-ceases-operations-folds), [The Guardian World](https://www.theguardian.com/business/2026/may/01/spirit-airlines-stops-operation-after-failed-deal)
 
-- **Daw Aung San Suu Kyi Is Moved to House Arrest From Prison in Myanmar**
-  - [BBC World News](https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/04/30/world/asia/myanmar-aung-san-suu-kyi.html)
+- **US court limits mail-order access to abortion pill mifepristone**
+  - [BBC World News](https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2026/05/01/nx-s1-5808328/court-restricts-abortion-access-mailing-mifepristone)
 
 
 ---
 
 **Stats**: 3 events
- | 6 articles | 6 distinct source mentions
+ | 7 articles | 7 distinct source mentions
