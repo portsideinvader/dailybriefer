@@ -1,27 +1,27 @@
-# Morning Brief — 2026-05-04
+# Morning Brief — 2026-05-05
 
-*Generated: 2026-05-04 08:35:03*
+*Generated: 2026-05-05 08:17:17*
 
-- **FirstFT: US to ‘guide’ ships out of Hormuz, says Trump**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-05-04/trump-announces-humanitarian-plan-to-get-ships-through-hormuz), [Financial Times World](https://www.ft.com/content/7ec081ca-3b1d-4fbe-b29a-a3b0b08efc41), [Financial Times World](https://www.ft.com/content/48413825-50ed-4a76-8361-09efeb17432a), [CNBC Top News](https://www.cnbc.com/2026/05/03/trump-iran-strait-of-hormuz-trapped-ships.html)
+- **Explosion at China fireworks factory kills 26 people**
+  - [NPR News](https://www.npr.org/2026/05/05/g-s1-120137/explosion-fireworks-plant-china), [BBC World News](https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/05/05/world/asia/china-fireworks-factory-explosion.html)
 
-- **GameStop makes unsolicited $56bn offer for eBay**
-  - [Financial Times World](https://www.ft.com/content/31bfd02e-a02e-45fd-ad46-51544b1a3a8a), [CNBC Top News](https://www.cnbc.com/2026/05/04/gamestop-ebay-takeover-bid-ryan-cohen-gaming-retail-ecommerce.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-05-03/gamestop-making-56-billion-offer-to-acquire-ebay-wsj-says)
+- **Second hantavirus case confirmed after three die in suspected cruise ship outbreak**
+  - [NPR News](https://www.npr.org/2026/05/05/g-s1-120130/cruise-ship-hantavirus-outbreak), [BBC World News](https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss)
 
-- **2 US service members missing after military exercises in Morocco**
-  - [NPR News](https://www.npr.org/2026/05/04/g-s1-119963/2-us-service-members-missing-in-morocco), [BBC World News](https://www.bbc.com/news/articles/cn7prznmllko?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/may/03/service-members-missing-military-exercises-morocco)
+- **Popular Australian author pleads guilty over child exploitation material**
+  - [BBC World News](https://www.bbc.com/news/articles/cg7pz2xj4l3o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/books/2026/may/05/craig-silvey-pleads-guilty-child-exploitation-material-ntwnfb)
 
-- **Three dead in suspected virus outbreak on Atlantic cruise ship**
-  - [BBC World News](https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship)
+- **Two killed and many injured after car driven into crowd in German city of Leipzig**
+  - [BBC World News](https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/may/04/car-runs-into-crowd-in-german-city-of-leipzig-with-fatalities-reported)
 
-- **Trump says the U.S will 'guide' stranded ships from the Strait of Hormuz**
-  - [NPR News](https://www.npr.org/2026/05/03/nx-s1-5809536/trump-strait-hormuz), [The Guardian World](https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal)
+- **Musk and SEC propose to settle Twitter lawsuit for just $1.5mn**
+  - [Financial Times World](https://www.ft.com/content/a760cb3e-b949-4120-b637-32e7464227cb), [CNBC Top News](https://www.cnbc.com/2026/05/04/sec-and-elon-musk-agree-to-settle-lawsuit-over-twitter-buyout-in-2022.html)
 
-- **3 Dead in Hantavirus Outbreak Aboard Cruise Ship, W.H.O. Says**
-  - [New York Times World](https://www.nytimes.com/2026/05/03/well/cruise-ship-virus-fatal-outbreak.html), [NPR News](https://www.npr.org/2026/05/03/nx-s1-5809495/hantavirus-outbreak-cruise-ship-atlantic-ocean)
+- **Modi’s B.J.P. Wins West Bengal State Election for the First Time**
+  - [New York Times World](https://www.nytimes.com/2026/05/04/world/asia/india-modi-hindu-bjp-west-bengal.html), [The Guardian World](https://www.theguardian.com/world/2026/may/04/modis-bjp-party-win-election-west-bengal-first-time)
 
 
 ---
 
 **Stats**: 6 events
- | 16 articles | 15 distinct source mentions
+ | 13 articles | 13 distinct source mentions
