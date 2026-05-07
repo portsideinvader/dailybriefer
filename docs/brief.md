@@ -1,27 +1,27 @@
-# Morning Brief — 2026-05-05
+# Morning Brief — 2026-05-07
 
-*Generated: 2026-05-05 08:17:17*
+*Generated: 2026-05-07 08:40:12*
 
-- **Explosion at China fireworks factory kills 26 people**
-  - [NPR News](https://www.npr.org/2026/05/05/g-s1-120137/explosion-fireworks-plant-china), [BBC World News](https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/05/05/world/asia/china-fireworks-factory-explosion.html)
+- **Shell Profit Rises as Oil Volatility Boosts Trading Unit**
+  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-05-07/shell-profit-rises-as-oil-volatility-boosts-trading-unit-video), [CNBC Top News](https://www.cnbc.com/2026/05/07/oil-giant-shell-tops-quarterly-profit-estimates-as-iran-war-drives-price-surge.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-05-07/shell-says-profits-rise-as-iran-war-boosts-trading-and-oil-price)
 
-- **Second hantavirus case confirmed after three die in suspected cruise ship outbreak**
-  - [NPR News](https://www.npr.org/2026/05/05/g-s1-120130/cruise-ship-hantavirus-outbreak), [BBC World News](https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss)
+- **Federal authorities arrest 18 people in Los Angeles raid amid drug crackdown**
+  - [NPR News](https://www.npr.org/2026/05/07/g-s1-120659/authorities-arrest-drug-distribution-los-angeles), [The Guardian World](https://www.theguardian.com/us-news/2026/may/06/los-angeles-drug-arrests-park)
 
-- **Popular Australian author pleads guilty over child exploitation material**
-  - [BBC World News](https://www.bbc.com/news/articles/cg7pz2xj4l3o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/books/2026/may/05/craig-silvey-pleads-guilty-child-exploitation-material-ntwnfb)
+- **Oil Dips Below $100 as US and Iran Weigh Deal to Reopen Hormuz**
+  - [Financial Times World](https://www.ft.com/content/21131ff4-35e1-4e5c-b827-1e07c9153e8e), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-05-06/latest-oil-market-news-and-analysis-for-may-7)
 
-- **Two killed and many injured after car driven into crowd in German city of Leipzig**
-  - [BBC World News](https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/may/04/car-runs-into-crowd-in-german-city-of-leipzig-with-fatalities-reported)
+- **Iran Says It Is Reviewing a U.S. Proposal to End the War**
+  - [BBC World News](https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/05/06/world/middleeast/us-iran-peace-proposal.html)
 
-- **Musk and SEC propose to settle Twitter lawsuit for just $1.5mn**
-  - [Financial Times World](https://www.ft.com/content/a760cb3e-b949-4120-b637-32e7464227cb), [CNBC Top News](https://www.cnbc.com/2026/05/04/sec-and-elon-musk-agree-to-settle-lawsuit-over-twitter-buyout-in-2022.html)
+- **Ted Turner, Creator of CNN and the 24-Hour News Cycle, Dies at 87**
+  - [BBC World News](https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html)
 
-- **Modi’s B.J.P. Wins West Bengal State Election for the First Time**
-  - [New York Times World](https://www.nytimes.com/2026/05/04/world/asia/india-modi-hindu-bjp-west-bengal.html), [The Guardian World](https://www.theguardian.com/world/2026/may/04/modis-bjp-party-win-election-west-bengal-first-time)
+- **In Talks With Iran, China Calls for Opening of Strait of Hormuz**
+  - [New York Times World](https://www.nytimes.com/2026/05/06/world/asia/china-iran-us-trump-hormuz.html), [BBC World News](https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss)
 
 
 ---
 
 **Stats**: 6 events
- | 13 articles | 13 distinct source mentions
+ | 13 articles | 12 distinct source mentions
