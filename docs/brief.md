@@ -1,24 +1,15 @@
-# Morning Brief — 2026-05-11
+# Morning Brief — 2026-05-12
 
-*Generated: 2026-05-11 09:49:13*
+*Generated: 2026-05-12 08:45:57*
 
-- **Trump rejects Iran's latest response to U.S. ceasefire proposal**
-  - [New York Times World](https://www.nytimes.com/2026/05/10/us/politics/iran-war-us-peace-proposal-response.html), [NPR News](https://www.npr.org/2026/05/10/nx-s1-5817605/trump-rejects-iran-ceasefire-proposal), [The Guardian World](https://www.theguardian.com/world/2026/may/10/iran-us-peace-proposal-pakistan-reported-drone-strikes-strain-ceasefire)
+- **Philippine VP Sara Duterte impeached for a second time**
+  - [New York Times World](https://www.nytimes.com/2026/05/11/world/asia/sara-duterte-philippine-impeached.html), [The Guardian World](https://www.theguardian.com/world/2026/may/11/philippine-vice-president-sara-duterte-impeached-ferdinand-marcos-jr-wife), [BBC World News](https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss)
 
-- **UK Bond Yields Rise on Higher Oil Price, Political Risks**
-  - [CNBC Top News](https://www.cnbc.com/2026/05/11/uk-pm-starmer-fights-for-his-political-future-in-pivotal-speech.html), [Bloomberg Markets](https://www.bloomberg.com/news/live-blog/2026-05-11/ftse-100-live-starmer-speech-iran-war-trump-oil-prices-hormuz-pound-bondswhat-s-moving-uk-markets-right-now-markets-today-mp0s3j2h)
-
-- **US and French nationals test positive for hantavirus after leaving ship**
-  - [The Guardian World](https://www.theguardian.com/world/2026/may/11/evacuated-us-and-french-mv-hondius-cruise-ship-passengers-test-positive-for-hantavirus), [BBC World News](https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss)
-
-- **Trump says Iran’s response to peace proposal is ‘unacceptable’**
-  - [CNBC Top News](https://www.cnbc.com/2026/05/11/oil-price-today-brent-wti-iran-war-trump.html), [Financial Times World](https://www.ft.com/content/f66186e7-8e14-466d-b4de-114ee70c3e62)
-
-- **Body of missing US soldier recovered off coast of Morocco**
-  - [NPR News](https://www.npr.org/2026/05/11/g-s1-121363/remains-of-missing-us-soldier), [The Guardian World](https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco)
+- **Trump says Iran ceasefire is on ‘life support’**
+  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-05-12/daybreak-europe-5-12-2026-video), [Financial Times World](https://www.ft.com/content/69e836e6-b676-434f-9383-4522dc0c4eca), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-05-11/latest-oil-market-news-and-analysis-for-may-12)
 
 
 ---
 
-**Stats**: 5 events
- | 11 articles | 11 distinct source mentions
+**Stats**: 2 events
+ | 6 articles | 5 distinct source mentions
