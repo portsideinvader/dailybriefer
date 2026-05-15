@@ -1,24 +1,18 @@
-# Morning Brief — 2026-05-14
+# Morning Brief — 2026-05-15
 
-*Generated: 2026-05-14 08:43:18*
+*Generated: 2026-05-15 08:53:54*
 
-- **Top CEOs Meet Xi Jinping at Beijing Summit**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-05-14/top-ceos-meet-xi-jinping-at-beijing-summit-video), [Financial Times World](https://www.ft.com/content/c3938efb-0337-46a9-a173-1e26cd9cf45b), [CNBC Top News](https://www.cnbc.com/2026/05/14/in-photos-trump-lands-in-beijing-ahead-of-high-stakes-summit-with-xi.html), [Financial Times World](https://www.ft.com/content/c7298d14-cfd6-4899-b354-ae7f5d4d0815)
+- **Starmer braces for leadership challenge by Burnham**
+  - [Financial Times World](https://www.ft.com/content/d9a66be6-fa98-43d0-badc-b23a13cc7525), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-05-15/gilts-slump-as-investors-brace-for-burnham-challenge-to-starmer), [Financial Times World](https://www.ft.com/content/97767e7d-6697-4249-98d7-47ed1d94ea76)
 
-- **US-China relations depend on Taiwan, Xi warns Trump**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-05-14/daybreak-europe-05-14-2026-video), [Financial Times World](https://www.ft.com/content/0547a442-4f33-4818-b67c-a21cf92611f4)
+- **Bessent sees 'substantial disinflation' ahead as Warsh takes over the Fed**
+  - [MarketWatch](https://www.marketwatch.com/story/the-bond-market-is-already-hiking-rates-as-kevin-warsh-takes-over-as-feds-new-chair-7a74acbd?mod=mw_rss_topstories), [CNBC Top News](https://www.cnbc.com/2026/05/14/bond-market-fed-inflation-warsh-powell.html), [CNBC Top News](https://www.cnbc.com/2026/05/14/bessent-sees-substantial-disinflation-ahead-as-warsh-takes-over-the-fed.html)
 
-- **Beijing Tightens Security As Trump and Xi Meet in China**
-  - [The Guardian World](https://www.theguardian.com/world/2026/may/13/trump-visit-beijing-china-scepticism-security), [New York Times World](https://www.nytimes.com/2026/05/13/world/asia/trump-china-xi-beijing-security.html)
-
-- **Remains of 2nd U.S. soldier who went missing in Morocco have been recovered**
-  - [NPR News](https://www.npr.org/2026/05/13/g-s1-121985/missing-american-soldier-morocco-remains-recovered), [The Guardian World](https://www.theguardian.com/world/2026/may/13/second-us-soldier-recovered-remains-morocco)
-
-- **Israel Says Netanyahu Made a Secret Trip to U.A.E., Which Says He Didn’t**
-  - [New York Times World](https://www.nytimes.com/2026/05/13/world/middleeast/netanyahu-uae-iran-war.html), [The Guardian World](https://www.theguardian.com/world/2026/may/13/benjamin-netanyahu-made-secret-trip-to-uae-at-height-of-the-iran-war)
+- **The Supreme Court keeps abortion pill mifepristone available by telehealth**
+  - [The Guardian World](https://www.theguardian.com/us-news/2026/may/14/supreme-court-mifepristone-abortion-pill-upheld), [NPR News](https://www.npr.org/2026/05/14/nx-s1-5821591/mifepristone-supreme-court-louisiana-telehealth)
 
 
 ---
 
-**Stats**: 5 events
- | 12 articles | 11 distinct source mentions
+**Stats**: 3 events
+ | 8 articles | 6 distinct source mentions
