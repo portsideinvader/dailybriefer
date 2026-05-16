@@ -1,18 +1,21 @@
-# Morning Brief — 2026-05-15
+# Morning Brief — 2026-05-16
 
-*Generated: 2026-05-15 08:53:54*
+*Generated: 2026-05-16 08:09:12*
 
-- **Starmer braces for leadership challenge by Burnham**
-  - [Financial Times World](https://www.ft.com/content/d9a66be6-fa98-43d0-badc-b23a13cc7525), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-05-15/gilts-slump-as-investors-brace-for-burnham-challenge-to-starmer), [Financial Times World](https://www.ft.com/content/97767e7d-6697-4249-98d7-47ed1d94ea76)
+- **Trump says senior IS leader killed by US and Nigerian forces**
+  - [BBC World News](https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says)
 
-- **Bessent sees 'substantial disinflation' ahead as Warsh takes over the Fed**
-  - [MarketWatch](https://www.marketwatch.com/story/the-bond-market-is-already-hiking-rates-as-kevin-warsh-takes-over-as-feds-new-chair-7a74acbd?mod=mw_rss_topstories), [CNBC Top News](https://www.cnbc.com/2026/05/14/bond-market-fed-inflation-warsh-powell.html), [CNBC Top News](https://www.cnbc.com/2026/05/14/bessent-sees-substantial-disinflation-ahead-as-warsh-takes-over-the-fed.html)
+- **New outbreak of Ebola kills 80 in eastern DR Congo**
+  - [BBC World News](https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths)
 
-- **The Supreme Court keeps abortion pill mifepristone available by telehealth**
-  - [The Guardian World](https://www.theguardian.com/us-news/2026/may/14/supreme-court-mifepristone-abortion-pill-upheld), [NPR News](https://www.npr.org/2026/05/14/nx-s1-5821591/mifepristone-supreme-court-louisiana-telehealth)
+- **Five Italians die during cave scuba dive in Maldives**
+  - [BBC World News](https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/05/15/world/asia/maldives-diving-italians.html)
+
+- **Berkshire Amasses $2.6 Billion Stake in Delta Airlines**
+  - [CNBC Top News](https://www.cnbc.com/2026/05/15/berkshire-hathaway-returns-to-airlines-with-2point6-billion-stake-in-delta-air-lines.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-05-15/berkshire-boosts-alphabet-exits-amazon-in-ceo-s-first-quarter)
 
 
 ---
 
-**Stats**: 3 events
- | 8 articles | 6 distinct source mentions
+**Stats**: 4 events
+ | 8 articles | 8 distinct source mentions
