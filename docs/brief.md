@@ -1,21 +1,18 @@
-# Morning Brief — 2026-05-16
+# Morning Brief — 2026-05-17
 
-*Generated: 2026-05-16 08:09:12*
+*Generated: 2026-05-17 08:26:11*
 
-- **Trump says senior IS leader killed by US and Nigerian forces**
-  - [BBC World News](https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says)
+- **W.H.O. Declares Ebola Outbreak a Global Health Emergency**
+  - [New York Times World](https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html), [BBC World News](https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2026/05/16/g-s1-122494/new-ebola-outbreak-drc-who-global-emergency)
 
-- **New outbreak of Ebola kills 80 in eastern DR Congo**
-  - [BBC World News](https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths)
+- **Man drives car into pedestrians in Italy, injuring eight**
+  - [BBC World News](https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/may/16/people-injured-car-crowd-modena-northern-italy)
 
-- **Five Italians die during cave scuba dive in Maldives**
-  - [BBC World News](https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/05/15/world/asia/maldives-diving-italians.html)
-
-- **Berkshire Amasses $2.6 Billion Stake in Delta Airlines**
-  - [CNBC Top News](https://www.cnbc.com/2026/05/15/berkshire-hathaway-returns-to-airlines-with-2point6-billion-stake-in-delta-air-lines.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-05-15/berkshire-boosts-alphabet-exits-amazon-in-ceo-s-first-quarter)
+- **Timmy the whale confirmed dead by Danish authorities**
+  - [The Guardian World](https://www.theguardian.com/environment/2026/may/16/timmy-the-whale-confirmed-dead-by-danish-authorities), [NPR News](https://www.npr.org/2026/05/16/g-s1-122490/timmy-humpback-whale-dead-stranded-rescue-denmark)
 
 
 ---
 
-**Stats**: 4 events
- | 8 articles | 8 distinct source mentions
+**Stats**: 3 events
+ | 7 articles | 7 distinct source mentions
