@@ -1,15 +1,21 @@
-# Morning Brief — 2026-05-18
+# Morning Brief — 2026-05-19
 
-*Generated: 2026-05-18 10:13:18*
+*Generated: 2026-05-19 09:54:17*
 
-- **Treasury yields rise as inflation fears drive global bond rout**
-  - [CNBC Top News](https://www.cnbc.com/2026/05/18/treasury-yields-inflation-bond-rout-oil.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-05-17/japan-10-year-yield-jumps-on-global-inflation-angst-as-oil-rises)
+- **Bodies of missing Italian divers found in Maldives**
+  - [The Guardian World](https://www.theguardian.com/world/2026/may/18/maldives-cave-italian-divers-bodies), [BBC World News](https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/05/18/world/asia/maldives-divers-accident-bodies-found.html)
 
-- **How worrying is the Ebola outbreak in DR Congo?**
-  - [BBC World News](https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html), [BBC World News](https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss)
+- **WHO head ‘deeply concerned’ by Ebola outbreak as cases and deaths rise in DRC**
+  - [New York Times World](https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html), [The Guardian World](https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned)
+
+- **Mark Fuhrman, LA detective convicted of lying at OJ Simpson trial, dies**
+  - [NPR News](https://www.npr.org/2026/05/19/g-s1-122766/ex-detective-mark-fuhrman-died), [The Guardian World](https://www.theguardian.com/us-news/2026/may/18/mark-fuhrman-lapd-oj-simpson-trial-dies)
+
+- **Oil Declines After Trump Says He Called Off Strike on Iran**
+  - [Financial Times World](https://www.ft.com/content/5cce5b90-a84d-4d4f-b271-de7940ac92c3), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-05-18/latest-oil-market-news-and-analysis-for-may-19)
 
 
 ---
 
-**Stats**: 2 events
- | 5 articles | 4 distinct source mentions
+**Stats**: 4 events
+ | 9 articles | 9 distinct source mentions
