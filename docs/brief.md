@@ -1,21 +1,24 @@
-# Morning Brief — 2026-05-22
+# Morning Brief — 2026-05-23
 
-*Generated: 2026-05-22 09:35:55*
+*Generated: 2026-05-23 08:24:35*
 
-- **Rubio doubtful of diplomacy with Cuba as Trump renews threat of military action**
-  - [The Guardian World](https://www.theguardian.com/us-news/2026/may/22/marco-rubio-doubtful-diplomacy-cuba-trump-renews-threat-military-action), [NPR News](https://www.npr.org/2026/05/22/nx-s1-5830999/rubio-diplomacy-cuba-trump-military-action)
+- **SpaceX launches massive Starship V3 rocket on test flight**
+  - [NPR News](https://www.npr.org/2026/05/23/nx-s1-5832402/spacex-biggest-starship-flight), [BBC World News](https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/science/2026/may/22/spacex-launch-texas-test-flight)
 
-- **US navy chief says $14bn arms sale to Taiwan paused due to Iran war**
-  - [The Guardian World](https://www.theguardian.com/world/2026/may/22/us-arms-sales-taiwan-pause-iran-war-says-acting-navy-chief), [BBC World News](https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss)
+- **Judge dismisses criminal case against Kilmar Abrego Garcia**
+  - [BBC World News](https://www.bbc.com/news/articles/cx21r04wg8qo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed), [NPR News](https://www.npr.org/2026/05/22/nx-s1-5831958/federal-judge-dismisses-criminal-charges-against-kilmar-abrego-garcia)
 
-- **House Republicans cancel vote on war powers resolution to end US war in Iran**
-  - [NPR News](https://www.npr.org/2026/05/22/g-s1-123592/republicans-call-off-vote-on-iran-war-resolution), [The Guardian World](https://www.theguardian.com/us-news/2026/may/21/republicans-cancel-vote-war-powers-iran)
+- **Gaza flotilla activists allege abuse by Israeli forces while detained**
+  - [BBC World News](https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/may/22/gaza-flotilla-activists-allege-sexual-assault-and-in-israeli-detention)
 
-- **Nascar champion Kyle Busch dies aged 41**
-  - [BBC World News](https://www.bbc.com/news/articles/clyp2lrpxm0o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/may/21/kyle-busch-dead)
+- **SpaceX launches Starship test flight on second try**
+  - [CNBC Top News](https://www.cnbc.com/2026/05/22/spacex-prepares-another-attempt-at-starship-launch-after-prior-scrub.html), [Financial Times World](https://www.ft.com/content/ae78c11f-9aef-4ae8-976d-a70db5b4aa91)
+
+- **Tulsi Gabbard resigning as Trump's intelligence chief**
+  - [CNBC Top News](https://www.cnbc.com/2026/05/22/tulsi-gabbard-resigns-intelligence-trump-husband.html), [Financial Times World](https://www.ft.com/content/a347267d-c4f8-4ff6-9704-68cc153db4cd)
 
 
 ---
 
-**Stats**: 4 events
- | 8 articles | 8 distinct source mentions
+**Stats**: 5 events
+ | 12 articles | 12 distinct source mentions
