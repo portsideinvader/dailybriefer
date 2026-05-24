@@ -1,24 +1,24 @@
-# Morning Brief — 2026-05-23
+# Morning Brief — 2026-05-24
 
-*Generated: 2026-05-23 08:24:35*
+*Generated: 2026-05-24 08:34:36*
 
-- **SpaceX launches massive Starship V3 rocket on test flight**
-  - [NPR News](https://www.npr.org/2026/05/23/nx-s1-5832402/spacex-biggest-starship-flight), [BBC World News](https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/science/2026/may/22/spacex-launch-texas-test-flight)
+- **Trump Touts Imminent Iran Deal That Would Reopen Hormuz Strait**
+  - [CNBC Top News](https://www.cnbc.com/2026/05/23/us-iran-war-talks.html), [Financial Times World](https://www.ft.com/content/a27cc653-71ee-4668-8fcf-562fd7c9b93f), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-05-24/trump-touts-imminent-iran-deal-that-would-reopen-hormuz-strait)
 
-- **Judge dismisses criminal case against Kilmar Abrego Garcia**
-  - [BBC World News](https://www.bbc.com/news/articles/cx21r04wg8qo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed), [NPR News](https://www.npr.org/2026/05/22/nx-s1-5831958/federal-judge-dismisses-criminal-charges-against-kilmar-abrego-garcia)
+- **At least 82 killed in Chinese coal mine explosion**
+  - [BBC World News](https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html)
 
-- **Gaza flotilla activists allege abuse by Israeli forces while detained**
-  - [BBC World News](https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/may/22/gaza-flotilla-activists-allege-sexual-assault-and-in-israeli-detention)
+- **Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz**
+  - [BBC World News](https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2026/05/23/g-s1-124145/trump-iran-deal-strait-of-hormuz)
 
-- **SpaceX launches Starship test flight on second try**
-  - [CNBC Top News](https://www.cnbc.com/2026/05/22/spacex-prepares-another-attempt-at-starship-launch-after-prior-scrub.html), [Financial Times World](https://www.ft.com/content/ae78c11f-9aef-4ae8-976d-a70db5b4aa91)
+- **Delivery Hero reveals Uber takeover bid at €10bn valuation**
+  - [Financial Times World](https://www.ft.com/content/6d5df0df-74b3-4be9-a1ec-27322e1c3184), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-05-23/uber-doordash-in-talks-to-buy-delivery-hero-stakes-ft-says)
 
-- **Tulsi Gabbard resigning as Trump's intelligence chief**
-  - [CNBC Top News](https://www.cnbc.com/2026/05/22/tulsi-gabbard-resigns-intelligence-trump-husband.html), [Financial Times World](https://www.ft.com/content/a347267d-c4f8-4ff6-9704-68cc153db4cd)
+- **Nascar champion Kyle Busch died of pneumonia and sepsis, family says**
+  - [NPR News](https://www.npr.org/2026/05/23/nx-s1-5832553/kyle-busch-death-sepsis), [BBC World News](https://www.bbc.com/news/articles/ceqpwx5741no?at_medium=RSS&at_campaign=rss)
 
 
 ---
 
 **Stats**: 5 events
- | 12 articles | 12 distinct source mentions
+ | 11 articles | 11 distinct source mentions
