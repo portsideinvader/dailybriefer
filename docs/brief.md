@@ -1,21 +1,18 @@
-# Morning Brief — 2026-05-26
+# Morning Brief — 2026-05-27
 
-*Generated: 2026-05-26 10:03:25*
+*Generated: 2026-05-27 10:01:43*
 
-- **Rescuers race to free seven people trapped in flooded Laos cave**
-  - [New York Times World](https://www.nytimes.com/2026/05/26/world/asia/laos-cave-rescue.html), [BBC World News](https://www.bbc.com/news/articles/cglpp1g388zo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/may/25/laos-flooded-cave-thai-rescuers)
+- **SK Hynix Joins $1 Trillion Club Amid AI Frenzy**
+  - [MarketWatch](https://www.marketwatch.com/story/hynix-quickly-joins-micron-in-the-1-trillion-club-as-one-bank-argues-ai-is-actually-underhyped-403602db?mod=mw_rss_topstories), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-05-27/sk-hynix-joins-1-trillion-club-amid-ai-frenzy-video), [CNBC Top News](https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-05-27/sk-hynix-joins-1-trillion-club-on-ai-memory-chip-dominance)
 
-- **Netanyahu says Israel will intensify strikes against Hezbollah**
-  - [BBC World News](https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/may/26/israel-escalates-strikes-in-lebanon-as-netanyahu-vows-to-crush-hezbollah), [New York Times World](https://www.nytimes.com/2026/05/25/world/middleeast/netanyahu-israel-hezbollah-lebanon.html)
+- **A Dissident Escapes China by Rubber Boat and Lands in South Korea**
+  - [The Guardian World](https://www.theguardian.com/world/2026/may/27/dissident-dong-guangping-south-korea-flee-china-rubber-boat), [New York Times World](https://www.nytimes.com/2026/05/26/world/asia/china-dissident-dong-guangping-south-korea.html)
 
-- **Ferrari Unveils 5-Seat Fully Electric Car, Shares Fall**
-  - [CNBC Top News](https://www.cnbc.com/2026/05/26/ferrari-stock-shares-luce-electric-vehicle-ev-launch.html), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-05-26/ferrari-unveils-5-seat-fully-electric-car-shares-fall-video)
-
-- **Jazz legend Sonny Rollins dies aged 95**
-  - [BBC World News](https://www.bbc.com/news/articles/c1e224dwz18o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/music/2026/may/26/sonny-rollins-jazz-saxophone-dies-aged-95)
+- **BP’s Ousted Chair Manifold Disputes Firm's Accusations**
+  - [CNBC Top News](https://www.cnbc.com/2026/05/27/bp-albert-manifold-chairman-energy-oil.html), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-05-27/bp-s-ousted-chair-manifold-disputes-firm-s-accusations-video), [CNBC Top News](https://www.cnbc.com/2026/05/26/bp-chair-albert-manifold-removed-conduct-governance-issues.html)
 
 
 ---
 
-**Stats**: 4 events
- | 10 articles | 10 distinct source mentions
+**Stats**: 3 events
+ | 9 articles | 7 distinct source mentions
