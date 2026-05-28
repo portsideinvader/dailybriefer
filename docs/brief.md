@@ -1,18 +1,18 @@
-# Morning Brief — 2026-05-27
+# Morning Brief — 2026-05-28
 
-*Generated: 2026-05-27 10:01:43*
+*Generated: 2026-05-28 10:11:15*
 
-- **SK Hynix Joins $1 Trillion Club Amid AI Frenzy**
-  - [MarketWatch](https://www.marketwatch.com/story/hynix-quickly-joins-micron-in-the-1-trillion-club-as-one-bank-argues-ai-is-actually-underhyped-403602db?mod=mw_rss_topstories), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-05-27/sk-hynix-joins-1-trillion-club-amid-ai-frenzy-video), [CNBC Top News](https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-05-27/sk-hynix-joins-1-trillion-club-on-ai-memory-chip-dominance)
+- **Five People Stuck in Flooded Laos Cave Are Found Alive**
+  - [New York Times World](https://www.nytimes.com/2026/05/27/world/asia/five-rescued-laos-cave.html), [The Guardian World](https://www.theguardian.com/world/2026/may/27/five-villagers-found-alive-in-laos-cave-as-search-continues-for-two-missing), [BBC World News](https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss)
 
-- **A Dissident Escapes China by Rubber Boat and Lands in South Korea**
-  - [The Guardian World](https://www.theguardian.com/world/2026/may/27/dissident-dong-guangping-south-korea-flee-china-rubber-boat), [New York Times World](https://www.nytimes.com/2026/05/26/world/asia/china-dissident-dong-guangping-south-korea.html)
+- **Oil jumps 2.5% after Iran says it targeted U.S. airbase following fresh American strikes**
+  - [MarketWatch](https://www.marketwatch.com/story/oil-prices-rise-after-fresh-round-of-strikes-between-u-s-and-iran-pushing-peace-deal-into-doubt-4d20336b?mod=mw_rss_topstories), [CNBC Top News](https://www.cnbc.com/2026/05/28/oil-prices-us-strikes-in-iran-revive-strait-of-hormuz-turmoil-fears.html)
 
-- **BP’s Ousted Chair Manifold Disputes Firm's Accusations**
-  - [CNBC Top News](https://www.cnbc.com/2026/05/27/bp-albert-manifold-chairman-energy-oil.html), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-05-27/bp-s-ousted-chair-manifold-disputes-firm-s-accusations-video), [CNBC Top News](https://www.cnbc.com/2026/05/26/bp-chair-albert-manifold-removed-conduct-governance-issues.html)
+- **Fire at School Dormitory in Kenya Kills at Least 16**
+  - [New York Times World](https://www.nytimes.com/2026/05/28/world/africa/kenya-school-fire.html), [The Guardian World](https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil)
 
 
 ---
 
 **Stats**: 3 events
- | 9 articles | 7 distinct source mentions
+ | 7 articles | 7 distinct source mentions
