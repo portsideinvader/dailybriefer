@@ -1,21 +1,27 @@
-# Morning Brief — 2026-06-04
+# Morning Brief — 2026-06-05
 
-*Generated: 2026-06-04 10:01:59*
+*Generated: 2026-06-05 09:59:33*
 
-- **Israel and Lebanon Agree to Renew Cease-Fire**
-  - [New York Times World](https://www.nytimes.com/live/2026/06/03/world/iran-war-trump-israel-lebanon), [New York Times World](https://www.nytimes.com/2026/06/03/world/middleeast/israel-lebanon-ceasefire-hezbollah.html), [BBC World News](https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/jun/04/israel-lebanon-renew-ceasefire-hezbollah-trump-iran-deal-middle-east-us)
+- **Zelensky proposes face-to-face talks in open letter to Putin**
+  - [New York Times World](https://www.nytimes.com/2026/06/04/world/europe/zelensky-putin-letter.html), [BBC World News](https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss)
 
-- **China bans four New Zealand MPs over Taiwan visit**
-  - [New York Times World](https://www.nytimes.com/2026/06/04/world/australia/new-zealand-taiwan-china-travel-ban.html), [BBC World News](https://www.bbc.com/news/articles/cx21r1y223ro?at_medium=RSS&at_campaign=rss)
+- **India scraps capital gains tax for foreign bond buyers to shore up rupee**
+  - [CNBC Top News](https://www.cnbc.com/2026/06/05/india-tax-overseas-bond-investors.html), [Financial Times World](https://www.ft.com/content/4a0dc7f4-33e5-4584-a60d-be701a2978ed)
 
-- **Fire at a New Delhi Hotel Kills at Least 21**
-  - [New York Times World](https://www.nytimes.com/2026/06/03/world/asia/fire-hotel-new-delhi-india.html), [BBC World News](https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss)
+- **SpaceX won’t make the S&P 500**
+  - [MarketWatch](https://www.marketwatch.com/story/in-wild-twist-spacex-wont-be-allowed-early-entry-to-the-s-p-500-after-all-2c1b8205?mod=mw_rss_topstories), [Financial Times World](https://www.ft.com/content/b39d9e91-ad91-4230-986a-aadd2ea92452)
 
-- **Director Wim Wenders withdraws 1975 film over actress's teen topless scene**
-  - [The Guardian World](https://www.theguardian.com/film/2026/jun/03/wim-wenders-withdraws-1975-film-featuring-13-year-old-nastassja-kinski-topless), [BBC World News](https://www.bbc.com/news/articles/c99legznj8do?at_medium=RSS&at_campaign=rss)
+- **Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon**
+  - [BBC World News](https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/06/03/world/middleeast/israel-lebanon-ceasefire-hezbollah.html)
+
+- **Marjane Satrapi, the Author of ‘Persepolis,’ Dies at 56**
+  - [New York Times World](https://www.nytimes.com/2026/06/04/world/middleeast/marjane-satrapi-dead.html), [BBC World News](https://www.bbc.com/news/articles/c4g0nnj51jyo?at_medium=RSS&at_campaign=rss)
+
+- **Missing Sherpa guide found on Mount Everest after 'miracle' self-rescue**
+  - [The Guardian World](https://www.theguardian.com/world/2026/jun/04/missing-sherpa-guide-found-alive-on-everest-after-funeral-rites-had-begun), [BBC World News](https://www.bbc.com/news/articles/cvgz2yjl4y3o?at_medium=RSS&at_campaign=rss)
 
 
 ---
 
-**Stats**: 4 events
- | 10 articles | 9 distinct source mentions
+**Stats**: 6 events
+ | 12 articles | 12 distinct source mentions
