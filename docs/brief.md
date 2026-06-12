@@ -1,21 +1,21 @@
-# Morning Brief — 2026-06-11
+# Morning Brief — 2026-06-12
 
-*Generated: 2026-06-11 10:44:08*
+*Generated: 2026-06-12 10:20:21*
 
-- **U.S. Strikes Iran for Second Day, as War Heats Back Up**
-  - [BBC World News](https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/jun/10/middle-east-peace-talks-iran-strikes), [New York Times World](https://www.nytimes.com/2026/06/10/world/middleeast/us-iran-strikes.html)
+- **ECB Ready to Hike Again in July If Necessary, Nagel Says**
+  - [Financial Times World](https://www.ft.com/content/ff7f0ce7-7202-4a34-b924-1ce1b1d742f4), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-06-12/ecb-ready-to-hike-rates-again-in-july-if-necessary-nagel-says)
 
-- **Three Indian sailors killed in US strike on oil tanker**
-  - [The Guardian World](https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis), [BBC World News](https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&at_campaign=rss)
+- **Thailand’s Princess Bajrakitiyabha dies aged 47 after years in a coma**
+  - [The Guardian World](https://www.theguardian.com/world/2026/jun/12/thailand-princess-bajrakitiyabha-dies-aged-47), [BBC World News](https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss)
 
-- **US and Iran exchange fresh wave of strikes**
-  - [Financial Times World](https://www.ft.com/content/989ad683-2028-43e7-a65c-fad57256bb18), [Financial Times World](https://www.ft.com/content/e8bea0ec-8dee-495a-8cf3-b5cbb283ccae), [CNBC Top News](https://www.cnbc.com/2026/06/10/trump-iran-war-attacks-deal.html)
+- **Toronto police officer shot while investigating US consulate attack**
+  - [New York Times World](https://www.nytimes.com/2026/06/11/world/canada/toronto-police-officer-shooting-us.html), [The Guardian World](https://www.theguardian.com/world/2026/jun/11/toronto-police-shot-us-consulate-attack)
 
-- **First charges laid over deadly Hong Kong fire**
-  - [New York Times World](https://www.nytimes.com/2026/06/10/world/asia/hong-kong-apartment-fire-charges.html), [BBC World News](https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&at_campaign=rss)
+- **Two Men Sentenced to Death for 2015 Bangkok Bombing**
+  - [New York Times World](https://www.nytimes.com/2026/06/11/world/asia/2015-bangkok-bombing-death-sentence.html), [The Guardian World](https://www.theguardian.com/world/2026/jun/11/thai-court-sentences-uyghur-men-to-death-2015-bangkok-bombing)
 
 
 ---
 
 **Stats**: 4 events
- | 10 articles | 9 distinct source mentions
+ | 8 articles | 8 distinct source mentions
