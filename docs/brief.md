@@ -1,21 +1,18 @@
-# Morning Brief — 2026-06-12
+# Morning Brief — 2026-06-13
 
-*Generated: 2026-06-12 10:20:21*
+*Generated: 2026-06-13 09:22:22*
 
-- **ECB Ready to Hike Again in July If Necessary, Nagel Says**
-  - [Financial Times World](https://www.ft.com/content/ff7f0ce7-7202-4a34-b924-1ce1b1d742f4), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-06-12/ecb-ready-to-hike-rates-again-in-july-if-necessary-nagel-says)
+- **US Kills Tren de Aragua Leader Guerrero in Strike on Compound**
+  - [Financial Times World](https://www.ft.com/content/298a1431-dc3e-4cbc-aa6f-769e54541b60), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-06-13/trump-says-us-killed-tren-de-aragua-leader-nino-guerrero)
 
-- **Thailand’s Princess Bajrakitiyabha dies aged 47 after years in a coma**
-  - [The Guardian World](https://www.theguardian.com/world/2026/jun/12/thailand-princess-bajrakitiyabha-dies-aged-47), [BBC World News](https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss)
+- **Trump says U.S. military strike killed leader of Tren de Aragua gang**
+  - [NPR News](https://www.npr.org/2026/06/12/nx-s1-5856611/u-s-military-kill-leader-tren-de-aragua), [The Guardian World](https://www.theguardian.com/us-news/2026/jun/12/trump-venezuela-tren-de-aragua-leader-killed)
 
-- **Toronto police officer shot while investigating US consulate attack**
-  - [New York Times World](https://www.nytimes.com/2026/06/11/world/canada/toronto-police-officer-shooting-us.html), [The Guardian World](https://www.theguardian.com/world/2026/jun/11/toronto-police-shot-us-consulate-attack)
-
-- **Two Men Sentenced to Death for 2015 Bangkok Bombing**
-  - [New York Times World](https://www.nytimes.com/2026/06/11/world/asia/2015-bangkok-bombing-death-sentence.html), [The Guardian World](https://www.theguardian.com/world/2026/jun/11/thai-court-sentences-uyghur-men-to-death-2015-bangkok-bombing)
+- **Justice Dept. approves Paramount's acquisition of Warner Bros. Discovery**
+  - [The Guardian World](https://www.theguardian.com/us-news/2026/jun/12/paramount-warner-bros-merger), [NPR News](https://www.npr.org/2026/06/12/nx-s1-5856567/paramount-acquisition-warner-bros-discovery-merger)
 
 
 ---
 
-**Stats**: 4 events
- | 8 articles | 8 distinct source mentions
+**Stats**: 3 events
+ | 6 articles | 6 distinct source mentions
