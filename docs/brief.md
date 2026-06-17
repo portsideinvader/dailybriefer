@@ -1,30 +1,24 @@
-# Morning Brief — 2026-06-16
+# Morning Brief — 2026-06-17
 
-*Generated: 2026-06-16 11:19:31*
+*Generated: 2026-06-17 11:04:23*
 
-- **SpaceX set to leapfrog Amazon to become world’s fifth-largest company**
-  - [Financial Times World](https://www.ft.com/content/17153f13-b0c8-4331-8f97-32a19a5e966e), [MarketWatch](https://www.marketwatch.com/story/overnight-price-spike-sees-spacex-overtake-amazon-as-americas-fifth-largest-company-259944cb?mod=mw_rss_topstories)
+- **Japan Raids Ice Cream Giants in Cartel Investigation**
+  - [New York Times World](https://www.nytimes.com/2026/06/17/world/asia/japan-ice-cream-cartel-investigation.html), [BBC World News](https://www.bbc.com/news/articles/c0ly0k88e61o?at_medium=RSS&at_campaign=rss)
 
-- **Environment secretary casts doubt on £10bn Thames Water rescue**
-  - [Financial Times World](https://www.ft.com/content/9d9cc597-fdbf-4466-86ae-0bdcefbaf80e), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-06-16/thames-edges-closer-to-nationalization-with-rescue-deal-in-doubt)
+- **Russian Navy Ship Fired Warning Shots Near British Couple’s Yacht**
+  - [New York Times World](https://www.nytimes.com/2026/06/16/world/europe/russian-navy-english-channel-yacht-uk.html), [BBC World News](https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss)
 
-- **Why Team Iran Is in a Tough Spot at the World Cup**
-  - [New York Times World](https://www.nytimes.com/2026/06/16/world/middleeast/world-cup-iran-new-zealand-protests.html), [BBC World News](https://www.bbc.com/news/videos/cm20yglrgjlo?at_medium=RSS&at_campaign=rss)
+- **Vietnam police rescue hundreds of cats stolen for meat by crime ring**
+  - [The Guardian World](https://www.theguardian.com/world/2026/jun/17/vietnam-police-rescue-cats-stolen-meat-animal-crime-ring), [BBC World News](https://www.bbc.com/news/articles/c20yzm58vk3o?at_medium=RSS&at_campaign=rss)
 
-- **Bank of Japan raises rates in response to inflation risks**
-  - [Financial Times World](https://www.ft.com/content/1e887867-8533-423b-977c-c019759f7787), [Financial Times World](https://www.ft.com/content/8360c4bb-ca5b-47c0-90e5-c2ed77552cba), [CNBC Top News](https://www.cnbc.com/2026/06/16/boj-rate-hike-historic-inflation.html)
+- **UK inflation holds steady at 2.8% in May**
+  - [Financial Times World](https://www.ft.com/content/25ce9b8d-bc00-41cf-9f8c-bd526baf2eed), [CNBC Top News](https://www.cnbc.com/2026/06/17/inflation-uk-cpi-interest-rates-bank-of-england.html)
 
-- **Economists bet on higher rates as Kevin Warsh takes reins at the Fed**
-  - [Financial Times World](https://www.ft.com/content/ee4e7722-5488-4c22-ae04-fce60440c28c), [CNBC Top News](https://www.cnbc.com/2026/06/15/trump-warsh-fed-reshape.html)
-
-- **Eight dead after US Air Force B-52 bomber crashes in California**
-  - [BBC World News](https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/jun/15/b52-bomber-crash-california-military-base)
-
-- **South African jazz legend Abdullah Ibrahim dies at 91**
-  - [BBC World News](https://www.bbc.com/news/articles/cy5vngrq3q5o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/music/2026/jun/15/pianist-abdullah-ibrahim-dies)
+- **Russian artist and Putin critic shot dead in Poland**
+  - [New York Times World](https://www.nytimes.com/2026/06/16/world/europe/russian-artist-putin-killed-poland.html), [BBC World News](https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss)
 
 
 ---
 
-**Stats**: 7 events
- | 15 articles | 14 distinct source mentions
+**Stats**: 5 events
+ | 10 articles | 10 distinct source mentions
