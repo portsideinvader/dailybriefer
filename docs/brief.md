@@ -1,24 +1,15 @@
-# Morning Brief — 2026-06-17
+# Morning Brief — 2026-06-18
 
-*Generated: 2026-06-17 11:04:23*
+*Generated: 2026-06-18 10:26:04*
 
-- **Japan Raids Ice Cream Giants in Cartel Investigation**
-  - [New York Times World](https://www.nytimes.com/2026/06/17/world/asia/japan-ice-cream-cartel-investigation.html), [BBC World News](https://www.bbc.com/news/articles/c0ly0k88e61o?at_medium=RSS&at_campaign=rss)
+- **Intel Shares Soar After Trump Says It Struck Apple Chip Deal**
+  - [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-06-18/intel-intc-share-price-soars-after-trump-says-it-struck-apple-chip-deal), [CNBC Top News](https://www.cnbc.com/2026/06/18/trump-intel-apple-chip-design-deal.html), [MarketWatch](https://www.marketwatch.com/story/intel-shares-rally-as-trump-says-company-will-build-chips-for-apple-in-the-u-s-c72d8c88?mod=mw_rss_topstories)
 
-- **Russian Navy Ship Fired Warning Shots Near British Couple’s Yacht**
-  - [New York Times World](https://www.nytimes.com/2026/06/16/world/europe/russian-navy-english-channel-yacht-uk.html), [BBC World News](https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss)
-
-- **Vietnam police rescue hundreds of cats stolen for meat by crime ring**
-  - [The Guardian World](https://www.theguardian.com/world/2026/jun/17/vietnam-police-rescue-cats-stolen-meat-animal-crime-ring), [BBC World News](https://www.bbc.com/news/articles/c20yzm58vk3o?at_medium=RSS&at_campaign=rss)
-
-- **UK inflation holds steady at 2.8% in May**
-  - [Financial Times World](https://www.ft.com/content/25ce9b8d-bc00-41cf-9f8c-bd526baf2eed), [CNBC Top News](https://www.cnbc.com/2026/06/17/inflation-uk-cpi-interest-rates-bank-of-england.html)
-
-- **Russian artist and Putin critic shot dead in Poland**
-  - [New York Times World](https://www.nytimes.com/2026/06/16/world/europe/russian-artist-putin-killed-poland.html), [BBC World News](https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss)
+- **Church of England apologises for role in forced adoptions**
+  - [New York Times World](https://www.nytimes.com/2026/06/18/world/europe/church-england-apology-forced-adoptions-uk.html), [The Guardian World](https://www.theguardian.com/society/2026/jun/18/church-of-england-apologises-for-role-in-forced-adoptions)
 
 
 ---
 
-**Stats**: 5 events
- | 10 articles | 10 distinct source mentions
+**Stats**: 2 events
+ | 5 articles | 5 distinct source mentions
