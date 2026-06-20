@@ -1,12 +1,15 @@
-# Morning Brief — 2026-06-19
+# Morning Brief — 2026-06-20
 
-*Generated: 2026-06-19 10:44:06*
+*Generated: 2026-06-20 09:24:11*
 
-- **US Launches Tariff Probe Into Germany Over Pharma Pricing**
-  - [CNBC Top News](https://www.cnbc.com/2026/06/19/us-tariff-probe-germany-drug-pricing-policies-mfn.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-06-19/us-starts-section-301-probe-of-germany-over-pharmaceuticals-mqk73om2)
+- **James Burrows, legendary director of Cheers and Friends, dies aged 85**
+  - [BBC World News](https://www.bbc.com/news/articles/ce8k07x523eo?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2026/06/19/g-s1-129137/james-burrows-death-obit-cheers-friends)
+
+- **U.S. to End AIDS Funding for South Africa**
+  - [BBC World News](https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/06/19/world/africa/southafrica-aids-pepfar.html)
 
 
 ---
 
-**Stats**: 1 events
- | 2 articles | 2 distinct source mentions
+**Stats**: 2 events
+ | 4 articles | 4 distinct source mentions
