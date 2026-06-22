@@ -1,21 +1,21 @@
-# Morning Brief — 2026-06-21
+# Morning Brief — 2026-06-22
 
-*Generated: 2026-06-21 09:55:48*
+*Generated: 2026-06-22 12:12:02*
 
-- **US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz**
-  - [The Guardian World](https://www.theguardian.com/world/live/2026/jun/21/iran-us-israel-war-middle-east-lebanon-peace-talks-switzerland-vance-trump-strait-of-hormuz-latest-news-updates), [BBC World News](https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2026/06/20/nx-s1-5865006/fighting-lebanon-despite-ceasefire)
+- **Alan Greenspan dies aged 100**
+  - [CNBC Top News](https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html), [MarketWatch](https://www.marketwatch.com/story/former-federal-reserve-chairman-alan-greenspan-dies-a7a4030d?mod=mw_rss_topstories), [Financial Times World](https://www.ft.com/content/e26ebf11-2288-4913-96f3-001f6065755a)
 
-- **US-Iran Delegations Expected in Switzerland**
-  - [CNBC Top News](https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html), [Financial Times World](https://www.ft.com/content/c1014643-940c-4874-998a-0a52eb517c49), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-06-20/us-iran-delegations-expected-in-switzerland-video)
+- **FirstFT: Starmer quits as UK prime minister**
+  - [Financial Times World](https://www.ft.com/content/71001d5b-4567-4ac3-b4ec-355fa89efaf6), [MarketWatch](https://www.marketwatch.com/story/starmer-says-hes-resigning-as-u-k-prime-minister-heres-what-it-means-for-markets-f27a70e5?mod=mw_rss_topstories), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-06-22/the-pulse-6-22-2026-video), [Financial Times World](https://www.ft.com/content/9f3997f6-11b5-4360-aaed-0622f127a780), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-06-22/gilts-steady-pound-lower-as-uk-prime-minister-starmer-resigns)
 
-- **Bolivian president declares state of emergency**
-  - [The Guardian World](https://www.theguardian.com/world/2026/jun/21/bolivian-president-declares-state-of-emergency-and-deploys-military-to-quell-anti-government-protests), [BBC World News](https://www.bbc.com/news/articles/cr47wn92zdgo?at_medium=RSS&at_campaign=rss)
+- **First Round of U.S.-Iran Talks Ends With High Hopes and Big Challenges**
+  - [New York Times World](https://www.nytimes.com/2026/06/22/world/europe/iran-us-peace-talks.html), [BBC World News](https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss)
 
-- **Lebanese turtle conservationist Mona Khalil killed by Israeli strike**
-  - [New York Times World](https://www.nytimes.com/2026/06/20/world/middleeast/mona-kahlil-turtles-lebanon-conservation.html), [BBC World News](https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss)
+- **EasyJet Rejects Castlelake Takeover Bids**
+  - [Financial Times World](https://www.ft.com/content/added805-2916-4bdc-a30b-35abf9d91dec), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-06-22/easyjet-rejects-castlelake-takeover-bids-video), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-06-22/castlelake-says-three-separate-offers-to-easyjet-were-rebuffed)
 
 
 ---
 
 **Stats**: 4 events
- | 10 articles | 10 distinct source mentions
+ | 13 articles | 10 distinct source mentions
