@@ -1,21 +1,18 @@
-# Morning Brief — 2026-06-22
+# Morning Brief — 2026-06-23
 
-*Generated: 2026-06-22 12:12:02*
+*Generated: 2026-06-23 09:50:27*
 
-- **Alan Greenspan dies aged 100**
-  - [CNBC Top News](https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html), [MarketWatch](https://www.marketwatch.com/story/former-federal-reserve-chairman-alan-greenspan-dies-a7a4030d?mod=mw_rss_topstories), [Financial Times World](https://www.ft.com/content/e26ebf11-2288-4913-96f3-001f6065755a)
+- **Big Tech leads sell-off in global stocks**
+  - [CNBC Top News](https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html), [Financial Times World](https://www.ft.com/content/10623865-5ff4-4357-9293-3c4ec841d1c4), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-06-23/aluminum-falls-as-peace-talk-progress-points-to-returning-supply), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-06-22/gold-steadies-as-us-and-iran-flag-early-progress-in-peace-talks), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-06-22/asian-stocks-set-for-gains-as-oil-holds-losses-markets-wrap)
 
-- **FirstFT: Starmer quits as UK prime minister**
-  - [Financial Times World](https://www.ft.com/content/71001d5b-4567-4ac3-b4ec-355fa89efaf6), [MarketWatch](https://www.marketwatch.com/story/starmer-says-hes-resigning-as-u-k-prime-minister-heres-what-it-means-for-markets-f27a70e5?mod=mw_rss_topstories), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-06-22/the-pulse-6-22-2026-video), [Financial Times World](https://www.ft.com/content/9f3997f6-11b5-4360-aaed-0622f127a780), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-06-22/gilts-steady-pound-lower-as-uk-prime-minister-starmer-resigns)
+- **Montreal shooting leaves officer, civilian and suspect dead**
+  - [BBC World News](https://www.bbc.co.uk/news/articles/c5yz3lv015qo?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/06/22/world/canada/montreal-shooting-manhunt-police.html)
 
-- **First Round of U.S.-Iran Talks Ends With High Hopes and Big Challenges**
-  - [New York Times World](https://www.nytimes.com/2026/06/22/world/europe/iran-us-peace-talks.html), [BBC World News](https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss)
-
-- **EasyJet Rejects Castlelake Takeover Bids**
-  - [Financial Times World](https://www.ft.com/content/added805-2916-4bdc-a30b-35abf9d91dec), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-06-22/easyjet-rejects-castlelake-takeover-bids-video), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-06-22/castlelake-says-three-separate-offers-to-easyjet-were-rebuffed)
+- **Explosion at Qatar Gas Plant Kills at Least 13 and Injures 66**
+  - [BBC World News](https://www.bbc.co.uk/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/06/22/world/middleeast/qatar-explosion-gas.html)
 
 
 ---
 
-**Stats**: 4 events
- | 13 articles | 10 distinct source mentions
+**Stats**: 3 events
+ | 9 articles | 7 distinct source mentions
