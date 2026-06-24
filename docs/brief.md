@@ -1,18 +1,24 @@
-# Morning Brief — 2026-06-23
+# Morning Brief — 2026-06-24
 
-*Generated: 2026-06-23 09:50:27*
+*Generated: 2026-06-24 09:38:04*
 
-- **Big Tech leads sell-off in global stocks**
-  - [CNBC Top News](https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html), [Financial Times World](https://www.ft.com/content/10623865-5ff4-4357-9293-3c4ec841d1c4), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-06-23/aluminum-falls-as-peace-talk-progress-points-to-returning-supply), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-06-22/gold-steadies-as-us-and-iran-flag-early-progress-in-peace-talks), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-06-22/asian-stocks-set-for-gains-as-oil-holds-losses-markets-wrap)
+- **SK Hynix bets on AI demand with bumper $29bn US listing**
+  - [Financial Times World](https://www.ft.com/content/3f052dba-78a4-43bb-af45-9af2f3441fd5), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-06-24/sk-hynix-looks-to-raise-29-4-billion-with-new-us-lising)
 
-- **Montreal shooting leaves officer, civilian and suspect dead**
-  - [BBC World News](https://www.bbc.co.uk/news/articles/c5yz3lv015qo?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/06/22/world/canada/montreal-shooting-manhunt-police.html)
+- **Tech stocks rebound after global rout; Samsung jumps 9%**
+  - [CNBC Top News](https://www.cnbc.com/2026/06/24/asia-tech-stocks-rebound-after-global-rout.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-06-24/tech-stocks-set-to-bounce-after-1-3-trillion-rout-on-ai-jitters)
 
-- **Explosion at Qatar Gas Plant Kills at Least 13 and Injures 66**
-  - [BBC World News](https://www.bbc.co.uk/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/06/22/world/middleeast/qatar-explosion-gas.html)
+- **MSCI delays Indonesia downgrade verdict and frustrates South Korea**
+  - [CNBC Top News](https://www.cnbc.com/2026/06/24/msci-south-korea-emerging-market-indonesia-review-extended.html), [Financial Times World](https://www.ft.com/content/e97addaa-6000-427d-b171-c4e27f1b862e)
+
+- **Mamdani-backed candidates sweep Democratic primaries in New York City**
+  - [BBC World News](https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/jun/23/new-york-primary-results-house)
+
+- **Israel continues to commit genocide by targeting children in Gaza, UN inquiry finds**
+  - [The Guardian World](https://www.theguardian.com/world/2026/jun/23/israel-deliberately-targeting-gaza-children-to-commit-genocide-un-inquiry-finds), [BBC World News](https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss)
 
 
 ---
 
-**Stats**: 3 events
- | 9 articles | 7 distinct source mentions
+**Stats**: 5 events
+ | 10 articles | 10 distinct source mentions
