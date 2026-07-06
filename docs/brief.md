@@ -1,12 +1,15 @@
-# Morning Brief — 2026-07-05
+# Morning Brief — 2026-07-06
 
-*Generated: 2026-07-05 09:11:31*
+*Generated: 2026-07-06 10:45:06*
 
-- **The Funeral of Iran’s Supreme Leader, Ali Khamenei**
-  - [The Guardian World](https://www.theguardian.com/world/2026/jul/05/iran-ali-khamenei-funeral-supreme-leader-mojtaba-absent), [New York Times World](https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html), [New York Times World](https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-khamenei-son.html)
+- **Deadly Russian Strikes Rock Kyiv on Eve of NATO Summit**
+  - [New York Times World](https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html), [The Guardian World](https://www.theguardian.com/world/2026/jul/06/russia-launches-deadly-missile-drone-attacks-kyiv-ukraine)
+
+- **The Funeral of Iran’s Supreme Leader Ayatollah Ali Khamenei**
+  - [New York Times World](https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html), [The Guardian World](https://www.theguardian.com/world/live/2026/jul/06/iran-middle-east-crisis-funeral-supreme-leader-ali-khamenei-tehran-latest-news-updates), [The Guardian World](https://www.theguardian.com/world/2026/jul/06/ali-khamenei-funeral-procession-iran-supreme-leader), [The Guardian World](https://www.theguardian.com/world/2026/jul/05/iran-ali-khamenei-funeral-supreme-leader-mojtaba-absent)
 
 
 ---
 
-**Stats**: 1 events
- | 3 articles | 2 distinct source mentions
+**Stats**: 2 events
+ | 6 articles | 4 distinct source mentions
