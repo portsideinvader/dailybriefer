@@ -1,30 +1,24 @@
-# Morning Brief — 2026-07-08
+# Morning Brief — 2026-07-09
 
-*Generated: 2026-07-08 08:34:57*
+*Generated: 2026-07-09 09:52:08*
 
-- **US Strikes Iran and Blocks Oil Sales**
-  - [CNBC Top News](https://www.cnbc.com/2026/07/08/oil-prices-brent-wti-iran-us-hormuz.html), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-07-08/us-strikes-iran-and-blocks-oil-sales-video-mrbps8qg), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-07-08/the-china-show-7-8-2026-video), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-07-08/oil-jumps-following-us-strikes-on-iran-targets-video), [MarketWatch](https://www.marketwatch.com/story/oil-prices-rise-as-the-u-s-cancels-irans-license-to-sell-oil-030635fc?mod=mw_rss_topstories) (+1 more)
+- **FirstFT: US strikes Iran for second day**
+  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-07-09/the-asia-trade-7-9-2026-video), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-07-09/oil-fluctuates-after-second-day-of-us-strikes-on-iran-video), [Financial Times World](https://www.ft.com/content/ea2d4977-b1d1-44e4-9645-e6d8cd226439), [CNBC Top News](https://www.cnbc.com/2026/07/09/oil-rises-as-iran-us-tensions-raise-concerns-over-supply-disruptions-.html), [Financial Times World](https://www.ft.com/content/89382e17-17d4-476d-9551-3d1a45b72555) (+1 more)
 
-- **AI Chip Startup SambaNova Raises Funds at $11 Billion Valuation**
-  - [CNBC Top News](https://www.cnbc.com/2026/07/08/sambanova-ai-chip-funding-valuation.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-07-08/ai-chip-startup-sambanova-raises-funds-at-11-billion-valuation)
+- **Apple Supplier Luxshare Drops After $3 Billion Hong Kong Debut**
+  - [CNBC Top News](https://www.cnbc.com/2026/07/09/luxshare-ipo-hong-kong-debut-apple-airpod-.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-07-08/apple-supplier-luxshare-to-trade-after-hk-s-biggest-2026-listing)
 
-- **US launches wave of Iran strikes after attacks on tankers**
-  - [Financial Times World](https://www.ft.com/content/c7dac217-4a77-4640-9aa4-17ae7b0d5c0c), [CNBC Top News](https://www.cnbc.com/2026/07/07/iran-strait-hormuz-oil-tanker-lng.html)
+- **Egypt complains officials were biased in World Cup loss to Argentina**
+  - [NPR News](https://www.npr.org/2026/07/09/nx-s1-5887063/egypt-complain-world-cup), [New York Times World](https://www.nytimes.com/2026/07/08/world/africa/egypt-argentina-goal-referee-conspiracy.html)
 
-- **Trump says ceasefire with Iran is ‘over’**
-  - [Financial Times World](https://www.ft.com/content/f2eba81b-f72e-4866-87c1-944a580ef680), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-07-07/latest-oil-market-news-and-analysis-for-july-8)
+- **Graham Platner ends Maine Senate campaign after sexual assault allegation**
+  - [BBC World News](https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/jul/08/graham-platner-maine-senate-campaign)
 
-- **Watch: Marine Le Pen confirms run for French presidency**
-  - [BBC World News](https://www.bbc.co.uk/news/videos/clyexverp0lo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/jul/07/marine-le-pen-doubt-presidential-election-electronic-tag-france)
-
-- **Suspect in Monaco Bombing Attack Is Found Dead in Ukraine**
-  - [BBC World News](https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/07/07/world/europe/monaco-bombing-suspect-dead-ukraine.html)
-
-- **Bombs explode near Damascus hotel housing Macron on Syria visit**
-  - [New York Times World](https://www.nytimes.com/2026/07/07/world/middleeast/syria-explosions-macron-damascus-visit.html), [The Guardian World](https://www.theguardian.com/world/2026/jul/07/explosions-rock-damascus-near-hotel-where-french-president-was-staying)
+- **Ukraine to get licence to produce Patriot missiles, Trump says**
+  - [BBC World News](https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/07/08/world/europe/ukraine-nato-zelensky-trump.html)
 
 
 ---
 
-**Stats**: 7 events
- | 18 articles | 15 distinct source mentions
+**Stats**: 5 events
+ | 14 articles | 12 distinct source mentions
