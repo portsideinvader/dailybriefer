@@ -1,24 +1,24 @@
-# Morning Brief — 2026-07-09
+# Morning Brief — 2026-07-10
 
-*Generated: 2026-07-09 09:52:08*
+*Generated: 2026-07-10 09:42:00*
 
-- **FirstFT: US strikes Iran for second day**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-07-09/the-asia-trade-7-9-2026-video), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-07-09/oil-fluctuates-after-second-day-of-us-strikes-on-iran-video), [Financial Times World](https://www.ft.com/content/ea2d4977-b1d1-44e4-9645-e6d8cd226439), [CNBC Top News](https://www.cnbc.com/2026/07/09/oil-rises-as-iran-us-tensions-raise-concerns-over-supply-disruptions-.html), [Financial Times World](https://www.ft.com/content/89382e17-17d4-476d-9551-3d1a45b72555) (+1 more)
+- **SK Hynix raises $26.5bn in US market debut**
+  - [MarketWatch](https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories), [Financial Times World](https://www.ft.com/content/33133a86-925e-4395-9f60-35e2a4052500), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-07-09/sk-hynix-is-said-to-price-us-share-offering-at-149-apiece-mrdz562z)
 
-- **Apple Supplier Luxshare Drops After $3 Billion Hong Kong Debut**
-  - [CNBC Top News](https://www.cnbc.com/2026/07/09/luxshare-ipo-hong-kong-debut-apple-airpod-.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-07-08/apple-supplier-luxshare-to-trade-after-hk-s-biggest-2026-listing)
+- **Bayer Sells $3.4 Billion Contraceptives Stake to Apollo**
+  - [Financial Times World](https://www.ft.com/content/2ac9c03f-f810-4514-a11e-5802e86c0d12), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-07-10/bayer-sells-3-4-billion-stake-in-contraceptives-arm-to-apollo)
 
-- **Egypt complains officials were biased in World Cup loss to Argentina**
-  - [NPR News](https://www.npr.org/2026/07/09/nx-s1-5887063/egypt-complain-world-cup), [New York Times World](https://www.nytimes.com/2026/07/08/world/africa/egypt-argentina-goal-referee-conspiracy.html)
+- **EasyJet Gets £5.7 Billion Apollo Bid Gatecrashing Castlelake**
+  - [CNBC Top News](https://www.cnbc.com/2026/07/10/easyjet-apollo-takeover-bid-castlelake-share-price.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-07-10/easyjet-gets-rival-offer-from-apollo-that-beats-castlelake-bid)
 
-- **Graham Platner ends Maine Senate campaign after sexual assault allegation**
-  - [BBC World News](https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/jul/08/graham-platner-maine-senate-campaign)
+- **Japan Long Bonds Rise as Katayama Urges More Pension Investment**
+  - [Financial Times World](https://www.ft.com/content/f06e2bec-bab6-4633-a88f-376729fdc914), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-07-10/japan-s-long-bonds-yen-rise-on-push-for-more-gpif-investment)
 
-- **Ukraine to get licence to produce Patriot missiles, Trump says**
-  - [BBC World News](https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/07/08/world/europe/ukraine-nato-zelensky-trump.html)
+- **Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike**
+  - [New York Times World](https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html), [BBC World News](https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss)
 
 
 ---
 
 **Stats**: 5 events
- | 14 articles | 12 distinct source mentions
+ | 11 articles | 11 distinct source mentions
