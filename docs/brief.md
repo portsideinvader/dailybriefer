@@ -1,24 +1,21 @@
-# Morning Brief — 2026-07-10
+# Morning Brief — 2026-07-11
 
-*Generated: 2026-07-10 09:42:00*
+*Generated: 2026-07-11 08:01:57*
 
-- **SK Hynix raises $26.5bn in US market debut**
-  - [MarketWatch](https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories), [Financial Times World](https://www.ft.com/content/33133a86-925e-4395-9f60-35e2a4052500), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-07-09/sk-hynix-is-said-to-price-us-share-offering-at-149-apiece-mrdz562z)
+- **Apple sues OpenAI alleging theft of top-secret information**
+  - [CNBC Top News](https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html), [MarketWatch](https://www.marketwatch.com/story/apple-sues-openai-for-institutional-misconduct-and-alleges-thats-just-the-tip-of-the-iceberg-6e803c4d?mod=mw_rss_topstories), [Financial Times World](https://www.ft.com/content/5054739e-7f97-455c-910a-dd8a8150fed2)
 
-- **Bayer Sells $3.4 Billion Contraceptives Stake to Apollo**
-  - [Financial Times World](https://www.ft.com/content/2ac9c03f-f810-4514-a11e-5802e86c0d12), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-07-10/bayer-sells-3-4-billion-stake-in-contraceptives-arm-to-apollo)
+- **Man Arrested on Suspicion of Murdering Ann Widdecombe, Former U.K. Politician**
+  - [The Guardian World](https://www.theguardian.com/uk-news/live/2026/jul/11/ann-widdecombe-murder-investigation-latest-news-updates), [New York Times World](https://www.nytimes.com/2026/07/10/world/europe/murder-investigation-uk-ann-widdecombe.html)
 
-- **EasyJet Gets £5.7 Billion Apollo Bid Gatecrashing Castlelake**
-  - [CNBC Top News](https://www.cnbc.com/2026/07/10/easyjet-apollo-takeover-bid-castlelake-share-price.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-07-10/easyjet-gets-rival-offer-from-apollo-that-beats-castlelake-bid)
+- **Trump says US has agreed to continue talks with Iran**
+  - [Financial Times World](https://www.ft.com/content/b04aea1d-cd15-4e4e-ac8e-d39be1f542a9), [CNBC Top News](https://www.cnbc.com/2026/07/10/us-iran-war-strikes-strait-of-hormuz-technical-talks-progress-.html)
 
-- **Japan Long Bonds Rise as Katayama Urges More Pension Investment**
-  - [Financial Times World](https://www.ft.com/content/f06e2bec-bab6-4633-a88f-376729fdc914), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-07-10/japan-s-long-bonds-yen-rise-on-push-for-more-gpif-investment)
-
-- **Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike**
-  - [New York Times World](https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html), [BBC World News](https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss)
+- **At Least 12 People Die in Southern Spain Wildfire**
+  - [New York Times World](https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html), [The Guardian World](https://www.theguardian.com/world/2026/jul/10/wildfire-southern-spain-temperatures-almeria-los-gallardos-bedar)
 
 
 ---
 
-**Stats**: 5 events
- | 11 articles | 11 distinct source mentions
+**Stats**: 4 events
+ | 9 articles | 9 distinct source mentions
