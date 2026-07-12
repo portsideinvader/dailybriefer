@@ -1,21 +1,33 @@
-# Morning Brief — 2026-07-11
+# Morning Brief — 2026-07-12
 
-*Generated: 2026-07-11 08:01:57*
+*Generated: 2026-07-12 08:23:26*
 
-- **Apple sues OpenAI alleging theft of top-secret information**
-  - [CNBC Top News](https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html), [MarketWatch](https://www.marketwatch.com/story/apple-sues-openai-for-institutional-misconduct-and-alleges-thats-just-the-tip-of-the-iceberg-6e803c4d?mod=mw_rss_topstories), [Financial Times World](https://www.ft.com/content/5054739e-7f97-455c-910a-dd8a8150fed2)
+- **US Senator Lindsey Graham dies after 'brief and sudden illness', his office says**
+  - [BBC World News](https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2026/07/12/nx-s1-5890790/us-sen-lindsey-graham-dies), [The Guardian World](https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-key-ally-of-donald-trump-has-died-after-sudden-illness-his-office-says)
 
-- **Man Arrested on Suspicion of Murdering Ann Widdecombe, Former U.K. Politician**
-  - [The Guardian World](https://www.theguardian.com/uk-news/live/2026/jul/11/ann-widdecombe-murder-investigation-latest-news-updates), [New York Times World](https://www.nytimes.com/2026/07/10/world/europe/murder-investigation-uk-ann-widdecombe.html)
+- **US launches fresh strikes as Iran closes Strait of Hormuz**
+  - [BBC World News](https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed), [New York Times World](https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html)
 
-- **Trump says US has agreed to continue talks with Iran**
-  - [Financial Times World](https://www.ft.com/content/b04aea1d-cd15-4e4e-ac8e-d39be1f542a9), [CNBC Top News](https://www.cnbc.com/2026/07/10/us-iran-war-strikes-strait-of-hormuz-technical-talks-progress-.html)
+- **Justice Department subpoenas New York Times reporters over Air Force One reporting**
+  - [NPR News](https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting), [BBC World News](https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/jul/11/justice-department-subpoenas-new-york-times-air-force-one)
 
-- **At Least 12 People Die in Southern Spain Wildfire**
-  - [New York Times World](https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html), [The Guardian World](https://www.theguardian.com/world/2026/jul/10/wildfire-southern-spain-temperatures-almeria-los-gallardos-bedar)
+- **US launches fresh strikes after Tehran declares Strait of Hormuz closed**
+  - [CNBC Top News](https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html), [Financial Times World](https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d)
+
+- **At least two killed in Toronto street festival shooting**
+  - [The Guardian World](https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter), [BBC World News](https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss)
+
+- **England and Norway Resurrect a Rivalry for the World Cup**
+  - [New York Times World](https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html), [NPR News](https://www.npr.org/2026/07/11/nx-s1-5890169/2026-world-cup-fifa-england-norway-quarterfinal)
+
+- **US Democrat Ro Khanna says he was detained by armed Israeli settlers**
+  - [BBC World News](https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/jul/11/ro-khanna-congressman-detained-israel-settlers-west-bank)
+
+- **15 Killed as Speedboat Capsizes in Vietnam**
+  - [New York Times World](https://www.nytimes.com/2026/07/11/world/asia/vietnam-speedboat-tourists-capsize.html), [BBC World News](https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss)
 
 
 ---
 
-**Stats**: 4 events
- | 9 articles | 9 distinct source mentions
+**Stats**: 8 events
+ | 19 articles | 19 distinct source mentions
