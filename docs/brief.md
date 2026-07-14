@@ -1,24 +1,27 @@
-# Morning Brief — 2026-07-13
+# Morning Brief — 2026-07-14
 
-*Generated: 2026-07-13 09:34:51*
+*Generated: 2026-07-14 08:14:30*
 
-- **Sfakianakis: Iran Tests US Resolve in Hormuz**
-  - [CNBC Top News](https://www.cnbc.com/2026/07/13/us-iran-war-hormuz-oil-trump.html), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-07-13/sfakianakis-iran-tests-us-resolve-in-hormuz-video), [Financial Times World](https://www.ft.com/content/c5beec47-ba53-412e-910e-6b9ab2f3238d), [CNBC Top News](https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html)
+- **Trump Reimposes Naval Blockade, as U.S. and Iran Escalate Strikes**
+  - [The Guardian World](https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news), [The Guardian World](https://www.theguardian.com/world/2026/jul/13/us-launches-third-night-of-strikes-on-iran-as-trump-announces-hormuz-blockade), [New York Times World](https://www.nytimes.com/2026/07/13/world/middleeast/trump-iran-naval-blockade-strikes.html), [NPR News](https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates)
 
-- **Fire in Bangkok Bar Leaves at Least 27 Dead**
-  - [The Guardian World](https://www.theguardian.com/world/2026/jul/12/at-least-27-killed-in-blaze-at-bangkok-pub-thai-officials-say), [BBC World News](https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/07/12/world/asia/deadly-fire-bangkok-thailand.html)
+- **Death toll from Bangkok bar fire rises to 30 as police probe safety lapses**
+  - [NPR News](https://www.npr.org/2026/07/14/g-s1-133425/death-toll-bangkok-fire), [The Guardian World](https://www.theguardian.com/world/2026/jul/14/bangkok-bar-pub-fire-death-toll-thailand), [BBC World News](https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss)
 
-- **Mitch McConnell reveals fall led to hospitalization after weeks of silence**
-  - [NPR News](https://www.npr.org/2026/07/13/nx-s1-5891492/mcconnell-fall-hospitalization), [The Guardian World](https://www.theguardian.com/us-news/2026/jul/12/mitch-mcconnell-hospitalization-fall)
+- **Oil Advances Above $85 on Hormuz Tensions**
+  - [Financial Times World](https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-07-14/oil-advances-above-85-on-hormuz-tensions-video)
 
-- **Lindsey Graham, key ally of Donald Trump, dies after sudden illness aged 71**
-  - [BBC World News](https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-key-ally-of-donald-trump-has-died-after-sudden-illness-his-office-says)
+- **Trump Reinstates Iran Blockade, Plans Hormuz Ship Fee**
+  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-07-14/trump-reinstates-iran-blockade-plans-hormuz-ship-fee-video), [CNBC Top News](https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-07-13/latest-oil-market-news-and-analysis-for-july-14)
 
-- **Sheikh Hamad bin Khalifa, Ruler Who Transformed Qatar, Dies at 74**
-  - [New York Times World](https://www.nytimes.com/2026/07/12/world/middleeast/sheikh-hamad-bin-khalifa-qatar-dead.html), [BBC World News](https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss)
+- **What to Expect From Wall Street Banks Earnings**
+  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-07-14/what-to-expect-from-wall-street-banks-earnings-video), [Financial Times World](https://www.ft.com/content/7436b5d2-10f9-48a5-b023-fa8e549ab53d)
+
+- **At least 28 killed, 25 critically injured after fire engulfs Bangkok bar**
+  - [BBC World News](https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/jul/12/at-least-27-killed-in-blaze-at-bangkok-pub-thai-officials-say)
 
 
 ---
 
-**Stats**: 5 events
- | 13 articles | 12 distinct source mentions
+**Stats**: 6 events
+ | 16 articles | 14 distinct source mentions
