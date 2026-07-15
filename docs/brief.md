@@ -1,27 +1,24 @@
-# Morning Brief — 2026-07-14
+# Morning Brief — 2026-07-15
 
-*Generated: 2026-07-14 08:14:30*
+*Generated: 2026-07-15 08:20:50*
 
-- **Trump Reimposes Naval Blockade, as U.S. and Iran Escalate Strikes**
-  - [The Guardian World](https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news), [The Guardian World](https://www.theguardian.com/world/2026/jul/13/us-launches-third-night-of-strikes-on-iran-as-trump-announces-hormuz-blockade), [New York Times World](https://www.nytimes.com/2026/07/13/world/middleeast/trump-iran-naval-blockade-strikes.html), [NPR News](https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates)
+- **Singapore court orders Bloomberg to pay ministers $356,000 in defamation case**
+  - [The Guardian World](https://www.theguardian.com/world/2026/jul/15/bloomberg-singapore-defamation-case), [BBC World News](https://www.bbc.co.uk/news/articles/cx232p85lp5o?at_medium=RSS&at_campaign=rss)
 
-- **Death toll from Bangkok bar fire rises to 30 as police probe safety lapses**
-  - [NPR News](https://www.npr.org/2026/07/14/g-s1-133425/death-toll-bangkok-fire), [The Guardian World](https://www.theguardian.com/world/2026/jul/14/bangkok-bar-pub-fire-death-toll-thailand), [BBC World News](https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss)
+- **Seven Britons among those killed in Spain wildfires**
+  - [BBC World News](https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/jul/14/seven-britons-among-12-foreign-nationals-killed-in-spains-deadly-wildfires)
 
-- **Oil Advances Above $85 on Hormuz Tensions**
-  - [Financial Times World](https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498), [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-07-14/oil-advances-above-85-on-hormuz-tensions-video)
+- **U.S. and Iran Reignite War Over Strait of Hormuz**
+  - [BBC World News](https://www.bbc.co.uk/news/videos/cx2425dmpl3o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz)
 
-- **Trump Reinstates Iran Blockade, Plans Hormuz Ship Fee**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-07-14/trump-reinstates-iran-blockade-plans-hormuz-ship-fee-video), [CNBC Top News](https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-07-13/latest-oil-market-news-and-analysis-for-july-14)
+- **Israel Strikes Police Post, Killing 7, Gaza Officials Say**
+  - [New York Times World](https://www.nytimes.com/2026/07/14/world/middleeast/israel-strikes-gaza-police-force-hamas.html), [BBC World News](https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss)
 
-- **What to Expect From Wall Street Banks Earnings**
-  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-07-14/what-to-expect-from-wall-street-banks-earnings-video), [Financial Times World](https://www.ft.com/content/7436b5d2-10f9-48a5-b023-fa8e549ab53d)
-
-- **At least 28 killed, 25 critically injured after fire engulfs Bangkok bar**
-  - [BBC World News](https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/jul/12/at-least-27-killed-in-blaze-at-bangkok-pub-thai-officials-say)
+- **Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation**
+  - [NPR News](https://www.npr.org/2026/07/14/nx-s1-5893598/e-jean-carroll-trump-sexual-abuse-defamation), [BBC World News](https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss)
 
 
 ---
 
-**Stats**: 6 events
- | 16 articles | 14 distinct source mentions
+**Stats**: 5 events
+ | 10 articles | 10 distinct source mentions
