@@ -1,24 +1,21 @@
-# Morning Brief — 2026-07-15
+# Morning Brief — 2026-07-16
 
-*Generated: 2026-07-15 08:20:50*
+*Generated: 2026-07-16 08:19:59*
 
-- **Singapore court orders Bloomberg to pay ministers $356,000 in defamation case**
-  - [The Guardian World](https://www.theguardian.com/world/2026/jul/15/bloomberg-singapore-defamation-case), [BBC World News](https://www.bbc.co.uk/news/articles/cx232p85lp5o?at_medium=RSS&at_campaign=rss)
+- **UK economy grew 0.1% in May**
+  - [Financial Times World](https://www.ft.com/content/ab436c8d-6d21-466a-8337-3a7467c9aff8), [Bloomberg Markets](https://www.bloomberg.com/news/live-blog/2026-07-16/ftse-100-live-uk-gdp-iip-pound-gilts-mahmood-burnham-hormuz-oil-prices-iran-war-what-s-moving-uk-markets-right-now-markets-today)
 
-- **Seven Britons among those killed in Spain wildfires**
-  - [BBC World News](https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/jul/14/seven-britons-among-12-foreign-nationals-killed-in-spains-deadly-wildfires)
+- **Five arrested after Hong Kong police raid independent bookshops**
+  - [New York Times World](https://www.nytimes.com/2026/07/16/world/asia/hong-kong-bookstore-arrest-china.html), [BBC World News](https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&at_campaign=rss)
 
-- **U.S. and Iran Reignite War Over Strait of Hormuz**
-  - [BBC World News](https://www.bbc.co.uk/news/videos/cx2425dmpl3o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz)
+- **For Argentina, a World Cup Semifinal Against England Isn’t Just Soccer**
+  - [New York Times World](https://www.nytimes.com/2026/07/15/world/americas/argentina-england-rivalry-world-cup.html), [NPR News](https://www.npr.org/2026/07/15/nx-s1-5893686/old-rivals-new-battle-argentina-and-england-clash-in-world-cup-semifinal)
 
-- **Israel Strikes Police Post, Killing 7, Gaza Officials Say**
-  - [New York Times World](https://www.nytimes.com/2026/07/14/world/middleeast/israel-strikes-gaza-police-force-hamas.html), [BBC World News](https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss)
-
-- **Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation**
-  - [NPR News](https://www.npr.org/2026/07/14/nx-s1-5893598/e-jean-carroll-trump-sexual-abuse-defamation), [BBC World News](https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss)
+- **Venezuela government to launch formal talks with opposition members**
+  - [BBC World News](https://www.bbc.co.uk/news/articles/c1eye5320g5o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/jul/15/venezuela-interim-government-opposition-talks-democracy-maria-corina-machado)
 
 
 ---
 
-**Stats**: 5 events
- | 10 articles | 10 distinct source mentions
+**Stats**: 4 events
+ | 8 articles | 8 distinct source mentions
