@@ -1,21 +1,18 @@
-# Morning Brief — 2026-07-25
+# Morning Brief — 2026-07-26
 
-*Generated: 2026-07-25 08:11:24*
+*Generated: 2026-07-26 08:31:36*
 
-- **ICC member states vote to remove chief prosecutor Karim Khan**
-  - [New York Times World](https://www.nytimes.com/2026/07/24/world/europe/karim-khan-icc.html), [NPR News](https://www.npr.org/2026/07/24/g-s1-135498/icc-court-prosecutor-karim-khan-vote), [BBC World News](https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss)
+- **France and Spain fires force more than 200,000 to flee homes**
+  - [The Guardian World](https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations), [NPR News](https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations)
 
-- **Trump vows to investigate EU over fining of US tech companies**
-  - [The Guardian World](https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs), [BBC World News](https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss)
+- **India’s Education Minister Steps Down in Victory for Cockroach Party Protesters**
+  - [New York Times World](https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html), [The Guardian World](https://www.theguardian.com/world/2026/jul/25/dharmendra-pradhan-india-education-minister-resigns-cockroach-movement)
 
-- **Trump threatens new EU tariffs in retaliation for fines on US tech groups**
-  - [CNBC Top News](https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html), [Financial Times World](https://www.ft.com/content/9b819dfc-8248-4aa5-b670-3a14d05f252e?syn-25a6b1a6=1)
-
-- **Prominent Indian Activist Breaks Hunger Strike After 26 Days**
-  - [New York Times World](https://www.nytimes.com/2026/07/23/world/asia/sonam-wangchuk-india-hunger-strike-protests-modi.html), [The Guardian World](https://www.theguardian.com/world/2026/jul/24/india-cockroach-protest-sonam-wangchuk-ends-hunger-strike)
+- **Over 250,000 People Flee Wildfires Ravaging France and Spain**
+  - [Financial Times World](https://www.ft.com/content/6e1d4a14-b7ad-4a36-86d9-3990497272a3?syn-25a6b1a6=1), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-07-25/bordeaux-suburbs-at-risk-as-200-000-flee-fires-in-france-spain)
 
 
 ---
 
-**Stats**: 4 events
- | 9 articles | 9 distinct source mentions
+**Stats**: 3 events
+ | 6 articles | 6 distinct source mentions
