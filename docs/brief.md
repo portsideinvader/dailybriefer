@@ -1,18 +1,15 @@
-# Morning Brief — 2026-07-26
+# Morning Brief — 2026-07-27
 
-*Generated: 2026-07-26 08:31:36*
+*Generated: 2026-07-27 09:58:13*
 
-- **France and Spain fires force more than 200,000 to flee homes**
-  - [The Guardian World](https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations), [NPR News](https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations)
+- **Chinese chip champion CXMT soars 466% in market debut**
+  - [MarketWatch](https://www.marketwatch.com/story/fivefold-increase-for-chinese-chip-maker-cxmt-in-shanghai-debut-2861827e?mod=mw_rss_topstories), [Financial Times World](https://www.ft.com/content/8e82e939-908b-42bf-a314-0bb02a3f1b07?syn-25a6b1a6=1)
 
-- **India’s Education Minister Steps Down in Victory for Cockroach Party Protesters**
-  - [New York Times World](https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html), [The Guardian World](https://www.theguardian.com/world/2026/jul/25/dharmendra-pradhan-india-education-minister-resigns-cockroach-movement)
-
-- **Over 250,000 People Flee Wildfires Ravaging France and Spain**
-  - [Financial Times World](https://www.ft.com/content/6e1d4a14-b7ad-4a36-86d9-3990497272a3?syn-25a6b1a6=1), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-07-25/bordeaux-suburbs-at-risk-as-200-000-flee-fires-in-france-spain)
+- **What we know so far about the Berlin Pride ramming attack**
+  - [BBC World News](https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html)
 
 
 ---
 
-**Stats**: 3 events
- | 6 articles | 6 distinct source mentions
+**Stats**: 2 events
+ | 4 articles | 4 distinct source mentions
