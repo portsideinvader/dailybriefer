@@ -1,21 +1,24 @@
-# Morning Brief — 2026-08-01
+# Morning Brief — 2026-08-02
 
-*Generated: 2026-08-01 08:26:06*
+*Generated: 2026-08-02 08:28:46*
 
-- **Thousands of Migrants Enter Ceuta, a Spanish Enclave, From Morocco**
-  - [New York Times World](https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco), [BBC World News](https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/07/30/world/europe/spain-morocco-ceuta-migrants.html)
+- **Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says**
+  - [BBC World News](https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche), [New York Times World](https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html), [The Guardian World](https://www.theguardian.com/world/2026/aug/01/top-mountaineer-nirmal-purja-confirmed-dead-after-11-hit-by-avalanche-in-pakistan)
 
-- **Search Continues for 6 Climbers After Pakistan Avalanche**
-  - [BBC World News](https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/08/01/world/asia/pakistan-avalanche-climbers-purja.html)
+- **Trump says he's cancelling Iran strikes, deal pending**
+  - [NPR News](https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending), [New York Times World](https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html), [BBC World News](https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss)
 
-- **Fifa scraps controversial World Cup investment plan**
-  - [BBC World News](https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino)
+- **Tourist plane crashes in Peru, killing 13**
+  - [New York Times World](https://www.nytimes.com/2026/08/01/world/americas/peru-tourist-plane-crash-nazca.html), [BBC World News](https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines)
 
-- **US Treasury undertakes historic intervention in yen market**
-  - [Financial Times World](https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8?syn-25a6b1a6=1), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-07-31/yen-s-intervention-rally-stalls-as-traders-alert-for-more-action)
+- **The Sopranos star Vincent Pastore dies aged 80**
+  - [BBC World News](https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/aug/01/sopranos-actor-vincent-pastore-dead-80), [NPR News](https://www.npr.org/2026/08/01/nx-s1-5916418/vincent-pastore-sopranos-obit)
+
+- **Trump Says US to Hold Off Iran Attack If Rapid Deal Gets Agreed**
+  - [CNBC Top News](https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-to-cancel-iran-attack-subject-to-a-rapid-deal)
 
 
 ---
 
-**Stats**: 4 events
- | 9 articles | 8 distinct source mentions
+**Stats**: 5 events
+ | 15 articles | 15 distinct source mentions
