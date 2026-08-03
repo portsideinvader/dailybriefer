@@ -1,24 +1,21 @@
-# Morning Brief — 2026-08-02
+# Morning Brief — 2026-08-03
 
-*Generated: 2026-08-02 08:28:46*
+*Generated: 2026-08-03 09:53:10*
 
-- **Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says**
-  - [BBC World News](https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche), [New York Times World](https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html), [The Guardian World](https://www.theguardian.com/world/2026/aug/01/top-mountaineer-nirmal-purja-confirmed-dead-after-11-hit-by-avalanche-in-pakistan)
+- **Japan vows further yen intervention with US if needed**
+  - [Financial Times World](https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1), [CNBC Top News](https://www.cnbc.com/2026/08/03/yen-intervention-us-japan-trump-bessent-katayama.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-08-02/yen-traders-brace-for-more-intervention-with-us-at-japan-s-side)
 
-- **Trump says he's cancelling Iran strikes, deal pending**
-  - [NPR News](https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending), [New York Times World](https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html), [BBC World News](https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss)
+- **Why the US Is Stepping In to Prop Up Japan’s Yen**
+  - [Bloomberg Markets](https://www.bloomberg.com/news/videos/2026-08-03/why-the-us-is-stepping-in-to-prop-up-japan-s-yen-video), [CNBC Top News](https://www.cnbc.com/2026/08/03/japan-yen-intervention-us-treasurys-euros-.html)
 
-- **Tourist plane crashes in Peru, killing 13**
-  - [New York Times World](https://www.nytimes.com/2026/08/01/world/americas/peru-tourist-plane-crash-nazca.html), [BBC World News](https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines)
+- **2 Killed as Firefighting Helicopters Collide in Greece**
+  - [New York Times World](https://www.nytimes.com/2026/08/03/world/europe/greece-fire-helicopter-crash-firefighters.html), [BBC World News](https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss)
 
-- **The Sopranos star Vincent Pastore dies aged 80**
-  - [BBC World News](https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/aug/01/sopranos-actor-vincent-pastore-dead-80), [NPR News](https://www.npr.org/2026/08/01/nx-s1-5916418/vincent-pastore-sopranos-obit)
-
-- **Trump Says US to Hold Off Iran Attack If Rapid Deal Gets Agreed**
-  - [CNBC Top News](https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-to-cancel-iran-attack-subject-to-a-rapid-deal)
+- **Todd Blanche rescinds Trump's 'anti-weaponization fund' ahead of nomination hearing**
+  - [NPR News](https://www.npr.org/2026/08/03/g-s1-136864/todd-blanche-rescinds-trump-anti-weaponization-fund), [The Guardian World](https://www.theguardian.com/us-news/2026/aug/03/blanche-formally-rescinds-trumps-18bn-anti-weaponization-fund-ahead-of-nomination-hearing)
 
 
 ---
 
-**Stats**: 5 events
- | 15 articles | 15 distinct source mentions
+**Stats**: 4 events
+ | 9 articles | 9 distinct source mentions
