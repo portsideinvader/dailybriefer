@@ -1,24 +1,18 @@
-# Morning Brief — 2026-08-05
+# Morning Brief — 2026-08-06
 
-*Generated: 2026-08-05 08:41:28*
+*Generated: 2026-08-06 08:42:53*
 
-- **FirstFT: SpaceX’s AI spending plans rattle investors**
-  - [Financial Times World](https://www.ft.com/content/41f7963b-dd50-4f27-a085-771ddec4a8ca?syn-25a6b1a6=1), [CNBC Top News](https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html), [Financial Times World](https://www.ft.com/content/30e02828-a59e-4121-8956-8cb1c29742d6?syn-25a6b1a6=1)
+- **Iran says deal with Oman on Strait of Hormuz is in final stages**
+  - [The Guardian World](https://www.theguardian.com/world/live/2026/aug/06/iran-oman-strait-of-hormuz-yemen-houthis-israel-lebanon-gaza-us-donald-trump-middle-east-crisis-live-news), [BBC World News](https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/08/05/world/middleeast/iran-oman-strait-of-hormuz.html)
 
-- **Novo Underwhelms Investors With Soft Wegovy Pill Sales**
-  - [CNBC Top News](https://www.cnbc.com/2026/08/05/novo-nordisk-stock-guidance-earnings-wegovy-ozempic-eli-lilly.html), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-08-04/novo-nordisk-boosts-forecast-on-soaring-glp-1-sales)
+- **Meta says AI model accessed the internet and hacked another firm**
+  - [BBC World News](https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/technology/2026/aug/05/meta-ai-model-hack-training)
 
-- **Armed man arrested at Trump’s California golf course**
-  - [The Guardian World](https://www.theguardian.com/us-news/2026/aug/04/man-arrested-trump-california-golf-course), [BBC World News](https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss)
-
-- **More than 170 migrants rescued after boat catches fire in Channel**
-  - [BBC World News](https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/08/04/world/europe/english-channel-migrants-rescue.html)
-
-- **Mass funeral held in Gaza for victims of 2023 Israeli strike**
-  - [The Guardian World](https://www.theguardian.com/world/2026/aug/04/mass-funeral-gaza-victims-2023-israeli-strike), [BBC World News](https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss)
+- **Drone carrying explosives found at German airport, police say**
+  - [NPR News](https://www.npr.org/2026/08/06/g-s1-137571/germany-drone-explosives-airport), [BBC World News](https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss)
 
 
 ---
 
-**Stats**: 5 events
- | 11 articles | 10 distinct source mentions
+**Stats**: 3 events
+ | 7 articles | 7 distinct source mentions
