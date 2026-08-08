@@ -1,18 +1,18 @@
-# Morning Brief — 2026-08-07
+# Morning Brief — 2026-08-08
 
-*Generated: 2026-08-07 07:21:28*
+*Generated: 2026-08-08 06:59:03*
 
-- **New Mexico court orders Meta to pay $567m over harms to children’s mental health**
-  - [NPR News](https://www.npr.org/2026/08/07/nx-s1-5924581/court-orders-instagram-and-facebooks-meta-to-pay-567m-to-address-kids-mental-health-online), [The Guardian World](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
+- **Trump revives effort to fire Fed's Lisa Cook**
+  - [MarketWatch](https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories), [Financial Times World](https://www.ft.com/content/0012c7c9-fb31-4c90-a2e7-e65bd4629b22?syn-25a6b1a6=1), [CNBC Top News](https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html)
 
-- **Sweetgreen cuts full-year outlook as cyclospora fears weigh on sales**
-  - [MarketWatch](https://www.marketwatch.com/story/sweetgreen-recalls-jalapenos-details-how-cyclospora-outbreak-will-weigh-on-sales-c52435bf?mod=mw_rss_topstories), [CNBC Top News](https://www.cnbc.com/2026/08/06/sweetgreen-cuts-full-year-outlook-as-cyclospora-fears-weigh-on-sales.html)
+- **US economy unexpectedly sheds 23,000 jobs in July**
+  - [Financial Times World](https://www.ft.com/content/54adfc90-f555-44d3-8a81-4f39a07b5473?syn-25a6b1a6=1), [CNBC Top News](https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html)
 
-- **Israel charges West Bank settler over death of renowned Palestinian activist**
-  - [BBC World News](https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/aug/06/israel-charges-west-bank-settler-killing-palestinian-activist-awdah-hathaleen)
+- **Saudi Arabia, Turkey and Pakistan sign defence pact**
+  - [BBC World News](https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss), [New York Times World](https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html)
 
 
 ---
 
 **Stats**: 3 events
- | 6 articles | 6 distinct source mentions
+ | 7 articles | 7 distinct source mentions
