@@ -1,9 +1,9 @@
-# Morning Brief — 2026-08-25
+# Morning Brief — 2026-08-26
 
-*Generated: 2026-08-25 06:54:16*
+*Generated: 2026-08-26 06:55:11*
 
-- **Trump says US to increase tariffs on Canadian cars to 50%**
-  - [Financial Times World](https://www.ft.com/content/52978bad-2b91-41e3-be94-7fb6776fbb91?syn-25a6b1a6=1), [CNBC Top News](https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html)
+- **Lindsey Graham’s sister wins South Carolina primary with Trump backing**
+  - [Financial Times World](https://www.ft.com/content/5bd905f6-5460-4e76-890f-20746a4c16a8?syn-25a6b1a6=1), [CNBC Top News](https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html)
 
 
 ---
