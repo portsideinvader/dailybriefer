@@ -1,15 +1,12 @@
-# Morning Brief — 2026-08-29
+# Morning Brief — 2026-08-30
 
-*Generated: 2026-08-29 12:30:35*
+*Generated: 2026-08-30 11:34:45*
 
-- **Russian strike on warehouse near Kyiv kills at least 37**
-  - [BBC World News](https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/world/2026/aug/29/russian-strike-warehouse-near-kyiv-kills-at-least-37)
-
-- **Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil**
-  - [BBC World News](https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss), [NPR News](https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves)
+- **Right-wing commentator Milo Yiannopoulos deported from US to UK**
+  - [NPR News](https://www.npr.org/2026/08/29/nx-s1-5948731/milo-yiannopoulos-arrested-overstaying-us-visa), [BBC World News](https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/us-news/2026/aug/29/milo-yiannopoulos-deported-us-to-uk)
 
 
 ---
 
-**Stats**: 2 events
- | 4 articles | 4 distinct source mentions
+**Stats**: 1 events
+ | 3 articles | 3 distinct source mentions
