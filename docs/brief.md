@@ -1,12 +1,12 @@
-# Morning Brief — 2026-09-03
+# Morning Brief — 2026-09-04
 
-*Generated: 2026-09-03 10:55:37*
+*Generated: 2026-09-04 10:55:29*
 
-- **Feminist activist and journalist Gloria Steinem dies at 92**
-  - [BBC World News](https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss), [The Guardian World](https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92)
+- **Volkswagen board approves plan to cut another 50,000 jobs**
+  - [The Guardian World](https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030), [BBC World News](https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss)
 
-- **Elliott Builds Deutsche Telekom Stake, Opposes T-Mobile Deal**
-  - [Financial Times World](https://www.ft.com/content/16034441-608c-42de-90ff-1a2b7607fc79?syn-25a6b1a6=1), [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-09-02/elliott-builds-deutsche-telekom-stake-opposes-t-mobile-merger)
+- **Watch: Moment workers are rescued from Nepal tunnel**
+  - [New York Times World](https://www.nytimes.com/2026/09/04/world/asia/nepal-floods-rescue-tunnel-worker.html), [BBC World News](https://www.bbc.co.uk/news/videos/cnvl5e6vy8eo?at_medium=RSS&at_campaign=rss)
 
 
 ---
